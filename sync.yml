@@ -1,0 +1,54 @@
+name: "⚽ Atualizar Calendário Copa 2026"
+
+on:
+  # Roda a cada 30 minutos durante toda a janela do torneio
+  schedule:
+    - cron: "*/30 * * * *"
+
+  # Roda sempre que um push é feito na branch main (ex.: ajustes manuais)
+  push:
+    branches: [main]
+
+  # Permite rodar manualmente pelo painel do GitHub Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write   # necessário para o git push de volta
+
+jobs:
+  sync:
+    name: Sincronizar resultados e regenerar .ics
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout completo do repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. Python 3.12
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3. Sincronizar resultados e regenerar os .ics
+      - name: Sincronizar
+        run: python3 sync.py
+
+      # 4. Commit + push apenas se algo mudou
+      - name: Commit automático (só se houver mudança)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin \
+            https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+
+          git add copa_2026_icalendar.ics copa_2026_outlook.ics data/data.json
+
+          # só commita se houver diferença staged
+          git diff --staged --quiet && echo "Sem mudancas." || (
+            git commit -m "Auto: $(date -u '+%Y-%m-%d %H:%M UTC') — resultados atualizados" &&
+            git push
+          )
