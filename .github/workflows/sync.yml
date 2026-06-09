@@ -27,7 +27,7 @@ jobs:
           python-version: "3.12"
 
       - name: Preencher planteis (so se vazios)
-        run: python3 fetch_squads.py
+        run: python3 populate_squads.py && python3 fetch_squads.py
 
       - name: Sincronizar resultados
         run: python3 sync.py
