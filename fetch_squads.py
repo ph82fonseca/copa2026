@@ -1,154 +1,521 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-fetch_squads.py — Copa do Mundo FIFA 2026
-Busca os 26 convocados oficiais (número, posição, clube) de todas as 48
-seleções em worldcupranking.com (espelho da lista FIFA publicada em 03-06-2026)
-e atualiza data/data.json.
-
-Roda automaticamente pelo GitHub Actions na primeira execução ou sempre que
-uma seleção ainda não tiver plantel preenchido. Pode ser re-executado manualmente
-para atualizar substituições por lesão (basta apagar o plantel da seleção no
-data.json e rodar de novo).
+populate_squads.py — Copa do Mundo FIFA 2026
+Escreve os 26 convocados oficiais de TODAS as 48 seleções no data.json.
+Fonte: lista oficial FIFA publicada em 03-06-2026 via worldcupranking.com.
+Não precisa de acesso à internet — dados hardcoded.
 """
-
-import json
-import os
-import re
-import subprocess
-import sys
-import time
-import urllib.request
-import urllib.error
-
+import json, os, subprocess, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
-DATA_PATH = os.path.join(HERE, "data", "data.json")
-BASE_URL = "https://worldcupranking.com/world-cup-2026/squads/{slug}/"
-
-# Mapeamento: sigla FIFA -> slug do worldcupranking.com
-SLUG = {
-    "MEX": "mexico",          "RSA": "south-africa",     "KOR": "south-korea",
-    "CZE": "czech-republic",  "CAN": "canada",            "BIH": "bosnia-and-herzegovina",
-    "BRA": "brazil",          "MAR": "morocco",           "HAI": "haiti",
-    "SCO": "scotland",        "USA": "united-states",     "PAR": "paraguay",
-    "AUS": "australia",       "TUR": "turkey",            "GER": "germany",
-    "CUW": "curacao",         "CIV": "ivory-coast",       "ECU": "ecuador",
-    "NED": "netherlands",     "JPN": "japan",             "SWE": "sweden",
-    "TUN": "tunisia",         "BEL": "belgium",           "EGY": "egypt",
-    "IRN": "iran",            "NZL": "new-zealand",       "ESP": "spain",
-    "URU": "uruguay",         "KSA": "saudi-arabia",      "CPV": "cape-verde",
-    "FRA": "france",          "SEN": "senegal",           "NOR": "norway",
-    "IRQ": "iraq",            "ARG": "argentina",         "ALG": "algeria",
-    "AUT": "austria",         "JOR": "jordan",            "POR": "portugal",
-    "COD": "dr-congo",        "UZB": "uzbekistan",        "COL": "colombia",
-    "ENG": "england",         "CRO": "croatia",           "GHA": "ghana",
-    "PAN": "panama",          "QAT": "qatar",             "SUI": "switzerland",
+DATA = os.path.join(HERE, "data", "data.json")
+POS = {"GK":"GOL","DF":"DEF","MF":"MEI","FW":"ATA"}
+def p(n,pos,name): return {"n":n,"pos":POS[pos],"name":name}
+SQUADS = {
+# ────── GRUPO A ──────
+"MEX":{"coach":"Javier Aguirre","formation":"4-3-3","squad":[
+p(1,"GK","R. Rangel"),p(2,"DF","J. Sánchez"),p(3,"DF","C. Montes"),
+p(4,"DF","E. Álvarez"),p(5,"DF","J. Vásquez"),p(6,"MF","E. Lira"),
+p(7,"MF","L. Romo"),p(8,"MF","Fidalgo"),p(9,"FW","Raúl Jiménez"),
+p(10,"FW","A. Vega"),p(11,"FW","Santiago Giménez"),p(12,"GK","C. Acevedo"),
+p(13,"GK","G. Ochoa"),p(14,"FW","A. González"),p(15,"DF","I. Reyes"),
+p(16,"FW","J. Quiñones"),p(17,"MF","Orbelín"),p(18,"MF","O. Vargas"),
+p(19,"MF","G. Mora"),p(20,"DF","M. Chávez"),p(21,"FW","C. Huerta"),
+p(22,"FW","G. Martínez"),p(23,"DF","J. Gallardo"),p(24,"MF","L. Chávez"),
+p(25,"FW","R. Alvarado"),p(26,"MF","B. Gutiérrez")]},
+"RSA":{"coach":"Hugo Broos","formation":"4-4-2","squad":[
+p(1,"GK","Williams"),p(2,"DF","Matuludi"),p(3,"DF","Ndamane"),
+p(4,"MF","Mokoena"),p(5,"MF","Mbatha"),p(6,"DF","Modiba"),
+p(7,"FW","Appollis"),p(8,"FW","Moremi"),p(9,"FW","Foster"),
+p(10,"FW","Mofokeng"),p(11,"MF","Zwane"),p(12,"FW","Maseko"),
+p(13,"MF","Sithole"),p(14,"DF","Mbokazi"),p(15,"FW","Rayners"),
+p(16,"GK","Chaine"),p(17,"FW","Makgopa"),p(18,"DF","Kabini"),
+p(19,"DF","Sibisi"),p(20,"DF","Mudau"),p(21,"DF","Okon"),
+p(22,"GK","Goss"),p(23,"MF","Adams"),p(24,"DF","Makhanya"),
+p(25,"FW","Sebelebele"),p(26,"DF","Cross")]},
+"KOR":{"coach":"Hong Myung-bo","formation":"4-3-3","squad":[
+p(1,"GK","Kim Seung-gyu"),p(2,"DF","Hanbeom"),p(3,"MF","Gihyuk"),
+p(4,"DF","Kim Min-jae"),p(5,"DF","Taehyeon"),p(6,"MF","Inbeom"),
+p(7,"FW","Son Heung-min"),p(8,"MF","Seungho"),p(9,"FW","Guseung"),
+p(10,"MF","Jaesung"),p(11,"MF","Heechan"),p(12,"GK","Bumkeun"),
+p(13,"DF","Taeseok"),p(14,"DF","Wije"),p(15,"DF","Moonhwan"),
+p(16,"DF","Jinseob"),p(17,"MF","Junho"),p(18,"FW","Hyeongyu"),
+p(19,"MF","Lee Kang-in"),p(20,"MF","Hyunjun"),p(21,"GK","Hyeonwoo"),
+p(22,"DF","Youngwoo"),p(23,"DF","Jens"),p(24,"MF","Jingyu"),
+p(25,"MF","Jisung"),p(26,"MF","Donggyeong")]},
+"CZE":{"coach":"Miroslav Koubek","formation":"4-2-3-1","squad":[
+p(1,"GK","Kovár"),p(2,"DF","Zima"),p(3,"DF","Holes"),
+p(4,"DF","Hranáč"),p(5,"DF","Coufal"),p(6,"DF","Chaloupek"),
+p(7,"DF","Krejčí"),p(8,"MF","Darida"),p(9,"FW","Hlozek"),
+p(10,"FW","Patrik Schick"),p(11,"FW","Kuchta"),p(12,"MF","Cerv"),
+p(13,"FW","Chytil"),p(14,"DF","Jurásek"),p(15,"FW","Šulc"),
+p(16,"GK","Staněk"),p(17,"MF","Provod"),p(18,"MF","Sadílek"),
+p(19,"FW","Chorý"),p(20,"DF","Zelený"),p(21,"DF","Doudera"),
+p(22,"MF","Tomáš Souček"),p(23,"GK","Horníček"),p(24,"MF","Sojka"),
+p(25,"MF","Sochurek"),p(26,"FW","Visínský")]},
+# ────── GRUPO B ──────
+"CAN":{"coach":"Jesse Marsch","formation":"4-3-3","squad":[
+p(1,"GK","St. Clair"),p(2,"DF","Johnston"),p(3,"DF","Jones"),
+p(4,"DF","De Fougerolles"),p(5,"DF","Waterman"),p(6,"MF","Choinière"),
+p(7,"MF","Eustáquio"),p(8,"MF","Koné"),p(9,"FW","Larin"),
+p(10,"FW","Jonathan David"),p(11,"MF","Millar"),p(12,"FW","Oluwaseyi"),
+p(13,"DF","Cornelius"),p(14,"MF","Shaffelburg"),p(15,"DF","Bombito"),
+p(16,"GK","Crepeau"),p(17,"FW","Buchanan"),p(18,"GK","Goodman"),
+p(19,"DF","Alphonso Davies"),p(20,"FW","Ahmed"),p(21,"MF","Osorio"),
+p(22,"DF","Laryea"),p(23,"DF","Sigur"),p(24,"FW","Promise"),
+p(25,"MF","Saliba"),p(26,"MF","Marcelo")]},
+"BIH":{"coach":"Sergej Barbarez","formation":"3-5-2","squad":[
+p(1,"GK","Vasilj"),p(2,"DF","Mujakić"),p(3,"DF","Hadžikadunic"),
+p(4,"DF","Muharemović"),p(5,"DF","Kolašinac"),p(6,"MF","Tahirović"),
+p(7,"DF","Dedić"),p(8,"MF","Gigović"),p(9,"FW","Bazdar"),
+p(10,"FW","Demirović"),p(11,"FW","Edin Džeko"),p(12,"GK","Jurkas"),
+p(13,"MF","Bašić"),p(14,"MF","Šunjić"),p(15,"MF","Memić"),
+p(16,"MF","Hadžiahmetović"),p(17,"MF","Burnić"),p(18,"DF","Katić"),
+p(19,"FW","Alajbegović"),p(20,"FW","Bajraktarević"),p(21,"DF","Radeljić"),
+p(22,"GK","Zlomislić"),p(23,"FW","Tabakovic"),p(24,"DF","Celik"),
+p(25,"FW","Lukić"),p(26,"MF","Mahmić")]},
+"QAT":{"coach":"Julen Lopetegui","formation":"4-3-3","squad":[
+p(1,"GK","Abunada"),p(2,"DF","Pedro"),p(3,"DF","L. Mendes"),
+p(4,"DF","Gueye"),p(5,"DF","Jassem"),p(6,"MF","A. Aziz"),
+p(7,"FW","Alaeddin"),p(8,"FW","Edmilson Jr."),p(9,"FW","Muntari"),
+p(10,"FW","Alhaydos"),p(11,"FW","Afif"),p(12,"MF","Karim"),
+p(13,"DF","Ayoub"),p(14,"DF","Homam"),p(15,"FW","Yusuf"),
+p(16,"DF","Khoukhi"),p(17,"MF","A. Alganehi"),p(18,"DF","Sultan"),
+p(19,"FW","Almoez"),p(20,"MF","A. Fathy"),p(21,"GK","Salah"),
+p(22,"GK","Barsham"),p(23,"MF","Madibo"),p(24,"FW","Tahsin"),
+p(25,"DF","Alhashmi"),p(26,"FW","Manai")]},
+"SUI":{"coach":"Murat Yakin","formation":"4-4-2","squad":[
+p(1,"GK","Kobel"),p(2,"DF","Muheim"),p(3,"DF","Widmer"),
+p(4,"DF","Elvedi"),p(5,"DF","Manuel Akanji"),p(6,"MF","Zakaria"),
+p(7,"FW","Breel Embolo"),p(8,"MF","Freuler"),p(9,"MF","Manzambi"),
+p(10,"MF","Granit Xhaka"),p(11,"FW","Ndoye"),p(12,"GK","Mvogo"),
+p(13,"DF","Rodríguez"),p(14,"MF","Jashari"),p(15,"MF","Sow"),
+p(16,"FW","Fassnacht"),p(17,"FW","Vargas"),p(18,"DF","Comert"),
+p(19,"FW","Okafor"),p(20,"MF","Aebischer"),p(21,"GK","Keller"),
+p(22,"MF","Rieder"),p(23,"FW","Amdouni"),p(24,"DF","Amenda"),
+p(25,"DF","Jaquez"),p(26,"FW","Itten")]},
+# ────── GRUPO C ──────
+"BRA":{"coach":"Carlo Ancelotti","formation":"4-2-3-1","squad":[
+p(1,"GK","Alisson Becker"),p(2,"DF","Wesley"),p(3,"DF","Gabriel Magalhães"),
+p(4,"DF","Marquinhos"),p(5,"MF","Casemiro"),p(6,"DF","Alex Sandro"),
+p(7,"FW","Vinícius Jr."),p(8,"MF","Bruno Guimarães"),p(9,"FW","Matheus Cunha"),
+p(10,"FW","Neymar Jr."),p(11,"FW","Raphinha"),p(12,"GK","Weverton"),
+p(13,"DF","Danilo"),p(14,"DF","Bremer"),p(15,"DF","Léo Pereira"),
+p(16,"DF","Douglas Santos"),p(17,"MF","Fabinho"),p(18,"MF","Danilo Barbosa"),
+p(19,"FW","Endrick"),p(20,"MF","Lucas Paquetá"),p(21,"FW","Luiz Henrique"),
+p(22,"FW","Gabriel Martinelli"),p(23,"GK","Ederson"),p(24,"DF","Ibañez"),
+p(25,"FW","Igor Thiago"),p(26,"FW","Rayan")]},
+"MAR":{"coach":"Mohamed Ouahbi","formation":"4-3-3","squad":[
+p(1,"GK","Bono"),p(2,"DF","Achraf Hakimi"),p(3,"DF","Noussair Mazraoui"),
+p(4,"MF","Amrabat"),p(5,"DF","Aguerd"),p(6,"MF","Bouaddi"),
+p(7,"MF","Talbi"),p(8,"MF","Ouahi"),p(9,"FW","Rahimi"),
+p(10,"FW","Brahim Díaz"),p(11,"MF","Saibari"),p(12,"GK","El Kajoui"),
+p(13,"DF","El Ouahdi"),p(14,"DF","Issa"),p(15,"MF","El Mourabet"),
+p(16,"MF","Yassine"),p(17,"FW","Ezzalzouli"),p(18,"DF","Riad"),
+p(19,"DF","Belammari"),p(20,"FW","El Kaabi"),p(21,"FW","Amaimouni"),
+p(22,"GK","Tagnaouti"),p(23,"MF","El Khannouss"),p(24,"MF","El Aynaoui"),
+p(25,"DF","Halhal"),p(26,"DF","Salah-Eddine")]},
+"SCO":{"coach":"Steve Clarke","formation":"4-3-3","squad":[
+p(1,"GK","Gunn"),p(2,"DF","Hickey"),p(3,"DF","Andy Robertson"),
+p(4,"MF","Scott McTominay"),p(5,"DF","Hanley"),p(6,"DF","Tierney"),
+p(7,"MF","McGinn"),p(8,"MF","Fletcher"),p(9,"FW","Dykes"),
+p(10,"FW","Che Adams"),p(11,"MF","Christie"),p(12,"GK","Kelly"),
+p(13,"DF","Hendry"),p(14,"FW","Stewart"),p(15,"DF","Souttar"),
+p(16,"DF","Hyam"),p(17,"FW","Gannon Doak"),p(18,"FW","Hirst"),
+p(19,"MF","Ferguson"),p(20,"FW","Shankland"),p(21,"GK","Gordon"),
+p(22,"DF","Patterson"),p(23,"MF","McLean"),p(24,"DF","Ralston"),
+p(25,"FW","Curtis"),p(26,"DF","McKenna")]},
+"HAI":{"coach":"Sébastien Migné","formation":"4-4-2","squad":[
+p(1,"GK","Placide"),p(2,"DF","Arcus"),p(3,"DF","Thermoncy"),
+p(4,"DF","Ade"),p(5,"DF","Delcroix"),p(6,"MF","Sainte"),
+p(7,"FW","Etienne Jr"),p(8,"DF","Experience"),p(9,"FW","Nazon"),
+p(10,"MF","Bellegarde"),p(11,"FW","Deedson"),p(12,"GK","A. Pierre"),
+p(13,"DF","Lacroix"),p(14,"MF","L. Pierre"),p(15,"FW","Providence"),
+p(16,"FW","Joseph"),p(17,"MF","Jean Jacques"),p(18,"FW","Isidor"),
+p(19,"FW","Fortune"),p(20,"FW","Pierrot"),p(21,"FW","Casimir"),
+p(22,"DF","Duverne"),p(23,"GK","Duverger"),p(24,"DF","Paugin"),
+p(25,"MF","Simon"),p(26,"MF","W. Pierre")]},
+# ────── GRUPO D ──────
+"USA":{"coach":"Mauricio Pochettino","formation":"4-3-3","squad":[
+p(1,"GK","Turner"),p(2,"DF","Dest"),p(3,"DF","Richards"),
+p(4,"MF","Tyler Adams"),p(5,"DF","A. Robinson"),p(6,"DF","Trusty"),
+p(7,"MF","Reyna"),p(8,"MF","McKennie"),p(9,"FW","Pepi"),
+p(10,"FW","Christian Pulisic"),p(11,"FW","Aaronson"),p(12,"DF","M. Robinson"),
+p(13,"DF","Ream"),p(14,"MF","Berhalter"),p(15,"MF","Roldan"),
+p(16,"DF","Freeman"),p(17,"MF","Tillman"),p(18,"DF","Arfsten"),
+p(19,"FW","Wright"),p(20,"FW","Balogun"),p(21,"FW","Weah"),
+p(22,"DF","McKenzie"),p(23,"DF","Scally"),p(24,"GK","Freese"),
+p(25,"GK","Brady"),p(26,"FW","Zendejas")]},
+"PAR":{"coach":"Gustavo Alfaro","formation":"4-4-2","squad":[
+p(1,"GK","Fernandez"),p(2,"DF","Velázquez"),p(3,"DF","Alderete"),
+p(4,"DF","Cáceres"),p(5,"DF","Balbuena"),p(6,"DF","Alonso"),
+p(7,"MF","Sosa"),p(8,"MF","D. Gomez"),p(9,"FW","Sanabria"),
+p(10,"MF","Miguel Almirón"),p(11,"MF","Mauricio"),p(12,"GK","O. Gill"),
+p(13,"DF","Canale"),p(14,"MF","Cubas"),p(15,"DF","G. Gomez"),
+p(16,"MF","Bobadilla"),p(17,"FW","R. Gamarra"),p(18,"FW","Arce"),
+p(19,"FW","Enciso"),p(20,"MF","Ojeda"),p(21,"FW","Avalos"),
+p(22,"GK","Oliveira"),p(23,"MF","Galarza"),p(24,"MF","Caballero"),
+p(25,"FW","Pitta"),p(26,"DF","Maidana")]},
+"AUS":{"coach":"Tony Popovic","formation":"4-4-2","squad":[
+p(1,"GK","Mathew Ryan"),p(2,"DF","Degenek"),p(3,"DF","Circati"),
+p(4,"DF","Italiano"),p(5,"DF","Bos"),p(6,"DF","Geria"),
+p(7,"FW","Leckie"),p(8,"MF","Metcalfe"),p(9,"FW","Toure"),
+p(10,"FW","Hrustic"),p(11,"FW","Mabil"),p(12,"GK","Izzo"),
+p(13,"MF","O'Neill"),p(14,"MF","Devlin"),p(15,"DF","Trewin"),
+p(16,"DF","Behich"),p(17,"FW","Irankunda"),p(18,"GK","Beach"),
+p(19,"DF","Souttar"),p(20,"FW","Volpato"),p(21,"DF","Burgess"),
+p(22,"MF","Irvine"),p(23,"FW","Velupillay"),p(24,"MF","Okon-Engstler"),
+p(25,"DF","Herrington"),p(26,"FW","Yengi")]},
+"TUR":{"coach":"Vincenzo Montella","formation":"4-2-3-1","squad":[
+p(1,"GK","Mert"),p(2,"DF","Zeki Çelik"),p(3,"DF","Merih Demiral"),
+p(4,"DF","Çağlar Söyüncü"),p(5,"MF","Özcan"),p(6,"MF","Orkun Kökçü"),
+p(7,"FW","Aktürkoğlu"),p(8,"FW","Arda Güler"),p(9,"FW","Deniz Gül"),
+p(10,"MF","Hakan Çalhanoğlu"),p(11,"FW","Kenan Yıldız"),p(12,"GK","Altay"),
+p(13,"DF","Eren Elmalı"),p(14,"DF","Abdülkerim"),p(15,"DF","Ozan Kabak"),
+p(16,"MF","İsmail"),p(17,"FW","Kahveci"),p(18,"DF","Mert Müldür"),
+p(19,"FW","Yunus Akgün"),p(20,"DF","F. Kadıoğlu"),p(21,"FW","Barış"),
+p(22,"MF","Kaan"),p(23,"GK","Uğurcan"),p(24,"FW","Oğuz"),
+p(25,"DF","Samet Akaydin"),p(26,"FW","Can Uzun")]},
+# ────── GRUPO E ──────
+"GER":{"coach":"Julian Nagelsmann","formation":"4-2-3-1","squad":[
+p(1,"GK","Manuel Neuer"),p(2,"DF","Antonio Rüdiger"),p(3,"DF","Anton"),
+p(4,"DF","Jonathan Tah"),p(5,"MF","Pavlovic"),p(6,"DF","Joshua Kimmich"),
+p(7,"FW","Kai Havertz"),p(8,"MF","Goretzka"),p(9,"MF","Leweling"),
+p(10,"MF","Jamal Musiala"),p(11,"FW","Woltemade"),p(12,"GK","Baumann"),
+p(13,"MF","Groß"),p(14,"FW","Beier"),p(15,"DF","Schlotterbeck"),
+p(16,"MF","Stiller"),p(17,"MF","Florian Wirtz"),p(18,"DF","Brown"),
+p(19,"MF","Sané"),p(20,"MF","Amiri"),p(21,"GK","Nübel"),
+p(22,"DF","Raum"),p(23,"MF","Nmecha"),p(24,"DF","Thiaw"),
+p(25,"MF","Karl"),p(26,"FW","Undav")]},
+"CUW":{"coach":"Dick Advocaat","formation":"4-4-2","squad":[
+p(1,"GK","Room"),p(2,"DF","Sambo"),p(3,"DF","Gaari"),
+p(4,"DF","Van Eijma"),p(5,"DF","Floranus"),p(6,"MF","Roemeratoe"),
+p(7,"MF","J. Bacuna"),p(8,"MF","Comenencia"),p(9,"FW","Locadia"),
+p(10,"MF","L. Bacuna"),p(11,"FW","Antonisse"),p(12,"FW","Hansen"),
+p(13,"FW","Noslin"),p(14,"FW","Gorre"),p(15,"MF","Martha"),
+p(16,"FW","Margaritha"),p(17,"FW","Kuwas"),p(18,"DF","Obispo"),
+p(19,"FW","Kastaneer"),p(20,"DF","Brenet"),p(21,"MF","Chong"),
+p(22,"MF","Felida"),p(23,"DF","Bazoer"),p(24,"DF","Fonville"),
+p(25,"GK","Bodak"),p(26,"GK","Doornbusch")]},
+"CIV":{"coach":"Emerse Faé","formation":"4-3-3","squad":[
+p(1,"GK","Y. Fofana"),p(2,"DF","O. Diomandé"),p(3,"DF","G. Konan"),
+p(4,"MF","Jean Michaël Seri"),p(5,"DF","Singo"),p(6,"MF","Franck Kessié"),
+p(7,"DF","Kossounou"),p(8,"MF","Fofana"),p(9,"FW","Bonny"),
+p(10,"FW","Simon Adingra"),p(11,"FW","Yan Diomandé"),p(12,"FW","Wahi"),
+p(13,"DF","Operi"),p(14,"FW","Diakite"),p(15,"FW","Amad Diallo"),
+p(16,"GK","Koné"),p(17,"DF","G. Doué"),p(18,"MF","Ibrahim Sangaré"),
+p(19,"FW","Nicolas Pépé"),p(20,"DF","Agbadou"),p(21,"DF","N'Dicka"),
+p(22,"FW","Guessand"),p(23,"GK","Lafont"),p(24,"FW","Touré"),
+p(25,"MF","Guiagon"),p(26,"MF","Inao")]},
+"ECU":{"coach":"Sebastián Beccacece","formation":"4-3-3","squad":[
+p(1,"GK","Galíndez"),p(2,"DF","Torres"),p(3,"DF","Piero Hincapié"),
+p(4,"DF","Ordóñez"),p(5,"MF","Alcívar"),p(6,"DF","Pacho"),
+p(7,"DF","Pervis Estupiñán"),p(8,"MF","A. Valencia"),p(9,"FW","Yeboah Zamora"),
+p(10,"MF","Páez"),p(11,"FW","Rodríguez"),p(12,"GK","Ramírez"),
+p(13,"FW","E. Valencia"),p(14,"MF","Minda"),p(15,"MF","Vite"),
+p(16,"FW","J. Caicedo"),p(17,"DF","Preciado"),p(18,"MF","Castillo"),
+p(19,"FW","Plata"),p(20,"FW","Angulo"),p(21,"MF","Franco"),
+p(22,"GK","Valle"),p(23,"MF","Moisés Caicedo"),p(24,"FW","Arévalo"),
+p(25,"DF","Porozo"),p(26,"DF","Medina")]},
+# ────── GRUPO F ──────
+"NED":{"coach":"Ronald Koeman","formation":"4-3-3","squad":[
+p(1,"GK","Verbruggen"),p(2,"DF","Jurriën Timber"),p(3,"MF","De Roon"),
+p(4,"DF","Virgil van Dijk"),p(5,"DF","Nathan Aké"),p(6,"DF","Van Hecke"),
+p(7,"MF","Justin Kluivert"),p(8,"MF","Ryan Gravenberch"),p(9,"FW","Weghorst"),
+p(10,"FW","Memphis Depay"),p(11,"FW","Cody Gakpo"),p(12,"DF","Wieffer"),
+p(13,"GK","Roefs"),p(14,"MF","Tijjani Reijnders"),p(15,"DF","Van de Ven"),
+p(16,"MF","Til"),p(17,"FW","Lang"),p(18,"FW","Malen"),
+p(19,"FW","Brobbey"),p(20,"MF","Koopmeiners"),p(21,"MF","Frenkie de Jong"),
+p(22,"DF","Denzel Dumfries"),p(23,"GK","Flekken"),p(24,"FW","Summerville"),
+p(25,"DF","Hato"),p(26,"MF","Q. Timber")]},
+"JPN":{"coach":"Hajime Moriyasu","formation":"4-2-3-1","squad":[
+p(1,"GK","Suzuki"),p(2,"DF","Sugawara"),p(3,"DF","Taniguchi"),
+p(4,"DF","Itakura"),p(5,"DF","Nagatomo"),p(6,"MF","Wataru Endo"),
+p(7,"MF","Tanaka"),p(8,"MF","Takefusa Kubo"),p(9,"FW","Goto"),
+p(10,"MF","Doan"),p(11,"MF","Daizen Maeda"),p(12,"GK","Osako"),
+p(13,"MF","Nakamura"),p(14,"MF","Ito"),p(15,"MF","Kamada"),
+p(16,"DF","Watanabe"),p(17,"MF","Y. Suzuki"),p(18,"FW","Ayase"),
+p(19,"FW","Ogawa"),p(20,"DF","Seko"),p(21,"DF","H. Ito"),
+p(22,"DF","Takehiro Tomiyasu"),p(23,"GK","Hayakawa"),p(24,"MF","Sano"),
+p(25,"DF","J. Suzuki"),p(26,"FW","Shiogai")]},
+"SWE":{"coach":"Graham Potter","formation":"4-4-2","squad":[
+p(1,"GK","Zetterström"),p(2,"DF","Lagerbielke"),p(3,"DF","Victor Lindelöf"),
+p(4,"DF","Hien"),p(5,"DF","Gudmundsson"),p(6,"DF","H. Johansson"),
+p(7,"MF","Lucas Bergvall"),p(8,"DF","Svensson"),p(9,"FW","Alexander Isak"),
+p(10,"MF","Nygren"),p(11,"FW","Anthony Elanga"),p(12,"GK","V. Johansson"),
+p(13,"MF","Sema"),p(14,"DF","Ekdal"),p(15,"DF","Starfelt"),
+p(16,"MF","Karlström"),p(17,"FW","Viktor Gyökeres"),p(18,"MF","Ayari"),
+p(19,"MF","Svanberg"),p(20,"DF","Smith"),p(21,"DF","Bernhardsson"),
+p(22,"MF","Zeneli"),p(23,"GK","Nordfeldt"),p(24,"DF","Stroud"),
+p(25,"FW","Nilsson"),p(26,"FW","Ali")]},
+"TUN":{"coach":"Sabri Lamouchi","formation":"4-3-3","squad":[
+p(1,"GK","Chamakh"),p(2,"DF","Abdi"),p(3,"DF","Talbi"),
+p(4,"DF","Rekik"),p(5,"DF","Arous"),p(6,"DF","Bronn"),
+p(7,"FW","Achouri"),p(8,"FW","Saad"),p(9,"FW","Mastouri"),
+p(10,"MF","Hannibal Mejbri"),p(11,"MF","Gharbi"),p(12,"DF","Ben Ouanes"),
+p(13,"MF","Khedira"),p(14,"MF","Ayari"),p(15,"MF","Belhadj Mahmoud"),
+p(16,"GK","Dahmen"),p(17,"MF","Skhiri"),p(18,"FW","Elloumi"),
+p(19,"FW","Chaouat"),p(20,"DF","Valery"),p(21,"DF","Ben Hmida"),
+p(22,"GK","Ben Hsan"),p(23,"DF","Neffati"),p(24,"DF","Chikhaoui"),
+p(25,"MF","Slimane"),p(26,"MF","Tounekti")]},
+# ────── GRUPO G ──────
+"BEL":{"coach":"Rudi García","formation":"4-3-3","squad":[
+p(1,"GK","Thibaut Courtois"),p(2,"DF","Debast"),p(3,"DF","Thiate"),
+p(4,"DF","Mechele"),p(5,"DF","De Cuyper"),p(6,"MF","Axel Witsel"),
+p(7,"MF","Kevin De Bruyne"),p(8,"MF","Youri Tielemans"),p(9,"FW","Romelu Lukaku"),
+p(10,"FW","Leandro Trossard"),p(11,"FW","Jérémy Doku"),p(12,"GK","Lammens"),
+p(13,"GK","Penders"),p(14,"FW","Lukebakio"),p(15,"DF","Thomas Meunier"),
+p(16,"DF","De Winter"),p(17,"FW","Charles De Ketelaere"),p(18,"DF","Seys"),
+p(19,"MF","Moreira"),p(20,"MF","Hans Vanaken"),p(21,"DF","Timothy Castagne"),
+p(22,"MF","Alexis Saelemaekers"),p(23,"MF","Raskin"),p(24,"MF","Onana"),
+p(25,"DF","Ngoy"),p(26,"FW","Fernandez-Pardo")]},
+"EGY":{"coach":"Hossam Hassan","formation":"4-2-3-1","squad":[
+p(1,"GK","M. Elshenawy"),p(2,"DF","Yasser"),p(3,"DF","M. Hany"),
+p(4,"DF","Hossam"),p(5,"DF","R. Rabiaa"),p(6,"DF","M. Abdelmoneim"),
+p(7,"FW","M. Trezeguet"),p(8,"MF","E. Ashour"),p(9,"FW","Abdelkarim"),
+p(10,"FW","Mohamed Salah"),p(11,"MF","Zico"),p(12,"FW","H. Hassan"),
+p(13,"DF","A. Fatouh"),p(14,"MF","H. Fathy"),p(15,"DF","K. Hafez"),
+p(16,"GK","M. Soliman"),p(17,"MF","M. Lashin"),p(18,"MF","Donga"),
+p(19,"MF","M. Attia"),p(20,"FW","I. Adel"),p(21,"MF","M. Saber"),
+p(22,"FW","Omar Marmoush"),p(23,"GK","Shoubir"),p(24,"DF","T. Alaa"),
+p(25,"FW","Zizo"),p(26,"GK","M. Alaa")]},
+"IRN":{"coach":"Amir Ghalenoei","formation":"4-4-2","squad":[
+p(1,"GK","Alireza Beiranvand"),p(2,"DF","Saleh"),p(3,"DF","E. Hajisafi"),
+p(4,"DF","Shoja"),p(5,"DF","M. Mohammadi"),p(6,"MF","S. Ezatolahi"),
+p(7,"MF","A. Jahanbakhsh"),p(8,"MF","M. Mohebi"),p(9,"FW","Mehdi Taremi"),
+p(10,"FW","Mehdi Ghayedi"),p(11,"FW","A. Alipour"),p(12,"GK","Payam"),
+p(13,"DF","Kanani"),p(14,"MF","Ghoddoos"),p(15,"MF","Roozbeh"),
+p(16,"MF","M. Torabi"),p(17,"DF","Arya"),p(18,"FW","Amirhossein"),
+p(19,"DF","Ali"),p(20,"FW","Shahriyar"),p(21,"MF","Mohammad"),
+p(22,"GK","Hosseini"),p(23,"DF","Ramin"),p(24,"FW","Dargahi"),
+p(25,"DF","Danial"),p(26,"MF","Razagh")]},
+"NZL":{"coach":"Darren Bazeley","formation":"3-4-3","squad":[
+p(1,"GK","Crocombe"),p(2,"DF","Payne"),p(3,"DF","De Vries"),
+p(4,"DF","Bindon"),p(5,"DF","Boxall"),p(6,"MF","Bell"),
+p(7,"MF","Garbett"),p(8,"MF","Stamenic"),p(9,"FW","Chris Wood"),
+p(10,"MF","Singh"),p(11,"MF","Just"),p(12,"GK","Paulsen"),
+p(13,"DF","Cacace"),p(14,"MF","Rufer"),p(15,"DF","Pijnaker"),
+p(16,"DF","Surman"),p(17,"FW","Barbarouses"),p(18,"FW","Waine"),
+p(19,"MF","Old"),p(20,"MF","McCowatt"),p(21,"FW","Randall"),
+p(22,"GK","Woud"),p(23,"MF","Thomas"),p(24,"DF","Elliot"),
+p(25,"MF","Bayliss"),p(26,"DF","Smith")]},
+# ────── GRUPO H ──────
+"ESP":{"coach":"Luis de la Fuente","formation":"4-3-3","squad":[
+p(1,"GK","David Raya"),p(2,"DF","Marc Pubill"),p(3,"DF","Alejandro Grimaldo"),
+p(4,"DF","Eric García"),p(5,"DF","Marcos Llorente"),p(6,"MF","Mikel Merino"),
+p(7,"FW","Ferran Torres"),p(8,"MF","Fabián Ruiz"),p(9,"MF","Gavi"),
+p(10,"FW","Dani Olmo"),p(11,"FW","Jeremy"),p(12,"DF","Pedro Porro"),
+p(13,"GK","Joan García"),p(14,"DF","Aymeric Laporte"),p(15,"MF","Alex Baena"),
+p(16,"MF","Rodri"),p(17,"FW","Nico Williams"),p(18,"MF","Martín Zubimendi"),
+p(19,"FW","Lamine Yamal"),p(20,"MF","Pedri"),p(21,"FW","Mikel Oyarzabal"),
+p(22,"DF","Pau Cubarsí"),p(23,"GK","Unai Simón"),p(24,"DF","Marc Cucurella"),
+p(25,"FW","Víctor Mollejo"),p(26,"FW","Borja Iglesias")]},
+"CPV":{"coach":"Pedro Bubista","formation":"4-3-3","squad":[
+p(1,"GK","Vozinha"),p(2,"DF","Stopira"),p(3,"DF","Borges"),
+p(4,"DF","Lopes"),p(5,"DF","Logan Costa"),p(6,"MF","Kevin Lopes"),
+p(7,"MF","Jovane"),p(8,"MF","João Paulo"),p(9,"FW","Benchimol"),
+p(10,"MF","Monteiro"),p(11,"MF","Rodrigues"),p(12,"GK","Márcio"),
+p(13,"DF","Lopes Cabral"),p(14,"MF","D. Duarte"),p(15,"MF","Duarte"),
+p(16,"MF","Y. Semedo"),p(17,"MF","Semedo"),p(18,"MF","Arcanjo"),
+p(19,"FW","Livramento"),p(20,"FW","Ryan"),p(21,"MF","Da Costa"),
+p(22,"DF","Moreira"),p(23,"GK","Dos Santos"),p(24,"DF","Wagner P."),
+p(25,"DF","Kelvin"),p(26,"MF","Hélio")]},
+"KSA":{"coach":"Georgios Donis","formation":"4-5-1","squad":[
+p(1,"GK","Alaqidi"),p(2,"DF","Majrashi"),p(3,"DF","Lajami"),
+p(4,"DF","Alamri"),p(5,"DF","Altambakti"),p(6,"MF","Nasser"),
+p(7,"MF","Musab"),p(8,"FW","Aiman"),p(9,"FW","Feras"),
+p(10,"FW","Salem Al-Dawsari"),p(11,"FW","Alshehri"),p(12,"DF","Saud"),
+p(13,"DF","Nawaf"),p(14,"DF","Kadish"),p(15,"MF","Alkhaibari"),
+p(16,"MF","Ziyad"),p(17,"FW","Khalid"),p(18,"MF","Alhajji"),
+p(19,"FW","Alhamddan"),p(20,"FW","Mandash"),p(21,"GK","Alowais"),
+p(22,"GK","Alkassar"),p(23,"MF","Mohamed Kanno"),p(24,"DF","Moteb"),
+p(25,"DF","Jehad"),p(26,"DF","Mohammed")]},
+"URU":{"coach":"Marcelo Bielsa","formation":"4-4-2","squad":[
+p(1,"GK","Sergio Rochet"),p(2,"DF","José María Giménez"),p(3,"DF","S. Cáceres"),
+p(4,"DF","Ronald Araújo"),p(5,"MF","Manuel Ugarte"),p(6,"MF","Rodrigo Bentancur"),
+p(7,"MF","N. de la Cruz"),p(8,"MF","Federico Valverde"),p(9,"FW","Darwin Núñez"),
+p(10,"MF","Giorgian de Arrascaeta"),p(11,"FW","Facundo Pellistri"),p(12,"GK","S. Mele"),
+p(13,"DF","G. Varela"),p(14,"MF","A. Canobbio"),p(15,"MF","E. Martínez"),
+p(16,"DF","Mathías Olivera"),p(17,"DF","M. Viña"),p(18,"FW","B. Rodríguez"),
+p(19,"FW","R. Aguirre"),p(20,"MF","M. Araújo"),p(21,"FW","F. Viñas"),
+p(22,"MF","J. Piquerez"),p(23,"GK","Fernando Muslera"),p(24,"DF","S. Bueno"),
+p(25,"MF","J.M. Sanabria"),p(26,"MF","R. Zalazar")]},
+# ────── GRUPO I ──────
+"FRA":{"coach":"Didier Deschamps","formation":"4-3-3","squad":[
+p(1,"GK","Brice Samba"),p(2,"DF","Gusto"),p(3,"DF","Lucas Digne"),
+p(4,"DF","Dayot Upamecano"),p(5,"DF","Jules Koundé"),p(6,"MF","Manu Koné"),
+p(7,"FW","Ousmane Dembélé"),p(8,"MF","Aurélien Tchouaméni"),p(9,"FW","Marcus Thuram"),
+p(10,"FW","Kylian Mbappé"),p(11,"FW","Michael Olise"),p(12,"FW","Bradley Barcola"),
+p(13,"MF","N'Golo Kanté"),p(14,"MF","Adrien Rabiot"),p(15,"DF","Ibrahima Konaté"),
+p(16,"GK","Mike Maignan"),p(17,"DF","William Saliba"),p(18,"MF","Warren Zaïre-Emery"),
+p(19,"DF","T. Hernandez"),p(20,"FW","Désiré Doué"),p(21,"DF","Lucas Hernandez"),
+p(22,"FW","Mateta"),p(23,"GK","Risser"),p(24,"MF","Rayan Cherki"),
+p(25,"MF","Akliouche"),p(26,"DF","Lacroix")]},
+"SEN":{"coach":"Pape Thiaw","formation":"4-3-3","squad":[
+p(1,"GK","Y. Diouf"),p(2,"DF","Ismail Sarr"),p(3,"DF","Kalidou Koulibaly"),
+p(4,"DF","Seck"),p(5,"MF","Idrissa Gana Gueye"),p(6,"MF","P.I. Ciss"),
+p(7,"FW","Lamine Camara"),p(8,"MF","Lamine Camara"),p(9,"FW","B. Dieng"),
+p(10,"FW","Sadio Mané"),p(11,"FW","Nicolas Jackson"),p(12,"FW","Cherif"),
+p(13,"FW","Iliman Ndiaye"),p(14,"DF","Jakobs"),p(15,"DF","Krépin Diatta"),
+p(16,"GK","Édouard Mendy"),p(17,"MF","P.M. Sarr"),p(18,"FW","Ismaïla Sarr"),
+p(19,"DF","Niakhate"),p(20,"FW","Mbaye"),p(21,"MF","H. Diarra"),
+p(22,"MF","Bara"),p(23,"GK","Diaw"),p(24,"DF","A. Mendy"),
+p(25,"DF","Diouf"),p(26,"MF","Gana Gueye")]},
+"NOR":{"coach":"Ståle Solbakken","formation":"4-3-3","squad":[
+p(1,"GK","Ørjan Nyland"),p(2,"MF","Thorsby"),p(3,"DF","Kristoffer Ajer"),
+p(4,"DF","Leo Østigård"),p(5,"DF","Møller Wolfe"),p(6,"MF","Berg"),
+p(7,"FW","Alexander Sørloth"),p(8,"MF","Sander Berge"),p(9,"FW","Erling Haaland"),
+p(10,"MF","Martin Ødegaard"),p(11,"FW","Jørgen Strand Larsen"),p(12,"GK","Tangvik"),
+p(13,"GK","Selvik"),p(14,"MF","Aursnes"),p(15,"DF","Bjørkan"),
+p(16,"DF","Holmgren"),p(17,"DF","Heggem"),p(18,"MF","Thorstvedt"),
+p(19,"MF","Aasgaard"),p(20,"FW","Antonio Nusa"),p(21,"MF","Schjelderup"),
+p(22,"MF","Oscar Bobb"),p(23,"MF","Hauge"),p(24,"DF","Langås"),
+p(25,"DF","Falchener"),p(26,"FW","Ryerson")]},
+"IRQ":{"coach":"Graham Arnold","formation":"4-1-4-1","squad":[
+p(1,"GK","Fahad"),p(2,"DF","Rebin"),p(3,"DF","Hussein"),
+p(4,"DF","Zaid T."),p(5,"DF","Akam"),p(6,"DF","Munaf"),
+p(7,"MF","Youssef"),p(8,"MF","Ibrahim"),p(9,"FW","Al-Hamadi"),
+p(10,"FW","Mohanad"),p(11,"FW","Ahmed Q."),p(12,"GK","Jalal"),
+p(13,"FW","Ali Y."),p(14,"MF","Zach Iqbal"),p(15,"DF","Ahmed"),
+p(16,"MF","Al-Ammari"),p(17,"FW","Ali J."),p(18,"FW","Aymen"),
+p(19,"MF","K. Yakob"),p(20,"MF","Aimar"),p(21,"FW","Marko"),
+p(22,"GK","Ahmed B."),p(23,"DF","Doski"),p(24,"MF","Zaid I."),
+p(25,"DF","Mustafa"),p(26,"DF","Frans")]},
+# ────── GRUPO J ──────
+"ARG":{"coach":"Lionel Scaloni","formation":"4-4-2","squad":[
+p(1,"GK","Juan Musso"),p(2,"DF","Balerdi"),p(3,"DF","Nicolás Tagliafico"),
+p(4,"DF","Montiel"),p(5,"MF","Leandro Paredes"),p(6,"DF","Lisandro Martínez"),
+p(7,"MF","Rodrigo De Paul"),p(8,"MF","Barco"),p(9,"FW","Julián Álvarez"),
+p(10,"FW","Lionel Messi"),p(11,"MF","Lo Celso"),p(12,"GK","Germán Rulli"),
+p(13,"DF","Cristian Romero"),p(14,"MF","Exequiel Palacios"),p(15,"MF","Nicolás González"),
+p(16,"FW","Almada"),p(17,"FW","Simeone"),p(18,"FW","Nico Paz"),
+p(19,"DF","Nicolás Otamendi"),p(20,"MF","Alexis Mac Allister"),p(21,"FW","López"),
+p(22,"FW","Lautaro Martínez"),p(23,"GK","Emiliano Martínez"),p(24,"MF","Enzo Fernández"),
+p(25,"DF","Medina"),p(26,"DF","Nahuel Molina")]},
+"ALG":{"coach":"Vladimir Petkovic","formation":"4-3-3","squad":[
+p(1,"GK","Mastil"),p(2,"DF","Mandi"),p(3,"DF","Abada"),
+p(4,"DF","Tougai"),p(5,"DF","Belaid"),p(6,"MF","Zerrouki"),
+p(7,"FW","Riyad Mahrez"),p(8,"MF","Houssem Aouar"),p(9,"FW","Ghouri"),
+p(10,"MF","Chaibi"),p(11,"FW","Hadj Moussa"),p(12,"FW","Benbouali"),
+p(13,"DF","Hadjam"),p(14,"MF","Boudaoui"),p(15,"DF","Rayan Aït-Nouri"),
+p(16,"GK","Benbot"),p(17,"DF","Belghali"),p(18,"FW","Said Amoura"),
+p(19,"MF","Bentaleb"),p(20,"FW","Boulbina"),p(21,"DF","Bensebaini"),
+p(22,"MF","Maza"),p(23,"GK","Zidane"),p(24,"MF","Titraoui"),
+p(25,"FW","Ghedjemis"),p(26,"DF","Chergui")]},
+"AUT":{"coach":"Ralf Rangnick","formation":"4-2-3-1","squad":[
+p(1,"GK","Schlager"),p(2,"DF","Affengruber"),p(3,"DF","Kevin Danso"),
+p(4,"MF","Florian Grillitsch"),p(5,"DF","Stefan Posch"),p(6,"MF","Nicolas Seiwald"),
+p(7,"FW","Marko Arnautovic"),p(8,"DF","David Alaba"),p(9,"MF","Marcel Sabitzer"),
+p(10,"MF","Grillitsch"),p(11,"FW","Gregoritsch"),p(12,"GK","Wiegele"),
+p(13,"GK","Pentz"),p(14,"FW","Kalajdzic"),p(15,"DF","Lienhart"),
+p(16,"DF","Mwene"),p(17,"MF","Chukwuemeka"),p(18,"MF","Schmid"),
+p(19,"MF","Christoph Baumgartner"),p(20,"MF","Konrad Laimer"),p(21,"FW","Wimmer"),
+p(22,"MF","Prass"),p(23,"DF","Friedl"),p(24,"MF","Wanner"),
+p(25,"DF","Svoboda"),p(26,"MF","Schöpf")]},
+"JOR":{"coach":"Jamal Sellami","formation":"4-4-2","squad":[
+p(1,"GK","Yazeed"),p(2,"DF","Abu Hasheesh"),p(3,"DF","Nasib"),
+p(4,"DF","Abu Dhab"),p(5,"DF","Alarab"),p(6,"MF","Jamous"),
+p(7,"FW","Abu Zraiq"),p(8,"MF","Alrawabdeh"),p(9,"FW","Olwan"),
+p(10,"FW","Mousa Al-Taamari"),p(11,"FW","Odeh"),p(12,"GK","Bani Ateyah"),
+p(13,"FW","Almardi"),p(14,"MF","Rajaei"),p(15,"MF","Sadeh"),
+p(16,"DF","Abulnadi"),p(17,"DF","Salem"),p(18,"FW","Sabra"),
+p(19,"DF","Saeed"),p(20,"MF","Abu Taha"),p(21,"MF","Nizar"),
+p(22,"GK","Alfakhori"),p(23,"DF","Ehsan"),p(24,"FW","Azaizeh"),
+p(25,"MF","Aldaoud"),p(26,"DF","Badawi")]},
+# ────── GRUPO K ──────
+"POR":{"coach":"Roberto Martínez","formation":"4-3-3","squad":[
+p(1,"GK","Diogo Costa"),p(2,"DF","Nélson Semedo"),p(3,"DF","Rúben Dias"),
+p(4,"DF","Tomás Araújo"),p(5,"DF","Diogo Dalot"),p(6,"MF","Matheus Nunes"),
+p(7,"FW","Cristiano Ronaldo"),p(8,"MF","Bruno Fernandes"),p(9,"FW","Gonçalo Ramos"),
+p(10,"MF","Bernardo Silva"),p(11,"FW","João Félix"),p(12,"GK","José Sá"),
+p(13,"DF","Renato Veiga"),p(14,"DF","Gonçalo Inácio"),p(15,"MF","João Neves"),
+p(16,"FW","Francisco Trincão"),p(17,"FW","Rafael Leão"),p(18,"FW","Neto"),
+p(19,"FW","Gonçalo Guedes"),p(20,"DF","João Cancelo"),p(21,"MF","Rúben Neves"),
+p(22,"GK","Rui Silva"),p(23,"MF","Vitinha"),p(24,"DF","Samu"),
+p(25,"DF","Nuno Mendes"),p(26,"FW","Francisco Conceição")]},
+"COD":{"coach":"Sébastien Desabre","formation":"4-2-3-1","squad":[
+p(1,"GK","Mpasi"),p(2,"DF","Aaron Wan-Bissaka"),p(3,"DF","Kapuadi"),
+p(4,"DF","Axel Tuanzebe"),p(5,"DF","Batubinsika"),p(6,"MF","Mukau"),
+p(7,"MF","Mbuku"),p(8,"MF","Moutoussamy"),p(9,"FW","Cipenga"),
+p(10,"MF","Bongonda"),p(11,"FW","Gael Kakuta"),p(12,"DF","J. Kayembe"),
+p(13,"FW","Elia"),p(14,"MF","Sadiki"),p(15,"MF","Tshibola"),
+p(16,"GK","Fayulu"),p(17,"FW","Cédric Bakambu"),p(18,"MF","Pickel"),
+p(19,"FW","Mayele"),p(20,"FW","Yoane Wissa"),p(21,"GK","Epolo"),
+p(22,"DF","Chancel Mbemba"),p(23,"FW","Banza"),p(24,"DF","G. Kalulu"),
+p(25,"MF","Kayembe"),p(26,"DF","Arthur Masuaku")]},
+"UZB":{"coach":"Fabio Cannavaro","formation":"4-2-3-1","squad":[
+p(1,"GK","Yusupov"),p(2,"DF","Abdukodir Khusanov"),p(3,"DF","Alijonov"),
+p(4,"DF","Sayfiev"),p(5,"DF","Ashurmatov"),p(6,"MF","Mozgovoy"),
+p(7,"MF","Shukurov"),p(8,"MF","Iskanderov"),p(9,"MF","Xamrobekov"),
+p(10,"MF","Jaloliddin Masharipov"),p(11,"MF","Urunov"),p(12,"GK","Nematov"),
+p(13,"DF","Nasrullaev"),p(14,"FW","Eldor Shomurodov"),p(15,"DF","Eshmurodov"),
+p(16,"GK","Ergashev"),p(17,"MF","Khamdamov"),p(18,"DF","Abdullaev"),
+p(19,"MF","Ganiev"),p(20,"FW","Amonov"),p(21,"FW","Sergeev"),
+p(22,"MF","Fayzullaev"),p(23,"MF","Esanov"),p(24,"DF","Karimov"),
+p(25,"DF","Ulmasaliyev"),p(26,"DF","Urozov")]},
+"COL":{"coach":"Néstor Lorenzo","formation":"4-3-3","squad":[
+p(1,"GK","David Ospina"),p(2,"DF","Daniel Muñoz"),p(3,"DF","Jhon Lucumí"),
+p(4,"DF","Arias"),p(5,"MF","Kelvin Castaño"),p(6,"MF","Richard Rios"),
+p(7,"FW","Luis Díaz"),p(8,"MF","Jorge Carrascal"),p(9,"FW","Córdoba"),
+p(10,"MF","James Rodríguez"),p(11,"MF","Johan Arias"),p(12,"GK","C. Vargas"),
+p(13,"DF","Yerry Mina"),p(14,"DF","Puerta"),p(15,"MF","Portilla"),
+p(16,"MF","Jefferson Lerma"),p(17,"DF","Johan Mojica"),p(18,"DF","W. Ditta"),
+p(19,"FW","C. Hernandez"),p(20,"MF","Juan Quintero"),p(21,"FW","Jhon Arias"),
+p(22,"DF","Machado"),p(23,"DF","Davinson Sánchez"),p(24,"GK","Montero"),
+p(25,"FW","Luis Suárez"),p(26,"FW","A. Gómez")]},
+# ────── GRUPO L ──────
+"ENG":{"coach":"Thomas Tuchel","formation":"4-3-3","squad":[
+p(1,"GK","Jordan Pickford"),p(2,"DF","Konsa"),p(3,"DF","O'Reilly"),
+p(4,"MF","Declan Rice"),p(5,"DF","John Stones"),p(6,"DF","Marc Guéhi"),
+p(7,"FW","Bukayo Saka"),p(8,"MF","Anderson"),p(9,"FW","Harry Kane"),
+p(10,"MF","Jude Bellingham"),p(11,"FW","Marcus Rashford"),p(12,"DF","Livramento"),
+p(13,"GK","D. Henderson"),p(14,"MF","Jordan Henderson"),p(15,"DF","Burn"),
+p(16,"MF","Kobbie Mainoo"),p(17,"MF","Rogers"),p(18,"FW","Anthony Gordon"),
+p(19,"FW","Ollie Watkins"),p(20,"FW","Noni Madueke"),p(21,"MF","Eberechi Eze"),
+p(22,"FW","Ivan Toney"),p(23,"GK","James Trafford"),p(24,"DF","Reece James"),
+p(25,"DF","Spence"),p(26,"DF","Quansah")]},
+"CRO":{"coach":"Zlatko Dalić","formation":"4-3-3","squad":[
+p(1,"GK","Dominik Livaković"),p(2,"DF","Josip Stanišić"),p(3,"DF","Pongračić"),
+p(4,"DF","Joško Gvardiol"),p(5,"DF","Duje Čaleta-Car"),p(6,"DF","Šutalo"),
+p(7,"MF","Moro"),p(8,"MF","Mateo Kovačić"),p(9,"FW","Kramarić"),
+p(10,"MF","Luka Modrić"),p(11,"FW","Budimir"),p(12,"GK","Pandur"),
+p(13,"MF","Nikola Vlašić"),p(14,"FW","Ivan Perišić"),p(15,"MF","Mario Pašalić"),
+p(16,"MF","Baturina"),p(17,"MF","Petar Sučić"),p(18,"DF","Jakić"),
+p(19,"MF","Fruk"),p(20,"FW","Matanović"),p(21,"MF","Luka Sučić"),
+p(22,"DF","Vušković"),p(23,"GK","Kotarski"),p(24,"FW","M. Pašalić"),
+p(25,"DF","Erlić"),p(26,"FW","Musa")]},
+"GHA":{"coach":"Carlos Queiroz","formation":"4-2-3-1","squad":[
+p(1,"GK","Lawrence Ati-Zigi"),p(2,"DF","Seidu"),p(3,"MF","Caleb"),
+p(4,"DF","Adjetey"),p(5,"MF","Thomas Partey"),p(6,"DF","Suleman"),
+p(7,"FW","Fatawu Issahaku"),p(8,"MF","Sibo"),p(9,"FW","Jordan Ayew"),
+p(10,"FW","Asante"),p(11,"MF","Antoine Semenyo"),p(12,"GK","Anang"),
+p(13,"FW","Baah"),p(14,"DF","Mensah"),p(15,"MF","Owusu"),
+p(16,"GK","Asare"),p(17,"DF","Abdul Baba Rahman"),p(18,"DF","Opoku"),
+p(19,"FW","Iñaki Williams"),p(20,"MF","Boakye"),p(21,"DF","Peprah"),
+p(22,"FW","Kamaldeen Sulemana"),p(23,"DF","Luckassen"),p(24,"FW","Ernest Nuamah"),
+p(25,"FW","Adu"),p(26,"DF","Seneya")]},
+"PAN":{"coach":"Thomas Christiansen","formation":"4-4-2","squad":[
+p(1,"GK","Mejía"),p(2,"DF","Blackman"),p(3,"DF","Cordoba"),
+p(4,"DF","F. Escobar"),p(5,"DF","Fariña"),p(6,"MF","Martínez"),
+p(7,"MF","J.L. Rodríguez"),p(8,"MF","Carrasquilla"),p(9,"FW","T. Rodríguez"),
+p(10,"MF","Ismael"),p(11,"MF","Bárcenas"),p(12,"GK","Samudio"),
+p(13,"DF","Ramos"),p(14,"DF","Harvey"),p(15,"DF","Davis"),
+p(16,"DF","Andrade"),p(17,"FW","José Fajardo"),p(18,"FW","Waterman"),
+p(19,"MF","Quintero"),p(20,"MF","Godoy"),p(21,"MF","Yanis"),
+p(22,"GK","Mosquera"),p(23,"DF","Andrés Murillo"),p(24,"FW","Londono"),
+p(25,"DF","Miller"),p(26,"DF","Gutiérrez")]},
 }
-
-# Posições FIFA -> formato do calendário
-POS = {"GK": "GOL", "DF": "DEF", "MF": "MEI", "FW": "ATA"}
-
-
-def title_name(raw: str) -> str:
-    """Converte nome em caixa-alta do FIFA para Title Case legível."""
-    particles_lower = {"de", "da", "do", "dos", "das", "van", "der", "den",
-                       "von", "del", "di", "e", "y", "el", "al"}
-    keep_upper = {"jr", "jr.", "sr", "ii", "iii", "iv", "v"}
-    words = []
-    for i, w in enumerate(raw.strip().split()):
-        wl = w.lower().rstrip(".")
-        if re.match(r'^[a-z]\.$', w.lower()):       # inicial: A. → A.
-            words.append(w.upper())
-        elif wl in keep_upper:
-            words.append(w.rstrip(".").capitalize() + ("." if w.endswith(".") else ""))
-        elif wl in particles_lower and i > 0:
-            words.append(w.lower())
-        else:
-            words.append(w[0].upper() + w[1:].lower() if w else w)
-    return " ".join(words)
-
-
-def fetch_squad(code: str) -> list[dict]:
-    """Baixa a página de convocação e extrai a tabela de jogadores."""
-    slug = SLUG.get(code)
-    if not slug:
-        return []
-    url = BASE_URL.format(slug=slug)
-    try:
-        req = urllib.request.Request(
-            url, headers={"User-Agent": "Copa2026-Calendar-Squads/1.0"}
-        )
-        with urllib.request.urlopen(req, timeout=20) as r:
-            html = r.read().decode("utf-8")
-    except urllib.error.HTTPError as e:
-        print(f"    HTTP {e.code} → {url}", file=sys.stderr)
-        return []
-    except Exception as e:
-        print(f"    Erro {code}: {e}", file=sys.stderr)
-        return []
-
-    # A tabela está em formato Markdown: | num | pos | nome | clube |
-    players = []
-    for line in html.splitlines():
-        m = re.match(
-            r'\|\s*(\d{1,2})\s*\|\s*(GK|DF|MF|FW)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|',
-            line,
-        )
-        if m:
-            num, pos, name, club = m.groups()
-            players.append({
-                "n":    int(num),
-                "name": title_name(name),
-                "pos":  POS.get(pos, "MEI"),
-                "club": club.strip(),
-            })
-    return players
-
-
-def main(force: bool = False):
-    with open(DATA_PATH, encoding="utf-8") as f:
-        data = json.load(f)
-
-    teams_to_update = []
-    for code in SLUG:
-        if code not in data["teams"]:
-            continue
-        existing = data["teams"][code].get("squad", [])
-        if not existing or force:
-            teams_to_update.append(code)
-
-    if not teams_to_update:
-        print("Todos os planteis ja estao preenchidos.")
-        return
-
-    print(f"{len(teams_to_update)} selecoes a preencher...")
-    updated = 0
-    for code in teams_to_update:
-        print(f"  {code}...", end=" ", flush=True)
-        players = fetch_squad(code)
-        if len(players) >= 20:
-            data["teams"][code]["squad"] = players
-            print(f"{len(players)} jogadores OK")
-            updated += 1
-        else:
-            print(f"falhou (apenas {len(players)} encontrados)")
-        time.sleep(0.4)   # cortesia: não sobrecarregar o servidor
-
-    if updated:
-        with open(DATA_PATH, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"\n{updated} selecoes atualizadas. Regenerando .ics...")
-        gen = os.path.join(HERE, "generate_calendar.py")
-        result = subprocess.run([sys.executable, gen], capture_output=True, text=True)
-        print(result.stdout.strip())
-    else:
-        print("Nenhuma atualizacao aplicada.")
-
-
-if __name__ == "__main__":
-    import argparse
-    p = argparse.ArgumentParser()
-    p.add_argument("--force", action="store_true",
-                   help="Re-baixa mesmo os planteis ja preenchidos")
-    args = p.parse_args()
-    main(force=args.force)
+def main():
+    with open(DATA,encoding="utf-8") as f: data=json.load(f)
+    updated=[]
+    for code,info in SQUADS.items():
+        if code not in data["teams"]: continue
+        data["teams"][code]["coach"]=info["coach"]
+        data["teams"][code]["formation"]=info["formation"]
+        data["teams"][code]["squad"]=info["squad"]
+        updated.append(code)
+    with open(DATA,"w",encoding="utf-8") as f: json.dump(data,f,ensure_ascii=False,indent=2)
+    print(f"OK: {len(updated)} selecoes -> {', '.join(updated)}")
+    r=subprocess.run([sys.executable,os.path.join(HERE,"generate_calendar.py")],capture_output=True,text=True)
+    print(r.stdout.strip())
+if __name__=="__main__": main()
