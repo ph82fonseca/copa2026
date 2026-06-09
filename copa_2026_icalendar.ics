@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:fifa2026-match-1@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 SUMMARY:🇲🇽 MEX x 🇿🇦 RSA — Fase de Grupos - Grupo A
@@ -22,9 +22,20 @@ DESCRIPTION:⚽ O Estádio Azteca se torna o único da história a recebe
  co\, anfitrião com uma das torcidas mais ruidosas do planeta\, precisa 
  de vitória diante de 80 mil fãs para sinalizar que levará este tornei
  o a sério. A África do Sul\, que em 2010 sediou a Copa\, chega sem nad
- a a perder e com tudo a ganhar.\n\n📋 PLANTEIS\n🇲🇽 Mexico\n  (es
- calacao a confirmar)\n\n🇿🇦 Africa do Sul\n  (escalacao a confirmar
- )
+ a a perder e com tudo a ganhar.\n\n📋 PLANTEIS\n🇲🇽 Mexico (4-3-3
+  | Tec. Javier Aguirre)\n  GOL: 1. R. Rangel\, 12. C. Acevedo\, 13. G. O
+ choa\n  DEF: 2. J. Sánchez\, 3. C. Montes\, 4. E. Álvarez\, 5. J. Vás
+ quez\, 15. I. Reyes\, 20. M. Chávez\, 23. J. Gallardo\n  MEI: 6. E. Lir
+ a\, 7. L. Romo\, 8. Fidalgo\, 17. Orbelín\, 18. O. Vargas\, 19. G. Mora
+ \, 24. L. Chávez\, 26. B. Gutiérrez\n  ATA: 9. Raúl Jiménez\, 10. A.
+  Vega\, 11. Santiago Giménez\, 14. A. González\, 16. J. Quiñones\, 21
+ . C. Huerta\, 22. G. Martínez\, 25. R. Alvarado\n\n🇿🇦 Africa do S
+ ul (4-4-2 | Tec. Hugo Broos)\n  GOL: 1. Williams\, 16. Chaine\, 22. Goss
+ \n  DEF: 2. Matuludi\, 3. Ndamane\, 6. Modiba\, 14. Mbokazi\, 18. Kabini
+ \, 19. Sibisi\, 20. Mudau\, 21. Okon\, 24. Makhanya\, 26. Cross\n  MEI: 
+ 4. Mokoena\, 5. Mbatha\, 11. Zwane\, 13. Sithole\, 23. Adams\n  ATA: 7. 
+ Appollis\, 8. Moremi\, 9. Foster\, 10. Mofokeng\, 12. Maseko\, 15. Rayne
+ rs\, 17. Makgopa\, 25. Sebelebele
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -38,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-2@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:🇰🇷 KOR x 🇨🇿 CZE — Fase de Grupos - Grupo A
@@ -48,8 +59,19 @@ DESCRIPTION:⚽ Son Heung-min chega a esta Copa como um dos capitães mai
  . A Tchequia retorna a uma Copa pela primeira vez desde 2006 e aposta em
   organização defensiva e contra-ataques rápidos. O vencedor assume a 
  liderança provisória do Grupo A.\n\n📋 PLANTEIS\n🇰🇷 Coreia do 
- Sul\n  (escalacao a confirmar)\n\n🇨🇿 Tchequia\n  (escalacao a conf
- irmar)
+ Sul (4-3-3 | Tec. Hong Myung-bo)\n  GOL: 1. Kim Seung-gyu\, 12. Bumkeun\
+ , 21. Hyeonwoo\n  DEF: 2. Hanbeom\, 4. Kim Min-jae\, 5. Taehyeon\, 13. T
+ aeseok\, 14. Wije\, 15. Moonhwan\, 16. Jinseob\, 22. Youngwoo\, 23. Jens
+ \n  MEI: 3. Gihyuk\, 6. Inbeom\, 8. Seungho\, 10. Jaesung\, 11. Heechan\
+ , 17. Junho\, 19. Lee Kang-in\, 20. Hyunjun\, 24. Jingyu\, 25. Jisung\, 
+ 26. Donggyeong\n  ATA: 7. Son Heung-min\, 9. Guseung\, 18. Hyeongyu\n\n
+ 🇨🇿 Tchequia (4-2-3-1 | Tec. Miroslav Koubek)\n  GOL: 1. Kovár\, 1
+ 6. Staněk\, 23. Horníček\n  DEF: 2. Zima\, 3. Holes\, 4. Hranáč\, 5
+ . Coufal\, 6. Chaloupek\, 7. Krejčí\, 14. Jurásek\, 20. Zelený\, 21.
+  Doudera\n  MEI: 8. Darida\, 12. Cerv\, 17. Provod\, 18. Sadílek\, 22. 
+ Tomáš Souček\, 24. Sojka\, 25. Sochurek\n  ATA: 9. Hlozek\, 10. Patri
+ k Schick\, 11. Kuchta\, 13. Chytil\, 15. Šulc\, 19. Chorý\, 26. Visín
+ ský
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -63,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-3@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 SUMMARY:🇨🇿 CZE x 🇿🇦 RSA — Fase de Grupos - Grupo A
@@ -73,8 +95,19 @@ DESCRIPTION:⚽ África do Sul e Tchequia se enfrentam em Atlanta em um d
  uia depende de uma vitória para se manter viva no torneio\; os sul-afri
  canos querem repetir o espírito combativo da geração que animou o mun
  do em 2010. Um jogo com o peso de uma eliminação precoce pairando sobr
- e cada lance.\n\n📋 PLANTEIS\n🇨🇿 Tchequia\n  (escalacao a confir
- mar)\n\n🇿🇦 Africa do Sul\n  (escalacao a confirmar)
+ e cada lance.\n\n📋 PLANTEIS\n🇨🇿 Tchequia (4-2-3-1 | Tec. Mirosl
+ av Koubek)\n  GOL: 1. Kovár\, 16. Staněk\, 23. Horníček\n  DEF: 2. Z
+ ima\, 3. Holes\, 4. Hranáč\, 5. Coufal\, 6. Chaloupek\, 7. Krejčí\, 
+ 14. Jurásek\, 20. Zelený\, 21. Doudera\n  MEI: 8. Darida\, 12. Cerv\, 
+ 17. Provod\, 18. Sadílek\, 22. Tomáš Souček\, 24. Sojka\, 25. Sochur
+ ek\n  ATA: 9. Hlozek\, 10. Patrik Schick\, 11. Kuchta\, 13. Chytil\, 15.
+  Šulc\, 19. Chorý\, 26. Visínský\n\n🇿🇦 Africa do Sul (4-4-2 | 
+ Tec. Hugo Broos)\n  GOL: 1. Williams\, 16. Chaine\, 22. Goss\n  DEF: 2. 
+ Matuludi\, 3. Ndamane\, 6. Modiba\, 14. Mbokazi\, 18. Kabini\, 19. Sibis
+ i\, 20. Mudau\, 21. Okon\, 24. Makhanya\, 26. Cross\n  MEI: 4. Mokoena\,
+  5. Mbatha\, 11. Zwane\, 13. Sithole\, 23. Adams\n  ATA: 7. Appollis\, 8
+ . Moremi\, 9. Foster\, 10. Mofokeng\, 12. Maseko\, 15. Rayners\, 17. Mak
+ gopa\, 25. Sebelebele
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -88,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-4@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 SUMMARY:🇲🇽 MEX x 🇰🇷 KOR — Fase de Grupos - Grupo A
@@ -99,8 +132,20 @@ DESCRIPTION:⚽ Dois estilos opostos se encontram em Guadalajara: a organ
  fitrião. A Coreia do Sul foi a sensação de 2002 (semifinalista) e des
  bancou Alemanha e Espanha no grupo de 2022 — não tem medo de ninguém
  . O vencedor quase certamente garante vaga no mata-mata.\n\n📋 PLANTEI
- S\n🇲🇽 Mexico\n  (escalacao a confirmar)\n\n🇰🇷 Coreia do Sul\
- n  (escalacao a confirmar)
+ S\n🇲🇽 Mexico (4-3-3 | Tec. Javier Aguirre)\n  GOL: 1. R. Rangel\, 
+ 12. C. Acevedo\, 13. G. Ochoa\n  DEF: 2. J. Sánchez\, 3. C. Montes\, 4.
+  E. Álvarez\, 5. J. Vásquez\, 15. I. Reyes\, 20. M. Chávez\, 23. J. G
+ allardo\n  MEI: 6. E. Lira\, 7. L. Romo\, 8. Fidalgo\, 17. Orbelín\, 18
+ . O. Vargas\, 19. G. Mora\, 24. L. Chávez\, 26. B. Gutiérrez\n  ATA: 9
+ . Raúl Jiménez\, 10. A. Vega\, 11. Santiago Giménez\, 14. A. Gonzále
+ z\, 16. J. Quiñones\, 21. C. Huerta\, 22. G. Martínez\, 25. R. Alvarad
+ o\n\n🇰🇷 Coreia do Sul (4-3-3 | Tec. Hong Myung-bo)\n  GOL: 1. Kim 
+ Seung-gyu\, 12. Bumkeun\, 21. Hyeonwoo\n  DEF: 2. Hanbeom\, 4. Kim Min-j
+ ae\, 5. Taehyeon\, 13. Taeseok\, 14. Wije\, 15. Moonhwan\, 16. Jinseob\,
+  22. Youngwoo\, 23. Jens\n  MEI: 3. Gihyuk\, 6. Inbeom\, 8. Seungho\, 10
+ . Jaesung\, 11. Heechan\, 17. Junho\, 19. Lee Kang-in\, 20. Hyunjun\, 24
+ . Jingyu\, 25. Jisung\, 26. Donggyeong\n  ATA: 7. Son Heung-min\, 9. Gus
+ eung\, 18. Hyeongyu
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -114,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-5@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇨🇿 CZE x 🇲🇽 MEX — Fase de Grupos - Grupo A
@@ -124,8 +169,19 @@ DESCRIPTION:⚽ No Azteca\, a última chance do México de confirmar a li
  ntos para avançar\, vai ao ataque sem nada a perder — exatamente o ti
  po de adversário que pode complicar um anfitrião. Um resultado que pod
  e definir o caminho do México até a final.\n\n📋 PLANTEIS\n🇨🇿 
- Tchequia\n  (escalacao a confirmar)\n\n🇲🇽 Mexico\n  (escalacao a c
- onfirmar)
+ Tchequia (4-2-3-1 | Tec. Miroslav Koubek)\n  GOL: 1. Kovár\, 16. Staně
+ k\, 23. Horníček\n  DEF: 2. Zima\, 3. Holes\, 4. Hranáč\, 5. Coufal\
+ , 6. Chaloupek\, 7. Krejčí\, 14. Jurásek\, 20. Zelený\, 21. Doudera\
+ n  MEI: 8. Darida\, 12. Cerv\, 17. Provod\, 18. Sadílek\, 22. Tomáš S
+ ouček\, 24. Sojka\, 25. Sochurek\n  ATA: 9. Hlozek\, 10. Patrik Schick\
+ , 11. Kuchta\, 13. Chytil\, 15. Šulc\, 19. Chorý\, 26. Visínský\n\n
+ 🇲🇽 Mexico (4-3-3 | Tec. Javier Aguirre)\n  GOL: 1. R. Rangel\, 12.
+  C. Acevedo\, 13. G. Ochoa\n  DEF: 2. J. Sánchez\, 3. C. Montes\, 4. E.
+  Álvarez\, 5. J. Vásquez\, 15. I. Reyes\, 20. M. Chávez\, 23. J. Gall
+ ardo\n  MEI: 6. E. Lira\, 7. L. Romo\, 8. Fidalgo\, 17. Orbelín\, 18. O
+ . Vargas\, 19. G. Mora\, 24. L. Chávez\, 26. B. Gutiérrez\n  ATA: 9. R
+ aúl Jiménez\, 10. A. Vega\, 11. Santiago Giménez\, 14. A. González\,
+  16. J. Quiñones\, 21. C. Huerta\, 22. G. Martínez\, 25. R. Alvarado
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -139,7 +195,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-6@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇿🇦 RSA x 🇰🇷 KOR — Fase de Grupos - Grupo A
@@ -149,8 +205,18 @@ DESCRIPTION:⚽ Em jogo simultâneo ao México vs. Tchequia\, África do
  ey. Son Heung-min e Percy Tau — dois dos melhores jogadores que já pa
  ssaram pelo futebol africano e asiático — podem protagonizar a disput
  a mais equilibrada da última rodada do Grupo A.\n\n📋 PLANTEIS\n🇿
- 🇦 Africa do Sul\n  (escalacao a confirmar)\n\n🇰🇷 Coreia do Sul\
- n  (escalacao a confirmar)
+ 🇦 Africa do Sul (4-4-2 | Tec. Hugo Broos)\n  GOL: 1. Williams\, 16. C
+ haine\, 22. Goss\n  DEF: 2. Matuludi\, 3. Ndamane\, 6. Modiba\, 14. Mbok
+ azi\, 18. Kabini\, 19. Sibisi\, 20. Mudau\, 21. Okon\, 24. Makhanya\, 26
+ . Cross\n  MEI: 4. Mokoena\, 5. Mbatha\, 11. Zwane\, 13. Sithole\, 23. A
+ dams\n  ATA: 7. Appollis\, 8. Moremi\, 9. Foster\, 10. Mofokeng\, 12. Ma
+ seko\, 15. Rayners\, 17. Makgopa\, 25. Sebelebele\n\n🇰🇷 Coreia do 
+ Sul (4-3-3 | Tec. Hong Myung-bo)\n  GOL: 1. Kim Seung-gyu\, 12. Bumkeun\
+ , 21. Hyeonwoo\n  DEF: 2. Hanbeom\, 4. Kim Min-jae\, 5. Taehyeon\, 13. T
+ aeseok\, 14. Wije\, 15. Moonhwan\, 16. Jinseob\, 22. Youngwoo\, 23. Jens
+ \n  MEI: 3. Gihyuk\, 6. Inbeom\, 8. Seungho\, 10. Jaesung\, 11. Heechan\
+ , 17. Junho\, 19. Lee Kang-in\, 20. Hyunjun\, 24. Jingyu\, 25. Jisung\, 
+ 26. Donggyeong\n  ATA: 7. Son Heung-min\, 9. Guseung\, 18. Hyeongyu
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -164,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-7@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 SUMMARY:🇨🇦 CAN x 🇧🇦 BIH — Fase de Grupos - Grupo B
@@ -174,8 +240,20 @@ DESCRIPTION:⚽ O Canadá abre o torneio em casa no BMO Field de Toronto
  e 1986. Alfonso Davies\, um dos melhores laterais-esquerdos do mundo pel
  o Bayern de Munique\, é o principal nome\; a Bósnia\, que eliminou a I
  tália na repescagem europeia\, não veio como turista.\n\n📋 PLANTEIS
- \n🇨🇦 Canada\n  (escalacao a confirmar)\n\n🇧🇦 Bosnia e Herzeg
- ovina\n  (escalacao a confirmar)
+ \n🇨🇦 Canada (4-3-3 | Tec. Jesse Marsch)\n  GOL: 1. St. Clair\, 16.
+  Crepeau\, 18. Goodman\n  DEF: 2. Johnston\, 3. Jones\, 4. De Fougerolle
+ s\, 5. Waterman\, 13. Cornelius\, 15. Bombito\, 19. Alphonso Davies\, 22
+ . Laryea\, 23. Sigur\n  MEI: 6. Choinière\, 7. Eustáquio\, 8. Koné\, 
+ 11. Millar\, 14. Shaffelburg\, 21. Osorio\, 25. Saliba\, 26. Marcelo\n  
+ ATA: 9. Larin\, 10. Jonathan David\, 12. Oluwaseyi\, 17. Buchanan\, 20. 
+ Ahmed\, 24. Promise\n\n🇧🇦 Bosnia e Herzegovina (3-5-2 | Tec. Serge
+ j Barbarez)\n  GOL: 1. Vasilj\, 12. Jurkas\, 22. Zlomislić\n  DEF: 2. M
+ ujakić\, 3. Hadžikadunic\, 4. Muharemović\, 5. Kolašinac\, 7. Dedić
+ \, 18. Katić\, 21. Radeljić\, 24. Celik\n  MEI: 6. Tahirović\, 8. Gig
+ ović\, 13. Bašić\, 14. Šunjić\, 15. Memić\, 16. Hadžiahmetović\,
+  17. Burnić\, 26. Mahmić\n  ATA: 9. Bazdar\, 10. Demirović\, 11. Edin
+  Džeko\, 19. Alajbegović\, 20. Bajraktarević\, 23. Tabakovic\, 25. Lu
+ kić
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -189,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-8@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:🇶🇦 QAT x 🇨🇭 SUI — Fase de Grupos - Grupo B
@@ -199,8 +277,18 @@ DESCRIPTION:⚽ O Catar disputa pela primeira vez uma Copa por mérito pr
  o na fase de grupos sem vencer. A Suíça\, uma das seleções mais cons
  istentes da Europa nos últimos dez anos\, é favorita — mas os qatari
  anos vão querer provar que merecem estar aqui.\n\n📋 PLANTEIS\n🇶
- 🇦 Catar\n  (escalacao a confirmar)\n\n🇨🇭 Suica\n  (escalacao a 
- confirmar)
+ 🇦 Catar (4-3-3 | Tec. Julen Lopetegui)\n  GOL: 1. Abunada\, 21. Salah
+ \, 22. Barsham\n  DEF: 2. Pedro\, 3. L. Mendes\, 4. Gueye\, 5. Jassem\, 
+ 13. Ayoub\, 14. Homam\, 16. Khoukhi\, 18. Sultan\, 25. Alhashmi\n  MEI: 
+ 6. A. Aziz\, 12. Karim\, 17. A. Alganehi\, 20. A. Fathy\, 23. Madibo\n  
+ ATA: 7. Alaeddin\, 8. Edmilson Jr.\, 9. Muntari\, 10. Alhaydos\, 11. Afi
+ f\, 15. Yusuf\, 19. Almoez\, 24. Tahsin\, 26. Manai\n\n🇨🇭 Suica (4
+ -4-2 | Tec. Murat Yakin)\n  GOL: 1. Kobel\, 12. Mvogo\, 21. Keller\n  DE
+ F: 2. Muheim\, 3. Widmer\, 4. Elvedi\, 5. Manuel Akanji\, 13. Rodríguez
+ \, 18. Comert\, 24. Amenda\, 25. Jaquez\n  MEI: 6. Zakaria\, 8. Freuler\
+ , 9. Manzambi\, 10. Granit Xhaka\, 14. Jashari\, 15. Sow\, 20. Aebischer
+ \, 22. Rieder\n  ATA: 7. Breel Embolo\, 11. Ndoye\, 16. Fassnacht\, 17. 
+ Vargas\, 19. Okafor\, 23. Amdouni\, 26. Itten
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -214,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-9@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 SUMMARY:🇨🇭 SUI x 🇧🇦 BIH — Fase de Grupos - Grupo B
@@ -223,8 +311,20 @@ DESCRIPTION:⚽ A Suíça\, máquina de regularidade europeia\, enfrenta
  a Bósnia no SoFi Stadium\, em Los Angeles. Os bósnios têm uma identid
  ade ofensiva marcante e vão tentar jogar em velocidade para desequilibr
  ar a sólida defesa helvética. Um jogo europeu transplantado para a Cal
- ifórnia.\n\n📋 PLANTEIS\n🇨🇭 Suica\n  (escalacao a confirmar)\n\
- n🇧🇦 Bosnia e Herzegovina\n  (escalacao a confirmar)
+ ifórnia.\n\n📋 PLANTEIS\n🇨🇭 Suica (4-4-2 | Tec. Murat Yakin)\n 
+  GOL: 1. Kobel\, 12. Mvogo\, 21. Keller\n  DEF: 2. Muheim\, 3. Widmer\, 
+ 4. Elvedi\, 5. Manuel Akanji\, 13. Rodríguez\, 18. Comert\, 24. Amenda\
+ , 25. Jaquez\n  MEI: 6. Zakaria\, 8. Freuler\, 9. Manzambi\, 10. Granit 
+ Xhaka\, 14. Jashari\, 15. Sow\, 20. Aebischer\, 22. Rieder\n  ATA: 7. Br
+ eel Embolo\, 11. Ndoye\, 16. Fassnacht\, 17. Vargas\, 19. Okafor\, 23. A
+ mdouni\, 26. Itten\n\n🇧🇦 Bosnia e Herzegovina (3-5-2 | Tec. Sergej
+  Barbarez)\n  GOL: 1. Vasilj\, 12. Jurkas\, 22. Zlomislić\n  DEF: 2. Mu
+ jakić\, 3. Hadžikadunic\, 4. Muharemović\, 5. Kolašinac\, 7. Dedić\
+ , 18. Katić\, 21. Radeljić\, 24. Celik\n  MEI: 6. Tahirović\, 8. Gigo
+ vić\, 13. Bašić\, 14. Šunjić\, 15. Memić\, 16. Hadžiahmetović\, 
+ 17. Burnić\, 26. Mahmić\n  ATA: 9. Bazdar\, 10. Demirović\, 11. Edin 
+ Džeko\, 19. Alajbegović\, 20. Bajraktarević\, 23. Tabakovic\, 25. Luk
+ ić
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -238,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-10@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 SUMMARY:🇨🇦 CAN x 🇶🇦 QAT — Fase de Grupos - Grupo B
@@ -248,8 +348,18 @@ DESCRIPTION:⚽ O Canadá precisa de uma vitória sobre o Catar no BC Pla
  ua torcida. Davies\, Jonathan David e Jacob Shaffelburg são as armas of
  ensivas de uma seleção que quer fazer história nesta Copa. Um estádi
  o fechado que vai criar uma atmosfera única.\n\n📋 PLANTEIS\n🇨🇦
-  Canada\n  (escalacao a confirmar)\n\n🇶🇦 Catar\n  (escalacao a con
- firmar)
+  Canada (4-3-3 | Tec. Jesse Marsch)\n  GOL: 1. St. Clair\, 16. Crepeau\,
+  18. Goodman\n  DEF: 2. Johnston\, 3. Jones\, 4. De Fougerolles\, 5. Wat
+ erman\, 13. Cornelius\, 15. Bombito\, 19. Alphonso Davies\, 22. Laryea\,
+  23. Sigur\n  MEI: 6. Choinière\, 7. Eustáquio\, 8. Koné\, 11. Millar
+ \, 14. Shaffelburg\, 21. Osorio\, 25. Saliba\, 26. Marcelo\n  ATA: 9. La
+ rin\, 10. Jonathan David\, 12. Oluwaseyi\, 17. Buchanan\, 20. Ahmed\, 24
+ . Promise\n\n🇶🇦 Catar (4-3-3 | Tec. Julen Lopetegui)\n  GOL: 1. Ab
+ unada\, 21. Salah\, 22. Barsham\n  DEF: 2. Pedro\, 3. L. Mendes\, 4. Gue
+ ye\, 5. Jassem\, 13. Ayoub\, 14. Homam\, 16. Khoukhi\, 18. Sultan\, 25. 
+ Alhashmi\n  MEI: 6. A. Aziz\, 12. Karim\, 17. A. Alganehi\, 20. A. Fathy
+ \, 23. Madibo\n  ATA: 7. Alaeddin\, 8. Edmilson Jr.\, 9. Muntari\, 10. A
+ lhaydos\, 11. Afif\, 15. Yusuf\, 19. Almoez\, 24. Tahsin\, 26. Manai
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -263,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-11@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇨🇭 SUI x 🇨🇦 CAN — Fase de Grupos - Grupo B
@@ -272,8 +382,19 @@ DESCRIPTION:⚽ Suíça e Canadá fecham o Grupo B no BC Place num duelo
  que pode definir quem vai como líder ao mata-mata. O aproveitamento do 
  adversário nas oitavas varia muito dependendo desta posição\, então 
  ambos os times vão ao ataque em busca da primeira colocação.\n\n📋 
- PLANTEIS\n🇨🇭 Suica\n  (escalacao a confirmar)\n\n🇨🇦 Canada\n
-   (escalacao a confirmar)
+ PLANTEIS\n🇨🇭 Suica (4-4-2 | Tec. Murat Yakin)\n  GOL: 1. Kobel\, 1
+ 2. Mvogo\, 21. Keller\n  DEF: 2. Muheim\, 3. Widmer\, 4. Elvedi\, 5. Man
+ uel Akanji\, 13. Rodríguez\, 18. Comert\, 24. Amenda\, 25. Jaquez\n  ME
+ I: 6. Zakaria\, 8. Freuler\, 9. Manzambi\, 10. Granit Xhaka\, 14. Jashar
+ i\, 15. Sow\, 20. Aebischer\, 22. Rieder\n  ATA: 7. Breel Embolo\, 11. N
+ doye\, 16. Fassnacht\, 17. Vargas\, 19. Okafor\, 23. Amdouni\, 26. Itten
+ \n\n🇨🇦 Canada (4-3-3 | Tec. Jesse Marsch)\n  GOL: 1. St. Clair\, 1
+ 6. Crepeau\, 18. Goodman\n  DEF: 2. Johnston\, 3. Jones\, 4. De Fougerol
+ les\, 5. Waterman\, 13. Cornelius\, 15. Bombito\, 19. Alphonso Davies\, 
+ 22. Laryea\, 23. Sigur\n  MEI: 6. Choinière\, 7. Eustáquio\, 8. Koné\
+ , 11. Millar\, 14. Shaffelburg\, 21. Osorio\, 25. Saliba\, 26. Marcelo\n
+   ATA: 9. Larin\, 10. Jonathan David\, 12. Oluwaseyi\, 17. Buchanan\, 20
+ . Ahmed\, 24. Promise
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -287,7 +408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-12@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇧🇦 BIH x 🇶🇦 QAT — Fase de Grupos - Grupo B
@@ -296,8 +417,20 @@ DESCRIPTION:⚽ Bósnia e Catar em Seattle: dois times que precisam de po
  ntos para sobreviver no torneio — um drama de última rodada que pode 
  ter a intensidade de um jogo eliminatório. O Catar\, eliminado sem venc
  er em 2022\, vai ao campo pelo orgulho de\, pelo menos\, marcar um gol n
- uma Copa disputada.\n\n📋 PLANTEIS\n🇧🇦 Bosnia e Herzegovina\n  (
- escalacao a confirmar)\n\n🇶🇦 Catar\n  (escalacao a confirmar)
+ uma Copa disputada.\n\n📋 PLANTEIS\n🇧🇦 Bosnia e Herzegovina (3-5
+ -2 | Tec. Sergej Barbarez)\n  GOL: 1. Vasilj\, 12. Jurkas\, 22. Zlomisli
+ ć\n  DEF: 2. Mujakić\, 3. Hadžikadunic\, 4. Muharemović\, 5. Kolaši
+ nac\, 7. Dedić\, 18. Katić\, 21. Radeljić\, 24. Celik\n  MEI: 6. Tahi
+ rović\, 8. Gigović\, 13. Bašić\, 14. Šunjić\, 15. Memić\, 16. Had
+ žiahmetović\, 17. Burnić\, 26. Mahmić\n  ATA: 9. Bazdar\, 10. Demiro
+ vić\, 11. Edin Džeko\, 19. Alajbegović\, 20. Bajraktarević\, 23. Tab
+ akovic\, 25. Lukić\n\n🇶🇦 Catar (4-3-3 | Tec. Julen Lopetegui)\n  
+ GOL: 1. Abunada\, 21. Salah\, 22. Barsham\n  DEF: 2. Pedro\, 3. L. Mende
+ s\, 4. Gueye\, 5. Jassem\, 13. Ayoub\, 14. Homam\, 16. Khoukhi\, 18. Sul
+ tan\, 25. Alhashmi\n  MEI: 6. A. Aziz\, 12. Karim\, 17. A. Alganehi\, 20
+ . A. Fathy\, 23. Madibo\n  ATA: 7. Alaeddin\, 8. Edmilson Jr.\, 9. Munta
+ ri\, 10. Alhaydos\, 11. Afif\, 15. Yusuf\, 19. Almoez\, 24. Tahsin\, 26.
+  Manai
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -311,7 +444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-13@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:🇧🇷 BRA x 🇲🇦 MAR — Fase de Grupos - Grupo C
@@ -323,8 +456,20 @@ DESCRIPTION:⚽ A CNN elegeu este como um dos 10 melhores jogos da fase d
  phinha e Endrick lideram o ataque\; do outro lado\, Brahim Díaz\, Achra
  f Hakimi e o goleiro Yassine Bounou formam um Marrocos que não é mais 
  surpresa: é potência.\n\n📋 PLANTEIS\n🇧🇷 Brasil (4-2-3-1 | Tec
- . Carlo Ancelotti)\n  (escalacao a confirmar)\n\n🇲🇦 Marrocos\n  (e
- scalacao a confirmar)
+ . Carlo Ancelotti)\n  GOL: 1. Alisson Becker\, 12. Weverton\, 23. Ederso
+ n\n  DEF: 2. Wesley\, 3. Gabriel Magalhães\, 4. Marquinhos\, 6. Alex Sa
+ ndro\, 13. Danilo\, 14. Bremer\, 15. Léo Pereira\, 16. Douglas Santos\,
+  24. Ibañez\n  MEI: 5. Casemiro\, 8. Bruno Guimarães\, 17. Fabinho\, 1
+ 8. Danilo Barbosa\, 20. Lucas Paquetá\n  ATA: 7. Vinícius Jr.\, 9. Mat
+ heus Cunha\, 10. Neymar Jr.\, 11. Raphinha\, 19. Endrick\, 21. Luiz Henr
+ ique\, 22. Gabriel Martinelli\, 25. Igor Thiago\, 26. Rayan\n\n🇲🇦 
+ Marrocos (4-3-3 | Tec. Mohamed Ouahbi)\n  GOL: 1. Bono\, 12. El Kajoui\,
+  22. Tagnaouti\n  DEF: 2. Achraf Hakimi\, 3. Noussair Mazraoui\, 5. Ague
+ rd\, 13. El Ouahdi\, 14. Issa\, 18. Riad\, 19. Belammari\, 25. Halhal\, 
+ 26. Salah-Eddine\n  MEI: 4. Amrabat\, 6. Bouaddi\, 7. Talbi\, 8. Ouahi\,
+  11. Saibari\, 15. El Mourabet\, 16. Yassine\, 23. El Khannouss\, 24. El
+  Aynaoui\n  ATA: 9. Rahimi\, 10. Brahim Díaz\, 17. Ezzalzouli\, 20. El 
+ Kaabi\, 21. Amaimouni
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -338,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-14@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:🇭🇹 HAI x 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCO — Fase de Grupo
@@ -350,8 +495,19 @@ DESCRIPTION:⚽ O Haiti faz sua primeira aparição numa Copa do Mundo de
   Copa\, entra com a missão de finalmente escrever um capítulo diferent
  e. Dois países com histórias complexas e torcidas de coração partido
   disputam neste jogo muito mais do que três pontos.\n\n📋 PLANTEIS\n
- 🇭🇹 Haiti\n  (escalacao a confirmar)\n\n🏴󠁧󠁢󠁳󠁣󠁴
- 󠁿 Escocia\n  (escalacao a confirmar)
+ 🇭🇹 Haiti (4-4-2 | Tec. Sébastien Migné)\n  GOL: 1. Placide\, 12.
+  A. Pierre\, 23. Duverger\n  DEF: 2. Arcus\, 3. Thermoncy\, 4. Ade\, 5. 
+ Delcroix\, 8. Experience\, 13. Lacroix\, 22. Duverne\, 24. Paugin\n  MEI
+ : 6. Sainte\, 10. Bellegarde\, 14. L. Pierre\, 17. Jean Jacques\, 25. Si
+ mon\, 26. W. Pierre\n  ATA: 7. Etienne Jr\, 9. Nazon\, 11. Deedson\, 15.
+  Providence\, 16. Joseph\, 18. Isidor\, 19. Fortune\, 20. Pierrot\, 21. 
+ Casimir\n\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia (4-3-3 | Tec. Steve Clar
+ ke)\n  GOL: 1. Gunn\, 12. Kelly\, 21. Gordon\n  DEF: 2. Hickey\, 3. Andy
+  Robertson\, 5. Hanley\, 6. Tierney\, 13. Hendry\, 15. Souttar\, 16. Hya
+ m\, 22. Patterson\, 24. Ralston\, 26. McKenna\n  MEI: 4. Scott McTominay
+ \, 7. McGinn\, 8. Fletcher\, 11. Christie\, 19. Ferguson\, 23. McLean\n 
+  ATA: 9. Dykes\, 10. Che Adams\, 14. Stewart\, 17. Gannon Doak\, 18. Hir
+ st\, 20. Shankland\, 25. Curtis
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -365,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-15@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCO x 🇲🇦 MAR — Fase de Grupo
@@ -376,8 +532,20 @@ DESCRIPTION:⚽ A Escócia enfrenta o Marrocos — campeão africano e se
  ue pode definir quem acompanha o Brasil nas oitavas. Scott McTominay (Ma
  nchester City) lidera os escoceses\; Hakimi e Brahim Díaz são as armas
   marroquinas. Uma vitória escocesa seria uma das grandes surpresas da C
- opa.\n\n📋 PLANTEIS\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia\n  (escalaca
- o a confirmar)\n\n🇲🇦 Marrocos\n  (escalacao a confirmar)
+ opa.\n\n📋 PLANTEIS\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escocia (4-3-3 | Tec
+ . Steve Clarke)\n  GOL: 1. Gunn\, 12. Kelly\, 21. Gordon\n  DEF: 2. Hick
+ ey\, 3. Andy Robertson\, 5. Hanley\, 6. Tierney\, 13. Hendry\, 15. Soutt
+ ar\, 16. Hyam\, 22. Patterson\, 24. Ralston\, 26. McKenna\n  MEI: 4. Sco
+ tt McTominay\, 7. McGinn\, 8. Fletcher\, 11. Christie\, 19. Ferguson\, 2
+ 3. McLean\n  ATA: 9. Dykes\, 10. Che Adams\, 14. Stewart\, 17. Gannon Do
+ ak\, 18. Hirst\, 20. Shankland\, 25. Curtis\n\n🇲🇦 Marrocos (4-3-3 
+ | Tec. Mohamed Ouahbi)\n  GOL: 1. Bono\, 12. El Kajoui\, 22. Tagnaouti\n
+   DEF: 2. Achraf Hakimi\, 3. Noussair Mazraoui\, 5. Aguerd\, 13. El Ouah
+ di\, 14. Issa\, 18. Riad\, 19. Belammari\, 25. Halhal\, 26. Salah-Eddine
+ \n  MEI: 4. Amrabat\, 6. Bouaddi\, 7. Talbi\, 8. Ouahi\, 11. Saibari\, 1
+ 5. El Mourabet\, 16. Yassine\, 23. El Khannouss\, 24. El Aynaoui\n  ATA:
+  9. Rahimi\, 10. Brahim Díaz\, 17. Ezzalzouli\, 20. El Kaabi\, 21. Amai
+ mouni
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -391,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-16@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 SUMMARY:🇧🇷 BRA x 🇭🇹 HAI — Fase de Grupos - Grupo C
@@ -401,8 +569,20 @@ DESCRIPTION:⚽ Brasil e Haiti\, em Filadelfia: no papel\, uma formalidad
  entos inesquecíveis exatamente neste tipo de jogo. Vinícius Jr. e Endr
  ick devem ser os protagonistas\; o Haiti vai jogar em homenagem a um pov
  o que sonha grande mesmo quando os recursos são pequenos.\n\n📋 PLANT
- EIS\n🇧🇷 Brasil (4-2-3-1 | Tec. Carlo Ancelotti)\n  (escalacao a co
- nfirmar)\n\n🇭🇹 Haiti\n  (escalacao a confirmar)
+ EIS\n🇧🇷 Brasil (4-2-3-1 | Tec. Carlo Ancelotti)\n  GOL: 1. Alisson
+  Becker\, 12. Weverton\, 23. Ederson\n  DEF: 2. Wesley\, 3. Gabriel Maga
+ lhães\, 4. Marquinhos\, 6. Alex Sandro\, 13. Danilo\, 14. Bremer\, 15. 
+ Léo Pereira\, 16. Douglas Santos\, 24. Ibañez\n  MEI: 5. Casemiro\, 8.
+  Bruno Guimarães\, 17. Fabinho\, 18. Danilo Barbosa\, 20. Lucas Paquet
+ á\n  ATA: 7. Vinícius Jr.\, 9. Matheus Cunha\, 10. Neymar Jr.\, 11. Ra
+ phinha\, 19. Endrick\, 21. Luiz Henrique\, 22. Gabriel Martinelli\, 25. 
+ Igor Thiago\, 26. Rayan\n\n🇭🇹 Haiti (4-4-2 | Tec. Sébastien Mign
+ é)\n  GOL: 1. Placide\, 12. A. Pierre\, 23. Duverger\n  DEF: 2. Arcus\,
+  3. Thermoncy\, 4. Ade\, 5. Delcroix\, 8. Experience\, 13. Lacroix\, 22.
+  Duverne\, 24. Paugin\n  MEI: 6. Sainte\, 10. Bellegarde\, 14. L. Pierre
+ \, 17. Jean Jacques\, 25. Simon\, 26. W. Pierre\n  ATA: 7. Etienne Jr\, 
+ 9. Nazon\, 11. Deedson\, 15. Providence\, 16. Joseph\, 18. Isidor\, 19. 
+ Fortune\, 20. Pierrot\, 21. Casimir
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -416,7 +596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-17@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCO x 🇧🇷 BRA — Fase de Grupo
@@ -427,8 +607,20 @@ DESCRIPTION:⚽ No Hard Rock Stadium de Miami — casa da NFL e de grande
  elmente já classificada\, Ancelotti pode poupar titulares para o mata-m
  ata. Para os escoceses\, cada minuto é a última chance de deixar uma m
  arca neste Mundial.\n\n📋 PLANTEIS\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Escoc
- ia\n  (escalacao a confirmar)\n\n🇧🇷 Brasil (4-2-3-1 | Tec. Carlo A
- ncelotti)\n  (escalacao a confirmar)
+ ia (4-3-3 | Tec. Steve Clarke)\n  GOL: 1. Gunn\, 12. Kelly\, 21. Gordon\
+ n  DEF: 2. Hickey\, 3. Andy Robertson\, 5. Hanley\, 6. Tierney\, 13. Hen
+ dry\, 15. Souttar\, 16. Hyam\, 22. Patterson\, 24. Ralston\, 26. McKenna
+ \n  MEI: 4. Scott McTominay\, 7. McGinn\, 8. Fletcher\, 11. Christie\, 1
+ 9. Ferguson\, 23. McLean\n  ATA: 9. Dykes\, 10. Che Adams\, 14. Stewart\
+ , 17. Gannon Doak\, 18. Hirst\, 20. Shankland\, 25. Curtis\n\n🇧🇷 B
+ rasil (4-2-3-1 | Tec. Carlo Ancelotti)\n  GOL: 1. Alisson Becker\, 12. W
+ everton\, 23. Ederson\n  DEF: 2. Wesley\, 3. Gabriel Magalhães\, 4. Mar
+ quinhos\, 6. Alex Sandro\, 13. Danilo\, 14. Bremer\, 15. Léo Pereira\, 
+ 16. Douglas Santos\, 24. Ibañez\n  MEI: 5. Casemiro\, 8. Bruno Guimarã
+ es\, 17. Fabinho\, 18. Danilo Barbosa\, 20. Lucas Paquetá\n  ATA: 7. Vi
+ nícius Jr.\, 9. Matheus Cunha\, 10. Neymar Jr.\, 11. Raphinha\, 19. End
+ rick\, 21. Luiz Henrique\, 22. Gabriel Martinelli\, 25. Igor Thiago\, 26
+ . Rayan
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -442,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-18@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🇲🇦 MAR x 🇭🇹 HAI — Fase de Grupos - Grupo C
@@ -452,8 +644,19 @@ DESCRIPTION:⚽ Marrocos e Haiti fecham o Grupo C em Atlanta com a segund
  e de grupos com a responsabilidade de confirmar o status de potência co
  ntinental. O Haiti vai entrar em campo pelo orgulho de disputar uma Copa
   do Mundo após décadas de ausência.\n\n📋 PLANTEIS\n🇲🇦 Marroc
- os\n  (escalacao a confirmar)\n\n🇭🇹 Haiti\n  (escalacao a confirma
- r)
+ os (4-3-3 | Tec. Mohamed Ouahbi)\n  GOL: 1. Bono\, 12. El Kajoui\, 22. T
+ agnaouti\n  DEF: 2. Achraf Hakimi\, 3. Noussair Mazraoui\, 5. Aguerd\, 1
+ 3. El Ouahdi\, 14. Issa\, 18. Riad\, 19. Belammari\, 25. Halhal\, 26. Sa
+ lah-Eddine\n  MEI: 4. Amrabat\, 6. Bouaddi\, 7. Talbi\, 8. Ouahi\, 11. S
+ aibari\, 15. El Mourabet\, 16. Yassine\, 23. El Khannouss\, 24. El Aynao
+ ui\n  ATA: 9. Rahimi\, 10. Brahim Díaz\, 17. Ezzalzouli\, 20. El Kaabi\
+ , 21. Amaimouni\n\n🇭🇹 Haiti (4-4-2 | Tec. Sébastien Migné)\n  GO
+ L: 1. Placide\, 12. A. Pierre\, 23. Duverger\n  DEF: 2. Arcus\, 3. Therm
+ oncy\, 4. Ade\, 5. Delcroix\, 8. Experience\, 13. Lacroix\, 22. Duverne\
+ , 24. Paugin\n  MEI: 6. Sainte\, 10. Bellegarde\, 14. L. Pierre\, 17. Je
+ an Jacques\, 25. Simon\, 26. W. Pierre\n  ATA: 7. Etienne Jr\, 9. Nazon\
+ , 11. Deedson\, 15. Providence\, 16. Joseph\, 18. Isidor\, 19. Fortune\,
+  20. Pierrot\, 21. Casimir
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -467,7 +670,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-19@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 SUMMARY:🇺🇸 USA x 🇵🇾 PAR — Fase de Grupos - Grupo D
@@ -478,8 +681,19 @@ DESCRIPTION:⚽ Os Estados Unidos\, um dos anfitriões\, abrem o torneio
  nsformou o Paris Saint-Germain\, tem a missão de levar os americanos ma
  is longe do que qualquer geração anterior. O Paraguai\, clássico sul-
  americano difícil de bater\, será o primeiro teste desta jornada.\n\n
- 📋 PLANTEIS\n🇺🇸 Estados Unidos\n  (escalacao a confirmar)\n\n
- 🇵🇾 Paraguai\n  (escalacao a confirmar)
+ 📋 PLANTEIS\n🇺🇸 Estados Unidos (4-3-3 | Tec. Mauricio Pochettino
+ )\n  GOL: 1. Turner\, 24. Freese\, 25. Brady\n  DEF: 2. Dest\, 3. Richar
+ ds\, 5. A. Robinson\, 6. Trusty\, 12. M. Robinson\, 13. Ream\, 16. Freem
+ an\, 18. Arfsten\, 22. McKenzie\, 23. Scally\n  MEI: 4. Tyler Adams\, 7.
+  Reyna\, 8. McKennie\, 14. Berhalter\, 15. Roldan\, 17. Tillman\n  ATA: 
+ 9. Pepi\, 10. Christian Pulisic\, 11. Aaronson\, 19. Wright\, 20. Balogu
+ n\, 21. Weah\, 26. Zendejas\n\n🇵🇾 Paraguai (4-4-2 | Tec. Gustavo A
+ lfaro)\n  GOL: 1. Fernandez\, 12. O. Gill\, 22. Oliveira\n  DEF: 2. Vel
+ ázquez\, 3. Alderete\, 4. Cáceres\, 5. Balbuena\, 6. Alonso\, 13. Cana
+ le\, 15. G. Gomez\, 26. Maidana\n  MEI: 7. Sosa\, 8. D. Gomez\, 10. Migu
+ el Almirón\, 11. Mauricio\, 14. Cubas\, 16. Bobadilla\, 20. Ojeda\, 23.
+  Galarza\, 24. Caballero\n  ATA: 9. Sanabria\, 17. R. Gamarra\, 18. Arce
+ \, 19. Enciso\, 21. Avalos\, 25. Pitta
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -493,7 +707,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-20@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 SUMMARY:🇦🇺 AUS x 🇹🇷 TUR — Fase de Grupos - Grupo D
@@ -503,8 +717,20 @@ DESCRIPTION:⚽ A Turquia está de volta a uma Copa após 24 anos de aus
  ha do país. Arda Güler\, a joia do Real Madrid\, faz aqui sua estreia 
  num Mundial. A Austrália\, que chegou às semifinais em 2006 com Tim Ca
  hill\, tem uma nova geração querendo repetir o feito histórico.\n\n
- 📋 PLANTEIS\n🇦🇺 Australia\n  (escalacao a confirmar)\n\n🇹🇷
-  Turquia\n  (escalacao a confirmar)
+ 📋 PLANTEIS\n🇦🇺 Australia (4-4-2 | Tec. Tony Popovic)\n  GOL: 1.
+  Mathew Ryan\, 12. Izzo\, 18. Beach\n  DEF: 2. Degenek\, 3. Circati\, 4.
+  Italiano\, 5. Bos\, 6. Geria\, 15. Trewin\, 16. Behich\, 19. Souttar\, 
+ 21. Burgess\, 25. Herrington\n  MEI: 8. Metcalfe\, 13. O'Neill\, 14. Dev
+ lin\, 22. Irvine\, 24. Okon-Engstler\n  ATA: 7. Leckie\, 9. Toure\, 10. 
+ Hrustic\, 11. Mabil\, 17. Irankunda\, 20. Volpato\, 23. Velupillay\, 26.
+  Yengi\n\n🇹🇷 Turquia (4-2-3-1 | Tec. Vincenzo Montella)\n  GOL: 1.
+  Mert\, 12. Altay\, 23. Uğurcan\n  DEF: 2. Zeki Çelik\, 3. Merih Demir
+ al\, 4. Çağlar Söyüncü\, 13. Eren Elmalı\, 14. Abdülkerim\, 15. O
+ zan Kabak\, 18. Mert Müldür\, 20. F. Kadıoğlu\, 25. Samet Akaydin\n 
+  MEI: 5. Özcan\, 6. Orkun Kökçü\, 10. Hakan Çalhanoğlu\, 16. İsma
+ il\, 22. Kaan\n  ATA: 7. Aktürkoğlu\, 8. Arda Güler\, 9. Deniz Gül\,
+  11. Kenan Yıldız\, 17. Kahveci\, 19. Yunus Akgün\, 21. Barış\, 24.
+  Oğuz\, 26. Can Uzun
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -518,7 +744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-21@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 SUMMARY:🇺🇸 USA x 🇦🇺 AUS — Fase de Grupos - Grupo D
@@ -528,8 +754,19 @@ DESCRIPTION:⚽ Dois países de língua inglesa com culturas esportivas f
  ória\; os australianos\, liderados pelo goleiro Mathew Ryan\, apostam n
  uma organização defensiva que complica qualquer adversário. Um jogo e
  ntre dois times que jogam futebol com a garra de quem cresceu em outras 
- tradições esportivas.\n\n📋 PLANTEIS\n🇺🇸 Estados Unidos\n  (es
- calacao a confirmar)\n\n🇦🇺 Australia\n  (escalacao a confirmar)
+ tradições esportivas.\n\n📋 PLANTEIS\n🇺🇸 Estados Unidos (4-3-3
+  | Tec. Mauricio Pochettino)\n  GOL: 1. Turner\, 24. Freese\, 25. Brady\
+ n  DEF: 2. Dest\, 3. Richards\, 5. A. Robinson\, 6. Trusty\, 12. M. Robi
+ nson\, 13. Ream\, 16. Freeman\, 18. Arfsten\, 22. McKenzie\, 23. Scally\
+ n  MEI: 4. Tyler Adams\, 7. Reyna\, 8. McKennie\, 14. Berhalter\, 15. Ro
+ ldan\, 17. Tillman\n  ATA: 9. Pepi\, 10. Christian Pulisic\, 11. Aaronso
+ n\, 19. Wright\, 20. Balogun\, 21. Weah\, 26. Zendejas\n\n🇦🇺 Austr
+ alia (4-4-2 | Tec. Tony Popovic)\n  GOL: 1. Mathew Ryan\, 12. Izzo\, 18.
+  Beach\n  DEF: 2. Degenek\, 3. Circati\, 4. Italiano\, 5. Bos\, 6. Geria
+ \, 15. Trewin\, 16. Behich\, 19. Souttar\, 21. Burgess\, 25. Herrington\
+ n  MEI: 8. Metcalfe\, 13. O'Neill\, 14. Devlin\, 22. Irvine\, 24. Okon-E
+ ngstler\n  ATA: 7. Leckie\, 9. Toure\, 10. Hrustic\, 11. Mabil\, 17. Ira
+ nkunda\, 20. Volpato\, 23. Velupillay\, 26. Yengi
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -543,7 +780,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-22@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 SUMMARY:🇹🇷 TUR x 🇵🇾 PAR — Fase de Grupos - Grupo D
@@ -552,8 +789,21 @@ DESCRIPTION:⚽ Arda Güler — 20 anos\, Real Madrid\, já comparado a I
  niesta — tem aqui um dos primeiros jogos grandes de sua carreira numa 
  Copa do Mundo. O Paraguai é um time difícil\, com marcação intensa e
   bola parada como arma. Um resultado positivo da Turquia a colocaria em 
- posição privilegiada no Grupo D.\n\n📋 PLANTEIS\n🇹🇷 Turquia\n 
-  (escalacao a confirmar)\n\n🇵🇾 Paraguai\n  (escalacao a confirmar)
+ posição privilegiada no Grupo D.\n\n📋 PLANTEIS\n🇹🇷 Turquia (4
+ -2-3-1 | Tec. Vincenzo Montella)\n  GOL: 1. Mert\, 12. Altay\, 23. Uğur
+ can\n  DEF: 2. Zeki Çelik\, 3. Merih Demiral\, 4. Çağlar Söyüncü\,
+  13. Eren Elmalı\, 14. Abdülkerim\, 15. Ozan Kabak\, 18. Mert Müldür
+ \, 20. F. Kadıoğlu\, 25. Samet Akaydin\n  MEI: 5. Özcan\, 6. Orkun K
+ ökçü\, 10. Hakan Çalhanoğlu\, 16. İsmail\, 22. Kaan\n  ATA: 7. Akt
+ ürkoğlu\, 8. Arda Güler\, 9. Deniz Gül\, 11. Kenan Yıldız\, 17. Ka
+ hveci\, 19. Yunus Akgün\, 21. Barış\, 24. Oğuz\, 26. Can Uzun\n\n
+ 🇵🇾 Paraguai (4-4-2 | Tec. Gustavo Alfaro)\n  GOL: 1. Fernandez\, 1
+ 2. O. Gill\, 22. Oliveira\n  DEF: 2. Velázquez\, 3. Alderete\, 4. Cáce
+ res\, 5. Balbuena\, 6. Alonso\, 13. Canale\, 15. G. Gomez\, 26. Maidana\
+ n  MEI: 7. Sosa\, 8. D. Gomez\, 10. Miguel Almirón\, 11. Mauricio\, 14.
+  Cubas\, 16. Bobadilla\, 20. Ojeda\, 23. Galarza\, 24. Caballero\n  ATA:
+  9. Sanabria\, 17. R. Gamarra\, 18. Arce\, 19. Enciso\, 21. Avalos\, 25.
+  Pitta
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -567,7 +817,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-23@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇹🇷 TUR x 🇺🇸 USA — Fase de Grupos - Grupo D
@@ -578,8 +828,20 @@ DESCRIPTION:⚽ A CNN elegeu este como um dos 10 melhores jogos da fase d
  ma invencibilidade de oito jogos consecutivos\, incluindo um empate hero
  ico de 2 a 2 contra a Espanha fora de casa. Christian Pulisic lidera os 
  americanos — mas a Turquia de Güler não vai facilitar.\n\n📋 PLANT
- EIS\n🇹🇷 Turquia\n  (escalacao a confirmar)\n\n🇺🇸 Estados Uni
- dos\n  (escalacao a confirmar)
+ EIS\n🇹🇷 Turquia (4-2-3-1 | Tec. Vincenzo Montella)\n  GOL: 1. Mert
+ \, 12. Altay\, 23. Uğurcan\n  DEF: 2. Zeki Çelik\, 3. Merih Demiral\, 
+ 4. Çağlar Söyüncü\, 13. Eren Elmalı\, 14. Abdülkerim\, 15. Ozan K
+ abak\, 18. Mert Müldür\, 20. F. Kadıoğlu\, 25. Samet Akaydin\n  MEI:
+  5. Özcan\, 6. Orkun Kökçü\, 10. Hakan Çalhanoğlu\, 16. İsmail\, 
+ 22. Kaan\n  ATA: 7. Aktürkoğlu\, 8. Arda Güler\, 9. Deniz Gül\, 11. 
+ Kenan Yıldız\, 17. Kahveci\, 19. Yunus Akgün\, 21. Barış\, 24. Oğu
+ z\, 26. Can Uzun\n\n🇺🇸 Estados Unidos (4-3-3 | Tec. Mauricio Poche
+ ttino)\n  GOL: 1. Turner\, 24. Freese\, 25. Brady\n  DEF: 2. Dest\, 3. R
+ ichards\, 5. A. Robinson\, 6. Trusty\, 12. M. Robinson\, 13. Ream\, 16. 
+ Freeman\, 18. Arfsten\, 22. McKenzie\, 23. Scally\n  MEI: 4. Tyler Adams
+ \, 7. Reyna\, 8. McKennie\, 14. Berhalter\, 15. Roldan\, 17. Tillman\n  
+ ATA: 9. Pepi\, 10. Christian Pulisic\, 11. Aaronson\, 19. Wright\, 20. B
+ alogun\, 21. Weah\, 26. Zendejas
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -593,7 +855,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-24@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇵🇾 PAR x 🇦🇺 AUS — Fase de Grupos - Grupo D
@@ -603,8 +865,19 @@ DESCRIPTION:⚽ Paraguai e Austrália encerram o Grupo D em San José com
  s desistirem no futebol sul-americano\, e os australianos\, que sempre e
  ncontram uma forma de surpreender em Copas\, disputam uma das vagas do m
  ata-mata numa batalha que pode ir até os últimos minutos.\n\n📋 PLAN
- TEIS\n🇵🇾 Paraguai\n  (escalacao a confirmar)\n\n🇦🇺 Australia
- \n  (escalacao a confirmar)
+ TEIS\n🇵🇾 Paraguai (4-4-2 | Tec. Gustavo Alfaro)\n  GOL: 1. Fernand
+ ez\, 12. O. Gill\, 22. Oliveira\n  DEF: 2. Velázquez\, 3. Alderete\, 4.
+  Cáceres\, 5. Balbuena\, 6. Alonso\, 13. Canale\, 15. G. Gomez\, 26. Ma
+ idana\n  MEI: 7. Sosa\, 8. D. Gomez\, 10. Miguel Almirón\, 11. Mauricio
+ \, 14. Cubas\, 16. Bobadilla\, 20. Ojeda\, 23. Galarza\, 24. Caballero\n
+   ATA: 9. Sanabria\, 17. R. Gamarra\, 18. Arce\, 19. Enciso\, 21. Avalos
+ \, 25. Pitta\n\n🇦🇺 Australia (4-4-2 | Tec. Tony Popovic)\n  GOL: 1
+ . Mathew Ryan\, 12. Izzo\, 18. Beach\n  DEF: 2. Degenek\, 3. Circati\, 4
+ . Italiano\, 5. Bos\, 6. Geria\, 15. Trewin\, 16. Behich\, 19. Souttar\,
+  21. Burgess\, 25. Herrington\n  MEI: 8. Metcalfe\, 13. O'Neill\, 14. De
+ vlin\, 22. Irvine\, 24. Okon-Engstler\n  ATA: 7. Leckie\, 9. Toure\, 10.
+  Hrustic\, 11. Mabil\, 17. Irankunda\, 20. Volpato\, 23. Velupillay\, 26
+ . Yengi
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -618,7 +891,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-25@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:🇩🇪 GER x 🇨🇼 CUW — Fase de Grupos - Grupo E
@@ -629,8 +902,19 @@ DESCRIPTION:⚽ Curaçao — uma ilha caribenha de 150 mil habitantes —
  \, dois dos jovens mais talentosos do futebol europeu\, é tetracampeã 
  e quer mostrar que está pronta para o quinto título. Um duelo simbóli
  co do futebol mais inclusivo da história.\n\n📋 PLANTEIS\n🇩🇪 Al
- emanha\n  (escalacao a confirmar)\n\n🇨🇼 Curacao\n  (escalacao a co
- nfirmar)
+ emanha (4-2-3-1 | Tec. Julian Nagelsmann)\n  GOL: 1. Manuel Neuer\, 12. 
+ Baumann\, 21. Nübel\n  DEF: 2. Antonio Rüdiger\, 3. Anton\, 4. Jonatha
+ n Tah\, 6. Joshua Kimmich\, 15. Schlotterbeck\, 18. Brown\, 22. Raum\, 2
+ 4. Thiaw\n  MEI: 5. Pavlovic\, 8. Goretzka\, 9. Leweling\, 10. Jamal Mus
+ iala\, 13. Groß\, 16. Stiller\, 17. Florian Wirtz\, 19. Sané\, 20. Ami
+ ri\, 23. Nmecha\, 25. Karl\n  ATA: 7. Kai Havertz\, 11. Woltemade\, 14. 
+ Beier\, 26. Undav\n\n🇨🇼 Curacao (4-4-2 | Tec. Dick Advocaat)\n  GO
+ L: 1. Room\, 25. Bodak\, 26. Doornbusch\n  DEF: 2. Sambo\, 3. Gaari\, 4.
+  Van Eijma\, 5. Floranus\, 18. Obispo\, 20. Brenet\, 23. Bazoer\, 24. Fo
+ nville\n  MEI: 6. Roemeratoe\, 7. J. Bacuna\, 8. Comenencia\, 10. L. Bac
+ una\, 15. Martha\, 21. Chong\, 22. Felida\n  ATA: 9. Locadia\, 11. Anton
+ isse\, 12. Hansen\, 13. Noslin\, 14. Gorre\, 16. Margaritha\, 17. Kuwas\
+ , 19. Kastaneer
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -644,7 +928,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-26@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 SUMMARY:🇨🇮 CIV x 🇪🇨 ECU — Fase de Grupos - Grupo E
@@ -653,8 +937,20 @@ DESCRIPTION:⚽ A Costa do Marfim\, bicampeã africana (2015 e 2023)\, es
  treia em Filadelfia contra o Equador\, que terminou à frente de Brasil\
  , Uruguai e Colômbia nas eliminatórias sul-americanas. Um duelo entre 
  dois times que chegam desvalorizados pelos especialistas — e que podem
-  ser a surpresa do Grupo E.\n\n📋 PLANTEIS\n🇨🇮 Costa do Marfim\n
-   (escalacao a confirmar)\n\n🇪🇨 Equador\n  (escalacao a confirmar)
+  ser a surpresa do Grupo E.\n\n📋 PLANTEIS\n🇨🇮 Costa do Marfim (
+ 4-3-3 | Tec. Emerse Faé)\n  GOL: 1. Y. Fofana\, 16. Koné\, 23. Lafont\
+ n  DEF: 2. O. Diomandé\, 3. G. Konan\, 5. Singo\, 7. Kossounou\, 13. Op
+ eri\, 17. G. Doué\, 20. Agbadou\, 21. N'Dicka\n  MEI: 4. Jean Michaël 
+ Seri\, 6. Franck Kessié\, 8. Fofana\, 18. Ibrahim Sangaré\, 25. Guiago
+ n\, 26. Inao\n  ATA: 9. Bonny\, 10. Simon Adingra\, 11. Yan Diomandé\, 
+ 12. Wahi\, 14. Diakite\, 15. Amad Diallo\, 19. Nicolas Pépé\, 22. Gues
+ sand\, 24. Touré\n\n🇪🇨 Equador (4-3-3 | Tec. Sebastián Beccacece
+ )\n  GOL: 1. Galíndez\, 12. Ramírez\, 22. Valle\n  DEF: 2. Torres\, 3.
+  Piero Hincapié\, 4. Ordóñez\, 6. Pacho\, 7. Pervis Estupiñán\, 17.
+  Preciado\, 25. Porozo\, 26. Medina\n  MEI: 5. Alcívar\, 8. A. Valencia
+ \, 10. Páez\, 14. Minda\, 15. Vite\, 18. Castillo\, 21. Franco\, 23. Mo
+ isés Caicedo\n  ATA: 9. Yeboah Zamora\, 11. Rodríguez\, 13. E. Valenci
+ a\, 16. J. Caicedo\, 19. Plata\, 20. Angulo\, 24. Arévalo
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -668,7 +964,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-27@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 SUMMARY:🇩🇪 GER x 🇨🇮 CIV — Fase de Grupos - Grupo E
@@ -677,9 +973,20 @@ DESCRIPTION:⚽ Alemanha e Costa do Marfim em Toronto: um duelo que resum
  e a tensão entre o futebol europeu organizado e o futebol africano fís
  ico e veloz. Julian Nagelsmann\, jovem técnico alemão\, pode estar ain
  da experimentando suas melhores combinações — o que dá aos marfinen
- ses a esperança de uma zebra.\n\n📋 PLANTEIS\n🇩🇪 Alemanha\n  (e
- scalacao a confirmar)\n\n🇨🇮 Costa do Marfim\n  (escalacao a confir
- mar)
+ ses a esperança de uma zebra.\n\n📋 PLANTEIS\n🇩🇪 Alemanha (4-2-
+ 3-1 | Tec. Julian Nagelsmann)\n  GOL: 1. Manuel Neuer\, 12. Baumann\, 21
+ . Nübel\n  DEF: 2. Antonio Rüdiger\, 3. Anton\, 4. Jonathan Tah\, 6. J
+ oshua Kimmich\, 15. Schlotterbeck\, 18. Brown\, 22. Raum\, 24. Thiaw\n  
+ MEI: 5. Pavlovic\, 8. Goretzka\, 9. Leweling\, 10. Jamal Musiala\, 13. G
+ roß\, 16. Stiller\, 17. Florian Wirtz\, 19. Sané\, 20. Amiri\, 23. Nme
+ cha\, 25. Karl\n  ATA: 7. Kai Havertz\, 11. Woltemade\, 14. Beier\, 26. 
+ Undav\n\n🇨🇮 Costa do Marfim (4-3-3 | Tec. Emerse Faé)\n  GOL: 1. 
+ Y. Fofana\, 16. Koné\, 23. Lafont\n  DEF: 2. O. Diomandé\, 3. G. Konan
+ \, 5. Singo\, 7. Kossounou\, 13. Operi\, 17. G. Doué\, 20. Agbadou\, 21
+ . N'Dicka\n  MEI: 4. Jean Michaël Seri\, 6. Franck Kessié\, 8. Fofana\
+ , 18. Ibrahim Sangaré\, 25. Guiagon\, 26. Inao\n  ATA: 9. Bonny\, 10. S
+ imon Adingra\, 11. Yan Diomandé\, 12. Wahi\, 14. Diakite\, 15. Amad Dia
+ llo\, 19. Nicolas Pépé\, 22. Guessand\, 24. Touré
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -693,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-28@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 SUMMARY:🇪🇨 ECU x 🇨🇼 CUW — Fase de Grupos - Grupo E
@@ -702,8 +1009,19 @@ DESCRIPTION:⚽ O Equador\, acostumado a jogar a mais de 2.700 metros de
  altitude em Quito\, tem um condicionamento físico único. Em Kansas Cit
  y\, enfrenta Curaçao — a nação estreante — numa partida que deve 
  ser bem mais competitiva do que os placares esperados sugerem.\n\n📋 P
- LANTEIS\n🇪🇨 Equador\n  (escalacao a confirmar)\n\n🇨🇼 Curacao
- \n  (escalacao a confirmar)
+ LANTEIS\n🇪🇨 Equador (4-3-3 | Tec. Sebastián Beccacece)\n  GOL: 1.
+  Galíndez\, 12. Ramírez\, 22. Valle\n  DEF: 2. Torres\, 3. Piero Hinca
+ pié\, 4. Ordóñez\, 6. Pacho\, 7. Pervis Estupiñán\, 17. Preciado\, 
+ 25. Porozo\, 26. Medina\n  MEI: 5. Alcívar\, 8. A. Valencia\, 10. Páez
+ \, 14. Minda\, 15. Vite\, 18. Castillo\, 21. Franco\, 23. Moisés Caiced
+ o\n  ATA: 9. Yeboah Zamora\, 11. Rodríguez\, 13. E. Valencia\, 16. J. C
+ aicedo\, 19. Plata\, 20. Angulo\, 24. Arévalo\n\n🇨🇼 Curacao (4-4-
+ 2 | Tec. Dick Advocaat)\n  GOL: 1. Room\, 25. Bodak\, 26. Doornbusch\n  
+ DEF: 2. Sambo\, 3. Gaari\, 4. Van Eijma\, 5. Floranus\, 18. Obispo\, 20.
+  Brenet\, 23. Bazoer\, 24. Fonville\n  MEI: 6. Roemeratoe\, 7. J. Bacuna
+ \, 8. Comenencia\, 10. L. Bacuna\, 15. Martha\, 21. Chong\, 22. Felida\n
+   ATA: 9. Locadia\, 11. Antonisse\, 12. Hansen\, 13. Noslin\, 14. Gorre\
+ , 16. Margaritha\, 17. Kuwas\, 19. Kastaneer
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -717,7 +1035,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-29@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇨🇼 CUW x 🇨🇮 CIV — Fase de Grupos - Grupo E
@@ -726,8 +1044,20 @@ DESCRIPTION:⚽ Curaçao\, em seu segundo jogo numa Copa do Mundo\, enfre
  nta a Costa do Marfim em Filadelfia. Os marfinenses vão querer pontos p
  ara confirmar a classificação\; os caribenhos vão defender sua honra 
  até o apito final. Um jogo que o futebol africano e caribenho vai acomp
- anhar com orgulho.\n\n📋 PLANTEIS\n🇨🇼 Curacao\n  (escalacao a co
- nfirmar)\n\n🇨🇮 Costa do Marfim\n  (escalacao a confirmar)
+ anhar com orgulho.\n\n📋 PLANTEIS\n🇨🇼 Curacao (4-4-2 | Tec. Dick
+  Advocaat)\n  GOL: 1. Room\, 25. Bodak\, 26. Doornbusch\n  DEF: 2. Sambo
+ \, 3. Gaari\, 4. Van Eijma\, 5. Floranus\, 18. Obispo\, 20. Brenet\, 23.
+  Bazoer\, 24. Fonville\n  MEI: 6. Roemeratoe\, 7. J. Bacuna\, 8. Comenen
+ cia\, 10. L. Bacuna\, 15. Martha\, 21. Chong\, 22. Felida\n  ATA: 9. Loc
+ adia\, 11. Antonisse\, 12. Hansen\, 13. Noslin\, 14. Gorre\, 16. Margari
+ tha\, 17. Kuwas\, 19. Kastaneer\n\n🇨🇮 Costa do Marfim (4-3-3 | Tec
+ . Emerse Faé)\n  GOL: 1. Y. Fofana\, 16. Koné\, 23. Lafont\n  DEF: 2. 
+ O. Diomandé\, 3. G. Konan\, 5. Singo\, 7. Kossounou\, 13. Operi\, 17. G
+ . Doué\, 20. Agbadou\, 21. N'Dicka\n  MEI: 4. Jean Michaël Seri\, 6. F
+ ranck Kessié\, 8. Fofana\, 18. Ibrahim Sangaré\, 25. Guiagon\, 26. Ina
+ o\n  ATA: 9. Bonny\, 10. Simon Adingra\, 11. Yan Diomandé\, 12. Wahi\, 
+ 14. Diakite\, 15. Amad Diallo\, 19. Nicolas Pépé\, 22. Guessand\, 24. 
+ Touré
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -741,7 +1071,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-30@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇪🇨 ECU x 🇩🇪 GER — Fase de Grupos - Grupo E
@@ -751,8 +1081,20 @@ DESCRIPTION:⚽ A CNN elegeu este como um dos 10 melhores jogos. O Equado
  ritos históricos\, enfrenta a Alemanha tetracampeã no MetLife Stadium.
   Os equatorianos\, que jogam em altitude extrema em casa\, têm preparo 
  físico que pode desgastar até os mais preparados. Musiala e Wirtz prec
- isarão de seu melhor futebol.\n\n📋 PLANTEIS\n🇪🇨 Equador\n  (es
- calacao a confirmar)\n\n🇩🇪 Alemanha\n  (escalacao a confirmar)
+ isarão de seu melhor futebol.\n\n📋 PLANTEIS\n🇪🇨 Equador (4-3-3
+  | Tec. Sebastián Beccacece)\n  GOL: 1. Galíndez\, 12. Ramírez\, 22. 
+ Valle\n  DEF: 2. Torres\, 3. Piero Hincapié\, 4. Ordóñez\, 6. Pacho\,
+  7. Pervis Estupiñán\, 17. Preciado\, 25. Porozo\, 26. Medina\n  MEI: 
+ 5. Alcívar\, 8. A. Valencia\, 10. Páez\, 14. Minda\, 15. Vite\, 18. Ca
+ stillo\, 21. Franco\, 23. Moisés Caicedo\n  ATA: 9. Yeboah Zamora\, 11.
+  Rodríguez\, 13. E. Valencia\, 16. J. Caicedo\, 19. Plata\, 20. Angulo\
+ , 24. Arévalo\n\n🇩🇪 Alemanha (4-2-3-1 | Tec. Julian Nagelsmann)\n
+   GOL: 1. Manuel Neuer\, 12. Baumann\, 21. Nübel\n  DEF: 2. Antonio Rü
+ diger\, 3. Anton\, 4. Jonathan Tah\, 6. Joshua Kimmich\, 15. Schlotterbe
+ ck\, 18. Brown\, 22. Raum\, 24. Thiaw\n  MEI: 5. Pavlovic\, 8. Goretzka\
+ , 9. Leweling\, 10. Jamal Musiala\, 13. Groß\, 16. Stiller\, 17. Floria
+ n Wirtz\, 19. Sané\, 20. Amiri\, 23. Nmecha\, 25. Karl\n  ATA: 7. Kai H
+ avertz\, 11. Woltemade\, 14. Beier\, 26. Undav
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -766,7 +1108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-31@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:🇳🇱 NED x 🇯🇵 JPN — Fase de Grupos - Grupo F
@@ -777,8 +1119,20 @@ DESCRIPTION:⚽ Para a CNN\, um dos 10 melhores jogos da Copa. Os Países
  coletivo em todas as linhas. O Japão\, melhor seleção asiática\, che
  ga após seis vitórias consecutivas e um Grupo de 2022 em que eliminou 
  Alemanha e Espanha — os Samurai Blue não têm medo de europeus.\n\n
- 📋 PLANTEIS\n🇳🇱 Paises Baixos\n  (escalacao a confirmar)\n\n🇯
- 🇵 Japao\n  (escalacao a confirmar)
+ 📋 PLANTEIS\n🇳🇱 Paises Baixos (4-3-3 | Tec. Ronald Koeman)\n  GO
+ L: 1. Verbruggen\, 13. Roefs\, 23. Flekken\n  DEF: 2. Jurriën Timber\, 
+ 4. Virgil van Dijk\, 5. Nathan Aké\, 6. Van Hecke\, 12. Wieffer\, 15. V
+ an de Ven\, 22. Denzel Dumfries\, 25. Hato\n  MEI: 3. De Roon\, 7. Justi
+ n Kluivert\, 8. Ryan Gravenberch\, 14. Tijjani Reijnders\, 16. Til\, 20.
+  Koopmeiners\, 21. Frenkie de Jong\, 26. Q. Timber\n  ATA: 9. Weghorst\,
+  10. Memphis Depay\, 11. Cody Gakpo\, 17. Lang\, 18. Malen\, 19. Brobbey
+ \, 24. Summerville\n\n🇯🇵 Japao (4-2-3-1 | Tec. Hajime Moriyasu)\n 
+  GOL: 1. Suzuki\, 12. Osako\, 23. Hayakawa\n  DEF: 2. Sugawara\, 3. Tani
+ guchi\, 4. Itakura\, 5. Nagatomo\, 16. Watanabe\, 20. Seko\, 21. H. Ito\
+ , 22. Takehiro Tomiyasu\, 25. J. Suzuki\n  MEI: 6. Wataru Endo\, 7. Tana
+ ka\, 8. Takefusa Kubo\, 10. Doan\, 11. Daizen Maeda\, 13. Nakamura\, 14.
+  Ito\, 15. Kamada\, 17. Y. Suzuki\, 24. Sano\n  ATA: 9. Goto\, 18. Ayase
+ \, 19. Ogawa\, 26. Shiogai
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -792,7 +1146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-32@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 SUMMARY:🇸🇪 SWE x 🇹🇳 TUN — Fase de Grupos - Grupo F
@@ -802,8 +1156,19 @@ DESCRIPTION:⚽ A Suécia\, organizada e disciplinada\, abre o Grupo F co
  tanhas da Sierra Madre ao fundo. Os tunisianos\, de volta às Copas\, v
  ão querer mostrar que a geração de 2022 não foi fluke. Um duelo entr
  e duas nações com muito futebol para mostrar.\n\n📋 PLANTEIS\n🇸
- 🇪 Suecia\n  (escalacao a confirmar)\n\n🇹🇳 Tunisia\n  (escalacao
-  a confirmar)
+ 🇪 Suecia (4-4-2 | Tec. Graham Potter)\n  GOL: 1. Zetterström\, 12. V
+ . Johansson\, 23. Nordfeldt\n  DEF: 2. Lagerbielke\, 3. Victor Lindelöf
+ \, 4. Hien\, 5. Gudmundsson\, 6. H. Johansson\, 8. Svensson\, 14. Ekdal\
+ , 15. Starfelt\, 20. Smith\, 21. Bernhardsson\, 24. Stroud\n  MEI: 7. Lu
+ cas Bergvall\, 10. Nygren\, 13. Sema\, 16. Karlström\, 18. Ayari\, 19. 
+ Svanberg\, 22. Zeneli\n  ATA: 9. Alexander Isak\, 11. Anthony Elanga\, 1
+ 7. Viktor Gyökeres\, 25. Nilsson\, 26. Ali\n\n🇹🇳 Tunisia (4-3-3 |
+  Tec. Sabri Lamouchi)\n  GOL: 1. Chamakh\, 16. Dahmen\, 22. Ben Hsan\n  
+ DEF: 2. Abdi\, 3. Talbi\, 4. Rekik\, 5. Arous\, 6. Bronn\, 12. Ben Ouane
+ s\, 20. Valery\, 21. Ben Hmida\, 23. Neffati\, 24. Chikhaoui\n  MEI: 10.
+  Hannibal Mejbri\, 11. Gharbi\, 13. Khedira\, 14. Ayari\, 15. Belhadj Ma
+ hmoud\, 17. Skhiri\, 25. Slimane\, 26. Tounekti\n  ATA: 7. Achouri\, 8. 
+ Saad\, 9. Mastouri\, 18. Elloumi\, 19. Chaouat
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -817,7 +1182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-33@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 SUMMARY:🇳🇱 NED x 🇸🇪 SWE — Fase de Grupos - Grupo F
@@ -826,8 +1191,20 @@ DESCRIPTION:⚽ Países Baixos e Suécia em Houston: um duelo entre dois
  modelos de futebol coletivo europeu. A Oranje\, potente no ataque\, enfr
  enta uma Suécia que aposta em bloco baixo e velocidade nas transições
  . Um dos jogos com maior conteúdo tático do Grupo F.\n\n📋 PLANTEIS\
- n🇳🇱 Paises Baixos\n  (escalacao a confirmar)\n\n🇸🇪 Suecia\n 
-  (escalacao a confirmar)
+ n🇳🇱 Paises Baixos (4-3-3 | Tec. Ronald Koeman)\n  GOL: 1. Verbrugg
+ en\, 13. Roefs\, 23. Flekken\n  DEF: 2. Jurriën Timber\, 4. Virgil van 
+ Dijk\, 5. Nathan Aké\, 6. Van Hecke\, 12. Wieffer\, 15. Van de Ven\, 22
+ . Denzel Dumfries\, 25. Hato\n  MEI: 3. De Roon\, 7. Justin Kluivert\, 8
+ . Ryan Gravenberch\, 14. Tijjani Reijnders\, 16. Til\, 20. Koopmeiners\,
+  21. Frenkie de Jong\, 26. Q. Timber\n  ATA: 9. Weghorst\, 10. Memphis D
+ epay\, 11. Cody Gakpo\, 17. Lang\, 18. Malen\, 19. Brobbey\, 24. Summerv
+ ille\n\n🇸🇪 Suecia (4-4-2 | Tec. Graham Potter)\n  GOL: 1. Zetterst
+ röm\, 12. V. Johansson\, 23. Nordfeldt\n  DEF: 2. Lagerbielke\, 3. Vict
+ or Lindelöf\, 4. Hien\, 5. Gudmundsson\, 6. H. Johansson\, 8. Svensson\
+ , 14. Ekdal\, 15. Starfelt\, 20. Smith\, 21. Bernhardsson\, 24. Stroud\n
+   MEI: 7. Lucas Bergvall\, 10. Nygren\, 13. Sema\, 16. Karlström\, 18. 
+ Ayari\, 19. Svanberg\, 22. Zeneli\n  ATA: 9. Alexander Isak\, 11. Anthon
+ y Elanga\, 17. Viktor Gyökeres\, 25. Nilsson\, 26. Ali
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -841,7 +1218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-34@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 SUMMARY:🇹🇳 TUN x 🇯🇵 JPN — Fase de Grupos - Grupo F
@@ -851,8 +1228,19 @@ DESCRIPTION:⚽ Tunísia e Japão em Monterrey\, às 10h da noite local:
  a das melhores disciplinas táticas do futebol asiático\; os tunisianos
   têm o ímpeto competitivo de quem joga sem pressão de favoritismo. Um
   resultado igual beneficiaria os Países Baixos.\n\n📋 PLANTEIS\n🇹
- 🇳 Tunisia\n  (escalacao a confirmar)\n\n🇯🇵 Japao\n  (escalacao 
- a confirmar)
+ 🇳 Tunisia (4-3-3 | Tec. Sabri Lamouchi)\n  GOL: 1. Chamakh\, 16. Dahm
+ en\, 22. Ben Hsan\n  DEF: 2. Abdi\, 3. Talbi\, 4. Rekik\, 5. Arous\, 6. 
+ Bronn\, 12. Ben Ouanes\, 20. Valery\, 21. Ben Hmida\, 23. Neffati\, 24. 
+ Chikhaoui\n  MEI: 10. Hannibal Mejbri\, 11. Gharbi\, 13. Khedira\, 14. A
+ yari\, 15. Belhadj Mahmoud\, 17. Skhiri\, 25. Slimane\, 26. Tounekti\n  
+ ATA: 7. Achouri\, 8. Saad\, 9. Mastouri\, 18. Elloumi\, 19. Chaouat\n\n
+ 🇯🇵 Japao (4-2-3-1 | Tec. Hajime Moriyasu)\n  GOL: 1. Suzuki\, 12. 
+ Osako\, 23. Hayakawa\n  DEF: 2. Sugawara\, 3. Taniguchi\, 4. Itakura\, 5
+ . Nagatomo\, 16. Watanabe\, 20. Seko\, 21. H. Ito\, 22. Takehiro Tomiyas
+ u\, 25. J. Suzuki\n  MEI: 6. Wataru Endo\, 7. Tanaka\, 8. Takefusa Kubo\
+ , 10. Doan\, 11. Daizen Maeda\, 13. Nakamura\, 14. Ito\, 15. Kamada\, 17
+ . Y. Suzuki\, 24. Sano\n  ATA: 9. Goto\, 18. Ayase\, 19. Ogawa\, 26. Shi
+ ogai
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -866,7 +1254,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-35@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇯🇵 JPN x 🇸🇪 SWE — Fase de Grupos - Grupo F
@@ -875,8 +1263,19 @@ DESCRIPTION:⚽ Japão e Suécia decidem\, potencialmente\, a segunda vag
  a do Grupo F em Dallas. Os japoneses\, que eliminaram a Alemanha e a Esp
  anha do grupo em 2022\, podem dar mais um susto europeu. A Suécia vai e
  ntrar em campo sabendo que perder pode significar a eliminação.\n\n
- 📋 PLANTEIS\n🇯🇵 Japao\n  (escalacao a confirmar)\n\n🇸🇪 Sue
- cia\n  (escalacao a confirmar)
+ 📋 PLANTEIS\n🇯🇵 Japao (4-2-3-1 | Tec. Hajime Moriyasu)\n  GOL: 1
+ . Suzuki\, 12. Osako\, 23. Hayakawa\n  DEF: 2. Sugawara\, 3. Taniguchi\,
+  4. Itakura\, 5. Nagatomo\, 16. Watanabe\, 20. Seko\, 21. H. Ito\, 22. T
+ akehiro Tomiyasu\, 25. J. Suzuki\n  MEI: 6. Wataru Endo\, 7. Tanaka\, 8.
+  Takefusa Kubo\, 10. Doan\, 11. Daizen Maeda\, 13. Nakamura\, 14. Ito\, 
+ 15. Kamada\, 17. Y. Suzuki\, 24. Sano\n  ATA: 9. Goto\, 18. Ayase\, 19. 
+ Ogawa\, 26. Shiogai\n\n🇸🇪 Suecia (4-4-2 | Tec. Graham Potter)\n  G
+ OL: 1. Zetterström\, 12. V. Johansson\, 23. Nordfeldt\n  DEF: 2. Lagerb
+ ielke\, 3. Victor Lindelöf\, 4. Hien\, 5. Gudmundsson\, 6. H. Johansson
+ \, 8. Svensson\, 14. Ekdal\, 15. Starfelt\, 20. Smith\, 21. Bernhardsson
+ \, 24. Stroud\n  MEI: 7. Lucas Bergvall\, 10. Nygren\, 13. Sema\, 16. Ka
+ rlström\, 18. Ayari\, 19. Svanberg\, 22. Zeneli\n  ATA: 9. Alexander Is
+ ak\, 11. Anthony Elanga\, 17. Viktor Gyökeres\, 25. Nilsson\, 26. Ali
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -890,7 +1289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-36@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇹🇳 TUN x 🇳🇱 NED — Fase de Grupos - Grupo F
@@ -899,8 +1298,20 @@ DESCRIPTION:⚽ Países Baixos e Tunísia encerram o Grupo F em Kansas Ci
  ty. Se a Oranje já estiver classificada\, Koeman pode dar minutos a jog
  adores menos utilizados — abrindo espaço para os tunisianos tentarem 
  a virada histórica. Uma das últimas rodadas com mais possibilidades ab
- ertas.\n\n📋 PLANTEIS\n🇹🇳 Tunisia\n  (escalacao a confirmar)\n\n
- 🇳🇱 Paises Baixos\n  (escalacao a confirmar)
+ ertas.\n\n📋 PLANTEIS\n🇹🇳 Tunisia (4-3-3 | Tec. Sabri Lamouchi)\
+ n  GOL: 1. Chamakh\, 16. Dahmen\, 22. Ben Hsan\n  DEF: 2. Abdi\, 3. Talb
+ i\, 4. Rekik\, 5. Arous\, 6. Bronn\, 12. Ben Ouanes\, 20. Valery\, 21. B
+ en Hmida\, 23. Neffati\, 24. Chikhaoui\n  MEI: 10. Hannibal Mejbri\, 11.
+  Gharbi\, 13. Khedira\, 14. Ayari\, 15. Belhadj Mahmoud\, 17. Skhiri\, 2
+ 5. Slimane\, 26. Tounekti\n  ATA: 7. Achouri\, 8. Saad\, 9. Mastouri\, 1
+ 8. Elloumi\, 19. Chaouat\n\n🇳🇱 Paises Baixos (4-3-3 | Tec. Ronald 
+ Koeman)\n  GOL: 1. Verbruggen\, 13. Roefs\, 23. Flekken\n  DEF: 2. Jurri
+ ën Timber\, 4. Virgil van Dijk\, 5. Nathan Aké\, 6. Van Hecke\, 12. Wi
+ effer\, 15. Van de Ven\, 22. Denzel Dumfries\, 25. Hato\n  MEI: 3. De Ro
+ on\, 7. Justin Kluivert\, 8. Ryan Gravenberch\, 14. Tijjani Reijnders\, 
+ 16. Til\, 20. Koopmeiners\, 21. Frenkie de Jong\, 26. Q. Timber\n  ATA: 
+ 9. Weghorst\, 10. Memphis Depay\, 11. Cody Gakpo\, 17. Lang\, 18. Malen\
+ , 19. Brobbey\, 24. Summerville
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -914,7 +1325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-37@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:🇧🇪 BEL x 🇪🇬 EGY — Fase de Grupos - Grupo G
@@ -924,8 +1335,21 @@ DESCRIPTION:⚽ Mohamed Salah — recordista de gols na Premier League e
  ntra a Bélgica. Com quase 34 anos\, esta pode ser a última Copa do cra
  que que carregou o Egito sozinho por mais de uma década. A Bélgica\, r
  enovando sua geração pós-'geração dourada'\, quer impor seu domíni
- o desde o início.\n\n📋 PLANTEIS\n🇧🇪 Belgica\n  (escalacao a co
- nfirmar)\n\n🇪🇬 Egito\n  (escalacao a confirmar)
+ o desde o início.\n\n📋 PLANTEIS\n🇧🇪 Belgica (4-3-3 | Tec. Rudi
+  García)\n  GOL: 1. Thibaut Courtois\, 12. Lammens\, 13. Penders\n  DEF
+ : 2. Debast\, 3. Thiate\, 4. Mechele\, 5. De Cuyper\, 15. Thomas Meunier
+ \, 16. De Winter\, 18. Seys\, 21. Timothy Castagne\, 25. Ngoy\n  MEI: 6.
+  Axel Witsel\, 7. Kevin De Bruyne\, 8. Youri Tielemans\, 19. Moreira\, 2
+ 0. Hans Vanaken\, 22. Alexis Saelemaekers\, 23. Raskin\, 24. Onana\n  AT
+ A: 9. Romelu Lukaku\, 10. Leandro Trossard\, 11. Jérémy Doku\, 14. Luk
+ ebakio\, 17. Charles De Ketelaere\, 26. Fernandez-Pardo\n\n🇪🇬 Egit
+ o (4-2-3-1 | Tec. Hossam Hassan)\n  GOL: 1. M. Elshenawy\, 16. M. Solima
+ n\, 23. Shoubir\, 26. M. Alaa\n  DEF: 2. Yasser\, 3. M. Hany\, 4. Hossam
+ \, 5. R. Rabiaa\, 6. M. Abdelmoneim\, 13. A. Fatouh\, 15. K. Hafez\, 24.
+  T. Alaa\n  MEI: 8. E. Ashour\, 11. Zico\, 14. H. Fathy\, 17. M. Lashin\
+ , 18. Donga\, 19. M. Attia\, 21. M. Saber\n  ATA: 7. M. Trezeguet\, 9. A
+ bdelkarim\, 10. Mohamed Salah\, 12. H. Hassan\, 20. I. Adel\, 22. Omar M
+ armoush\, 25. Zizo
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -939,7 +1363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-38@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 SUMMARY:🇮🇷 IRN x 🇳🇿 NZL — Fase de Grupos - Grupo G
@@ -948,8 +1372,19 @@ DESCRIPTION:⚽ O Irã\, de volta a sua quarta Copa consecutiva\, estreia
   contra a Nova Zelândia em Los Angeles. Os All Whites da Oceania rarame
  nte chegam a Mundiais — e cada jogo é uma celebração em si. Um enco
  ntro improvável entre dois futebol mundos que raramente se cruzam.\n\n
- 📋 PLANTEIS\n🇮🇷 Ira\n  (escalacao a confirmar)\n\n🇳🇿 Nova 
- Zelandia\n  (escalacao a confirmar)
+ 📋 PLANTEIS\n🇮🇷 Ira (4-4-2 | Tec. Amir Ghalenoei)\n  GOL: 1. Ali
+ reza Beiranvand\, 12. Payam\, 22. Hosseini\n  DEF: 2. Saleh\, 3. E. Haji
+ safi\, 4. Shoja\, 5. M. Mohammadi\, 13. Kanani\, 17. Arya\, 19. Ali\, 23
+ . Ramin\, 25. Danial\n  MEI: 6. S. Ezatolahi\, 7. A. Jahanbakhsh\, 8. M.
+  Mohebi\, 14. Ghoddoos\, 15. Roozbeh\, 16. M. Torabi\, 21. Mohammad\, 26
+ . Razagh\n  ATA: 9. Mehdi Taremi\, 10. Mehdi Ghayedi\, 11. A. Alipour\, 
+ 18. Amirhossein\, 20. Shahriyar\, 24. Dargahi\n\n🇳🇿 Nova Zelandia 
+ (3-4-3 | Tec. Darren Bazeley)\n  GOL: 1. Crocombe\, 12. Paulsen\, 22. Wo
+ ud\n  DEF: 2. Payne\, 3. De Vries\, 4. Bindon\, 5. Boxall\, 13. Cacace\,
+  15. Pijnaker\, 16. Surman\, 24. Elliot\, 26. Smith\n  MEI: 6. Bell\, 7.
+  Garbett\, 8. Stamenic\, 10. Singh\, 11. Just\, 14. Rufer\, 19. Old\, 20
+ . McCowatt\, 23. Thomas\, 25. Bayliss\n  ATA: 9. Chris Wood\, 17. Barbar
+ ouses\, 18. Waine\, 21. Randall
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -963,7 +1398,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-39@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 SUMMARY:🇧🇪 BEL x 🇮🇷 IRN — Fase de Grupos - Grupo G
@@ -972,8 +1407,21 @@ DESCRIPTION:⚽ Bélgica e Irã em Los Angeles: os Diabos Vermelhos podem
   pagar caro se subestimarem uma seleção asiática organizada\, física
   e perigosa nas bolas paradas. O Irã nunca passou da fase de grupos num
  a Copa — mas esta pode ser a edição da mudança. Um jogo de armadilh
- a potencial para os belgas.\n\n📋 PLANTEIS\n🇧🇪 Belgica\n  (escal
- acao a confirmar)\n\n🇮🇷 Ira\n  (escalacao a confirmar)
+ a potencial para os belgas.\n\n📋 PLANTEIS\n🇧🇪 Belgica (4-3-3 | 
+ Tec. Rudi García)\n  GOL: 1. Thibaut Courtois\, 12. Lammens\, 13. Pende
+ rs\n  DEF: 2. Debast\, 3. Thiate\, 4. Mechele\, 5. De Cuyper\, 15. Thoma
+ s Meunier\, 16. De Winter\, 18. Seys\, 21. Timothy Castagne\, 25. Ngoy\n
+   MEI: 6. Axel Witsel\, 7. Kevin De Bruyne\, 8. Youri Tielemans\, 19. Mo
+ reira\, 20. Hans Vanaken\, 22. Alexis Saelemaekers\, 23. Raskin\, 24. On
+ ana\n  ATA: 9. Romelu Lukaku\, 10. Leandro Trossard\, 11. Jérémy Doku\
+ , 14. Lukebakio\, 17. Charles De Ketelaere\, 26. Fernandez-Pardo\n\n🇮
+ 🇷 Ira (4-4-2 | Tec. Amir Ghalenoei)\n  GOL: 1. Alireza Beiranvand\, 1
+ 2. Payam\, 22. Hosseini\n  DEF: 2. Saleh\, 3. E. Hajisafi\, 4. Shoja\, 5
+ . M. Mohammadi\, 13. Kanani\, 17. Arya\, 19. Ali\, 23. Ramin\, 25. Dania
+ l\n  MEI: 6. S. Ezatolahi\, 7. A. Jahanbakhsh\, 8. M. Mohebi\, 14. Ghodd
+ oos\, 15. Roozbeh\, 16. M. Torabi\, 21. Mohammad\, 26. Razagh\n  ATA: 9.
+  Mehdi Taremi\, 10. Mehdi Ghayedi\, 11. A. Alipour\, 18. Amirhossein\, 2
+ 0. Shahriyar\, 24. Dargahi
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -987,7 +1435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-40@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 SUMMARY:🇳🇿 NZL x 🇪🇬 EGY — Fase de Grupos - Grupo G
@@ -996,8 +1444,19 @@ DESCRIPTION:⚽ Nova Zelândia e Egito em Vancouver: o emotivo Salah pode
   ser a diferença entre uma vitória egípcia rotineira e uma virada his
  tórica dos All Whites. A Nova Zelândia vai jogar sem medo — e no fut
  ebol\, times que jogam sem medo costumam complicar os favoritos.\n\n📋
-  PLANTEIS\n🇳🇿 Nova Zelandia\n  (escalacao a confirmar)\n\n🇪🇬
-  Egito\n  (escalacao a confirmar)
+  PLANTEIS\n🇳🇿 Nova Zelandia (3-4-3 | Tec. Darren Bazeley)\n  GOL: 
+ 1. Crocombe\, 12. Paulsen\, 22. Woud\n  DEF: 2. Payne\, 3. De Vries\, 4.
+  Bindon\, 5. Boxall\, 13. Cacace\, 15. Pijnaker\, 16. Surman\, 24. Ellio
+ t\, 26. Smith\n  MEI: 6. Bell\, 7. Garbett\, 8. Stamenic\, 10. Singh\, 1
+ 1. Just\, 14. Rufer\, 19. Old\, 20. McCowatt\, 23. Thomas\, 25. Bayliss\
+ n  ATA: 9. Chris Wood\, 17. Barbarouses\, 18. Waine\, 21. Randall\n\n
+ 🇪🇬 Egito (4-2-3-1 | Tec. Hossam Hassan)\n  GOL: 1. M. Elshenawy\, 
+ 16. M. Soliman\, 23. Shoubir\, 26. M. Alaa\n  DEF: 2. Yasser\, 3. M. Han
+ y\, 4. Hossam\, 5. R. Rabiaa\, 6. M. Abdelmoneim\, 13. A. Fatouh\, 15. K
+ . Hafez\, 24. T. Alaa\n  MEI: 8. E. Ashour\, 11. Zico\, 14. H. Fathy\, 1
+ 7. M. Lashin\, 18. Donga\, 19. M. Attia\, 21. M. Saber\n  ATA: 7. M. Tre
+ zeguet\, 9. Abdelkarim\, 10. Mohamed Salah\, 12. H. Hassan\, 20. I. Adel
+ \, 22. Omar Marmoush\, 25. Zizo
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1011,7 +1470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-41@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇪🇬 EGY x 🇮🇷 IRN — Fase de Grupos - Grupo G
@@ -1020,8 +1479,19 @@ DESCRIPTION:⚽ Egito e Irã em Seattle num jogo que pode definir a segun
  da vaga do Grupo G. Salah do lado egípcio\; uma defesa compacta e trans
  ições rápidas do lado iraniano. O vencedor se posiciona bem para o ma
  ta-mata\; o perdedor pode estar eliminado.\n\n📋 PLANTEIS\n🇪🇬 Eg
- ito\n  (escalacao a confirmar)\n\n🇮🇷 Ira\n  (escalacao a confirmar
- )
+ ito (4-2-3-1 | Tec. Hossam Hassan)\n  GOL: 1. M. Elshenawy\, 16. M. Soli
+ man\, 23. Shoubir\, 26. M. Alaa\n  DEF: 2. Yasser\, 3. M. Hany\, 4. Hoss
+ am\, 5. R. Rabiaa\, 6. M. Abdelmoneim\, 13. A. Fatouh\, 15. K. Hafez\, 2
+ 4. T. Alaa\n  MEI: 8. E. Ashour\, 11. Zico\, 14. H. Fathy\, 17. M. Lashi
+ n\, 18. Donga\, 19. M. Attia\, 21. M. Saber\n  ATA: 7. M. Trezeguet\, 9.
+  Abdelkarim\, 10. Mohamed Salah\, 12. H. Hassan\, 20. I. Adel\, 22. Omar
+  Marmoush\, 25. Zizo\n\n🇮🇷 Ira (4-4-2 | Tec. Amir Ghalenoei)\n  GO
+ L: 1. Alireza Beiranvand\, 12. Payam\, 22. Hosseini\n  DEF: 2. Saleh\, 3
+ . E. Hajisafi\, 4. Shoja\, 5. M. Mohammadi\, 13. Kanani\, 17. Arya\, 19.
+  Ali\, 23. Ramin\, 25. Danial\n  MEI: 6. S. Ezatolahi\, 7. A. Jahanbakhs
+ h\, 8. M. Mohebi\, 14. Ghoddoos\, 15. Roozbeh\, 16. M. Torabi\, 21. Moha
+ mmad\, 26. Razagh\n  ATA: 9. Mehdi Taremi\, 10. Mehdi Ghayedi\, 11. A. A
+ lipour\, 18. Amirhossein\, 20. Shahriyar\, 24. Dargahi
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1035,7 +1505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-42@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇳🇿 NZL x 🇧🇪 BEL — Fase de Grupos - Grupo G
@@ -1045,8 +1515,19 @@ DESCRIPTION:⚽ Nova Zelândia e Bélgica encerram o Grupo G em Vancouver
   das narrativas mais bonitas desta Copa — uma nação pequena que foi 
  longe mais do que qualquer expectativa. A Bélgica vai ao campo sabendo 
  que qualquer descuido pode custar caro.\n\n📋 PLANTEIS\n🇳🇿 Nova 
- Zelandia\n  (escalacao a confirmar)\n\n🇧🇪 Belgica\n  (escalacao a 
- confirmar)
+ Zelandia (3-4-3 | Tec. Darren Bazeley)\n  GOL: 1. Crocombe\, 12. Paulsen
+ \, 22. Woud\n  DEF: 2. Payne\, 3. De Vries\, 4. Bindon\, 5. Boxall\, 13.
+  Cacace\, 15. Pijnaker\, 16. Surman\, 24. Elliot\, 26. Smith\n  MEI: 6. 
+ Bell\, 7. Garbett\, 8. Stamenic\, 10. Singh\, 11. Just\, 14. Rufer\, 19.
+  Old\, 20. McCowatt\, 23. Thomas\, 25. Bayliss\n  ATA: 9. Chris Wood\, 1
+ 7. Barbarouses\, 18. Waine\, 21. Randall\n\n🇧🇪 Belgica (4-3-3 | Te
+ c. Rudi García)\n  GOL: 1. Thibaut Courtois\, 12. Lammens\, 13. Penders
+ \n  DEF: 2. Debast\, 3. Thiate\, 4. Mechele\, 5. De Cuyper\, 15. Thomas 
+ Meunier\, 16. De Winter\, 18. Seys\, 21. Timothy Castagne\, 25. Ngoy\n  
+ MEI: 6. Axel Witsel\, 7. Kevin De Bruyne\, 8. Youri Tielemans\, 19. More
+ ira\, 20. Hans Vanaken\, 22. Alexis Saelemaekers\, 23. Raskin\, 24. Onan
+ a\n  ATA: 9. Romelu Lukaku\, 10. Leandro Trossard\, 11. Jérémy Doku\, 
+ 14. Lukebakio\, 17. Charles De Ketelaere\, 26. Fernandez-Pardo
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1060,7 +1541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-43@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:🇪🇸 ESP x 🇨🇻 CPV — Fase de Grupos - Grupo H
@@ -1070,8 +1551,21 @@ DESCRIPTION:⚽ Estreia da campeã europeia Espanha e\, ao mesmo tempo\,
  iderado por muitos o melhor jogador do mundo quando em condição físic
  a plena — retorna de uma lesão muscular que encurtou sua temporada na
   La Liga. Se Yamal estiver 100%\, a Espanha pode ser o time mais desequi
- librante desta Copa.\n\n📋 PLANTEIS\n🇪🇸 Espanha\n  (escalacao a 
- confirmar)\n\n🇨🇻 Cabo Verde\n  (escalacao a confirmar)
+ librante desta Copa.\n\n📋 PLANTEIS\n🇪🇸 Espanha (4-3-3 | Tec. Lu
+ is de la Fuente)\n  GOL: 1. David Raya\, 13. Joan García\, 23. Unai Sim
+ ón\n  DEF: 2. Marc Pubill\, 3. Alejandro Grimaldo\, 4. Eric García\, 5
+ . Marcos Llorente\, 12. Pedro Porro\, 14. Aymeric Laporte\, 22. Pau Cuba
+ rsí\, 24. Marc Cucurella\n  MEI: 6. Mikel Merino\, 8. Fabián Ruiz\, 9.
+  Gavi\, 15. Alex Baena\, 16. Rodri\, 18. Martín Zubimendi\, 20. Pedri\n
+   ATA: 7. Ferran Torres\, 10. Dani Olmo\, 11. Jeremy\, 17. Nico Williams
+ \, 19. Lamine Yamal\, 21. Mikel Oyarzabal\, 25. Víctor Mollejo\, 26. Bo
+ rja Iglesias\n\n🇨🇻 Cabo Verde (4-3-3 | Tec. Pedro Bubista)\n  GOL:
+  1. Vozinha\, 12. Márcio\, 23. Dos Santos\n  DEF: 2. Stopira\, 3. Borge
+ s\, 4. Lopes\, 5. Logan Costa\, 13. Lopes Cabral\, 22. Moreira\, 24. Wag
+ ner P.\, 25. Kelvin\n  MEI: 6. Kevin Lopes\, 7. Jovane\, 8. João Paulo\
+ , 10. Monteiro\, 11. Rodrigues\, 14. D. Duarte\, 15. Duarte\, 16. Y. Sem
+ edo\, 17. Semedo\, 18. Arcanjo\, 21. Da Costa\, 26. Hélio\n  ATA: 9. Be
+ nchimol\, 19. Livramento\, 20. Ryan
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1085,7 +1579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-44@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 SUMMARY:🇸🇦 KSA x 🇺🇾 URU — Fase de Grupos - Grupo H
@@ -1095,8 +1589,21 @@ DESCRIPTION:⚽ A Arábia Saudita fez a maior zebra do Mundial de 2022 ao
  in Núñez\, o centroavante explosivo do Uruguai pelo Liverpool\, tenta 
  impor o ritmo sul-americano desde o início no Hard Rock Stadium\, em Mi
  ami. Dois estilos que prometem um jogo físico e intenso.\n\n📋 PLANTE
- IS\n🇸🇦 Arabia Saudita\n  (escalacao a confirmar)\n\n🇺🇾 Urugu
- ai\n  (escalacao a confirmar)
+ IS\n🇸🇦 Arabia Saudita (4-5-1 | Tec. Georgios Donis)\n  GOL: 1. Ala
+ qidi\, 21. Alowais\, 22. Alkassar\n  DEF: 2. Majrashi\, 3. Lajami\, 4. A
+ lamri\, 5. Altambakti\, 12. Saud\, 13. Nawaf\, 14. Kadish\, 24. Moteb\, 
+ 25. Jehad\, 26. Mohammed\n  MEI: 6. Nasser\, 7. Musab\, 15. Alkhaibari\,
+  16. Ziyad\, 18. Alhajji\, 23. Mohamed Kanno\n  ATA: 8. Aiman\, 9. Feras
+ \, 10. Salem Al-Dawsari\, 11. Alshehri\, 17. Khalid\, 19. Alhamddan\, 20
+ . Mandash\n\n🇺🇾 Uruguai (4-4-2 | Tec. Marcelo Bielsa)\n  GOL: 1. S
+ ergio Rochet\, 12. S. Mele\, 23. Fernando Muslera\n  DEF: 2. José Marí
+ a Giménez\, 3. S. Cáceres\, 4. Ronald Araújo\, 13. G. Varela\, 16. Ma
+ thías Olivera\, 17. M. Viña\, 24. S. Bueno\n  MEI: 5. Manuel Ugarte\, 
+ 6. Rodrigo Bentancur\, 7. N. de la Cruz\, 8. Federico Valverde\, 10. Gio
+ rgian de Arrascaeta\, 14. A. Canobbio\, 15. E. Martínez\, 20. M. Araúj
+ o\, 22. J. Piquerez\, 25. J.M. Sanabria\, 26. R. Zalazar\n  ATA: 9. Darw
+ in Núñez\, 11. Facundo Pellistri\, 18. B. Rodríguez\, 19. R. Aguirre\
+ , 21. F. Viñas
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1110,7 +1617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-45@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 SUMMARY:🇪🇸 ESP x 🇸🇦 KSA — Fase de Grupos - Grupo H
@@ -1119,8 +1626,21 @@ DESCRIPTION:⚽ Em 2022\, a Arábia Saudita fez o jogo da virada históri
  ca contra a Argentina. A Espanha de Lamine Yamal não quer ser a próxim
  a surpresa do catálogo saudita. De la Fuente vai querer que sua equipe 
  seja dominante em todos os aspectos — para evitar qualquer zebra no Gr
- upo H.\n\n📋 PLANTEIS\n🇪🇸 Espanha\n  (escalacao a confirmar)\n\n
- 🇸🇦 Arabia Saudita\n  (escalacao a confirmar)
+ upo H.\n\n📋 PLANTEIS\n🇪🇸 Espanha (4-3-3 | Tec. Luis de la Fuent
+ e)\n  GOL: 1. David Raya\, 13. Joan García\, 23. Unai Simón\n  DEF: 2.
+  Marc Pubill\, 3. Alejandro Grimaldo\, 4. Eric García\, 5. Marcos Llore
+ nte\, 12. Pedro Porro\, 14. Aymeric Laporte\, 22. Pau Cubarsí\, 24. Mar
+ c Cucurella\n  MEI: 6. Mikel Merino\, 8. Fabián Ruiz\, 9. Gavi\, 15. Al
+ ex Baena\, 16. Rodri\, 18. Martín Zubimendi\, 20. Pedri\n  ATA: 7. Ferr
+ an Torres\, 10. Dani Olmo\, 11. Jeremy\, 17. Nico Williams\, 19. Lamine 
+ Yamal\, 21. Mikel Oyarzabal\, 25. Víctor Mollejo\, 26. Borja Iglesias\n
+ \n🇸🇦 Arabia Saudita (4-5-1 | Tec. Georgios Donis)\n  GOL: 1. Alaqi
+ di\, 21. Alowais\, 22. Alkassar\n  DEF: 2. Majrashi\, 3. Lajami\, 4. Ala
+ mri\, 5. Altambakti\, 12. Saud\, 13. Nawaf\, 14. Kadish\, 24. Moteb\, 25
+ . Jehad\, 26. Mohammed\n  MEI: 6. Nasser\, 7. Musab\, 15. Alkhaibari\, 1
+ 6. Ziyad\, 18. Alhajji\, 23. Mohamed Kanno\n  ATA: 8. Aiman\, 9. Feras\,
+  10. Salem Al-Dawsari\, 11. Alshehri\, 17. Khalid\, 19. Alhamddan\, 20. 
+ Mandash
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1134,7 +1654,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-46@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 SUMMARY:🇺🇾 URU x 🇨🇻 CPV — Fase de Grupos - Grupo H
@@ -1143,8 +1663,21 @@ DESCRIPTION:⚽ Uruguai e Cabo Verde em Miami: os La Celeste\, com dois t
  ítulos mundiais no currículo\, chegam como grandes favoritos. Mas Cabo
   Verde\, na sua primeira Copa do Mundo\, vai jogar com a leveza de quem 
  não tem nada a perder — exatamente o tipo de adversário que pode sur
- preender.\n\n📋 PLANTEIS\n🇺🇾 Uruguai\n  (escalacao a confirmar)\
- n\n🇨🇻 Cabo Verde\n  (escalacao a confirmar)
+ preender.\n\n📋 PLANTEIS\n🇺🇾 Uruguai (4-4-2 | Tec. Marcelo Biels
+ a)\n  GOL: 1. Sergio Rochet\, 12. S. Mele\, 23. Fernando Muslera\n  DEF:
+  2. José María Giménez\, 3. S. Cáceres\, 4. Ronald Araújo\, 13. G. 
+ Varela\, 16. Mathías Olivera\, 17. M. Viña\, 24. S. Bueno\n  MEI: 5. M
+ anuel Ugarte\, 6. Rodrigo Bentancur\, 7. N. de la Cruz\, 8. Federico Val
+ verde\, 10. Giorgian de Arrascaeta\, 14. A. Canobbio\, 15. E. Martínez\
+ , 20. M. Araújo\, 22. J. Piquerez\, 25. J.M. Sanabria\, 26. R. Zalazar\
+ n  ATA: 9. Darwin Núñez\, 11. Facundo Pellistri\, 18. B. Rodríguez\, 
+ 19. R. Aguirre\, 21. F. Viñas\n\n🇨🇻 Cabo Verde (4-3-3 | Tec. Pedr
+ o Bubista)\n  GOL: 1. Vozinha\, 12. Márcio\, 23. Dos Santos\n  DEF: 2. 
+ Stopira\, 3. Borges\, 4. Lopes\, 5. Logan Costa\, 13. Lopes Cabral\, 22.
+  Moreira\, 24. Wagner P.\, 25. Kelvin\n  MEI: 6. Kevin Lopes\, 7. Jovane
+ \, 8. João Paulo\, 10. Monteiro\, 11. Rodrigues\, 14. D. Duarte\, 15. D
+ uarte\, 16. Y. Semedo\, 17. Semedo\, 18. Arcanjo\, 21. Da Costa\, 26. H
+ élio\n  ATA: 9. Benchimol\, 19. Livramento\, 20. Ryan
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1158,7 +1691,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-47@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇨🇻 CPV x 🇸🇦 KSA — Fase de Grupos - Grupo H
@@ -1167,8 +1700,19 @@ DESCRIPTION:⚽ Cabo Verde e Arábia Saudita em Houston: dois times que p
  recisam de pontos para garantir a classificação. Os sauditas vêm de u
  ma Copa de zebras\; os cabo-verdianos estão vivendo sua primeira Copa. 
  Um jogo com alto valor emocional para ambas as seleções.\n\n📋 PLANT
- EIS\n🇨🇻 Cabo Verde\n  (escalacao a confirmar)\n\n🇸🇦 Arabia S
- audita\n  (escalacao a confirmar)
+ EIS\n🇨🇻 Cabo Verde (4-3-3 | Tec. Pedro Bubista)\n  GOL: 1. Vozinha
+ \, 12. Márcio\, 23. Dos Santos\n  DEF: 2. Stopira\, 3. Borges\, 4. Lope
+ s\, 5. Logan Costa\, 13. Lopes Cabral\, 22. Moreira\, 24. Wagner P.\, 25
+ . Kelvin\n  MEI: 6. Kevin Lopes\, 7. Jovane\, 8. João Paulo\, 10. Monte
+ iro\, 11. Rodrigues\, 14. D. Duarte\, 15. Duarte\, 16. Y. Semedo\, 17. S
+ emedo\, 18. Arcanjo\, 21. Da Costa\, 26. Hélio\n  ATA: 9. Benchimol\, 1
+ 9. Livramento\, 20. Ryan\n\n🇸🇦 Arabia Saudita (4-5-1 | Tec. Georgi
+ os Donis)\n  GOL: 1. Alaqidi\, 21. Alowais\, 22. Alkassar\n  DEF: 2. Maj
+ rashi\, 3. Lajami\, 4. Alamri\, 5. Altambakti\, 12. Saud\, 13. Nawaf\, 1
+ 4. Kadish\, 24. Moteb\, 25. Jehad\, 26. Mohammed\n  MEI: 6. Nasser\, 7. 
+ Musab\, 15. Alkhaibari\, 16. Ziyad\, 18. Alhajji\, 23. Mohamed Kanno\n  
+ ATA: 8. Aiman\, 9. Feras\, 10. Salem Al-Dawsari\, 11. Alshehri\, 17. Kha
+ lid\, 19. Alhamddan\, 20. Mandash
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1182,7 +1726,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-48@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇺🇾 URU x 🇪🇸 ESP — Fase de Grupos - Grupo H
@@ -1192,8 +1736,23 @@ DESCRIPTION:⚽ A CNN elegeu este como um dos 10 melhores jogos da Copa.
  eão mundial no Estadio Akron. Lamine Yamal\, o adolescente que pode dec
  idir uma Copa sozinho\, vai enfrentar Federico Valverde e uma defesa uru
  guaia que vive para frustrar os favoritos. Un Clasico americano no cora
- ção do México.\n\n📋 PLANTEIS\n🇺🇾 Uruguai\n  (escalacao a con
- firmar)\n\n🇪🇸 Espanha\n  (escalacao a confirmar)
+ ção do México.\n\n📋 PLANTEIS\n🇺🇾 Uruguai (4-4-2 | Tec. Marce
+ lo Bielsa)\n  GOL: 1. Sergio Rochet\, 12. S. Mele\, 23. Fernando Muslera
+ \n  DEF: 2. José María Giménez\, 3. S. Cáceres\, 4. Ronald Araújo\,
+  13. G. Varela\, 16. Mathías Olivera\, 17. M. Viña\, 24. S. Bueno\n  M
+ EI: 5. Manuel Ugarte\, 6. Rodrigo Bentancur\, 7. N. de la Cruz\, 8. Fede
+ rico Valverde\, 10. Giorgian de Arrascaeta\, 14. A. Canobbio\, 15. E. Ma
+ rtínez\, 20. M. Araújo\, 22. J. Piquerez\, 25. J.M. Sanabria\, 26. R. 
+ Zalazar\n  ATA: 9. Darwin Núñez\, 11. Facundo Pellistri\, 18. B. Rodr
+ íguez\, 19. R. Aguirre\, 21. F. Viñas\n\n🇪🇸 Espanha (4-3-3 | Tec
+ . Luis de la Fuente)\n  GOL: 1. David Raya\, 13. Joan García\, 23. Unai
+  Simón\n  DEF: 2. Marc Pubill\, 3. Alejandro Grimaldo\, 4. Eric García
+ \, 5. Marcos Llorente\, 12. Pedro Porro\, 14. Aymeric Laporte\, 22. Pau 
+ Cubarsí\, 24. Marc Cucurella\n  MEI: 6. Mikel Merino\, 8. Fabián Ruiz\
+ , 9. Gavi\, 15. Alex Baena\, 16. Rodri\, 18. Martín Zubimendi\, 20. Ped
+ ri\n  ATA: 7. Ferran Torres\, 10. Dani Olmo\, 11. Jeremy\, 17. Nico Will
+ iams\, 19. Lamine Yamal\, 21. Mikel Oyarzabal\, 25. Víctor Mollejo\, 26
+ . Borja Iglesias
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1207,7 +1766,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-49@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 SUMMARY:🇫🇷 FRA x 🇸🇳 SEN — Fase de Grupos - Grupo I
@@ -1218,8 +1777,21 @@ DESCRIPTION:⚽ Para a CNN\, um dos melhores jogos da Copa — 'uma batal
  os jovens Désiré Doué e Rayan Cherki. O Senegal foi campeão africano
   antes de ser privado do título de forma controversa — e chega com um
   elenco de talento e raiva motivadora.\n\n📋 PLANTEIS\n🇫🇷 Franca
- \n  (escalacao a confirmar)\n\n🇸🇳 Senegal\n  (escalacao a confirma
- r)
+  (4-3-3 | Tec. Didier Deschamps)\n  GOL: 1. Brice Samba\, 16. Mike Maign
+ an\, 23. Risser\n  DEF: 2. Gusto\, 3. Lucas Digne\, 4. Dayot Upamecano\,
+  5. Jules Koundé\, 15. Ibrahima Konaté\, 17. William Saliba\, 19. T. H
+ ernandez\, 21. Lucas Hernandez\, 26. Lacroix\n  MEI: 6. Manu Koné\, 8. 
+ Aurélien Tchouaméni\, 13. N'Golo Kanté\, 14. Adrien Rabiot\, 18. Warr
+ en Zaïre-Emery\, 24. Rayan Cherki\, 25. Akliouche\n  ATA: 7. Ousmane De
+ mbélé\, 9. Marcus Thuram\, 10. Kylian Mbappé\, 11. Michael Olise\, 12
+ . Bradley Barcola\, 20. Désiré Doué\, 22. Mateta\n\n🇸🇳 Senegal 
+ (4-3-3 | Tec. Pape Thiaw)\n  GOL: 1. Y. Diouf\, 16. Édouard Mendy\, 23.
+  Diaw\n  DEF: 2. Ismail Sarr\, 3. Kalidou Koulibaly\, 4. Seck\, 14. Jako
+ bs\, 15. Krépin Diatta\, 19. Niakhate\, 24. A. Mendy\, 25. Diouf\n  MEI
+ : 5. Idrissa Gana Gueye\, 6. P.I. Ciss\, 8. Lamine Camara\, 17. P.M. Sar
+ r\, 21. H. Diarra\, 22. Bara\, 26. Gana Gueye\n  ATA: 7. Lamine Camara\,
+  9. B. Dieng\, 10. Sadio Mané\, 11. Nicolas Jackson\, 12. Cherif\, 13. 
+ Iliman Ndiaye\, 18. Ismaïla Sarr\, 20. Mbaye
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1233,7 +1805,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-50@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 SUMMARY:🇮🇶 IRQ x 🇳🇴 NOR — Fase de Grupos - Grupo I
@@ -1243,8 +1815,20 @@ DESCRIPTION:⚽ Erling Haaland faz aqui sua estreia numa Copa do Mundo. O
   da história do futebol\, marcou 16 dos 37 gols noruegueses na qualific
  ação. O Iraque enfrenta talvez o jogador mais difícil de parar nesta 
  Copa — num jogo que toda uma geração de fãs estava ansiosa para ass
- istir.\n\n📋 PLANTEIS\n🇮🇶 Iraque\n  (escalacao a confirmar)\n\n
- 🇳🇴 Noruega\n  (escalacao a confirmar)
+ istir.\n\n📋 PLANTEIS\n🇮🇶 Iraque (4-1-4-1 | Tec. Graham Arnold)\
+ n  GOL: 1. Fahad\, 12. Jalal\, 22. Ahmed B.\n  DEF: 2. Rebin\, 3. Hussei
+ n\, 4. Zaid T.\, 5. Akam\, 6. Munaf\, 15. Ahmed\, 23. Doski\, 25. Mustaf
+ a\, 26. Frans\n  MEI: 7. Youssef\, 8. Ibrahim\, 14. Zach Iqbal\, 16. Al-
+ Ammari\, 19. K. Yakob\, 20. Aimar\, 24. Zaid I.\n  ATA: 9. Al-Hamadi\, 1
+ 0. Mohanad\, 11. Ahmed Q.\, 13. Ali Y.\, 17. Ali J.\, 18. Aymen\, 21. Ma
+ rko\n\n🇳🇴 Noruega (4-3-3 | Tec. Ståle Solbakken)\n  GOL: 1. Ørja
+ n Nyland\, 12. Tangvik\, 13. Selvik\n  DEF: 3. Kristoffer Ajer\, 4. Leo 
+ Østigård\, 5. Møller Wolfe\, 15. Bjørkan\, 16. Holmgren\, 17. Heggem
+ \, 24. Langås\, 25. Falchener\n  MEI: 2. Thorsby\, 6. Berg\, 8. Sander 
+ Berge\, 10. Martin Ødegaard\, 14. Aursnes\, 18. Thorstvedt\, 19. Aasgaa
+ rd\, 21. Schjelderup\, 22. Oscar Bobb\, 23. Hauge\n  ATA: 7. Alexander S
+ ørloth\, 9. Erling Haaland\, 11. Jørgen Strand Larsen\, 20. Antonio Nu
+ sa\, 26. Ryerson
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1258,7 +1842,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-51@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 SUMMARY:🇫🇷 FRA x 🇮🇶 IRQ — Fase de Grupos - Grupo I
@@ -1268,8 +1852,20 @@ DESCRIPTION:⚽ A França\, co-favorita ao título\, encontra o Iraque em
   letais da Copa\; os iraquianos\, na sua segunda Copa da história\, vã
  o se defender com tudo e tentar o contra-ataque histórico. Um jogo que 
  pode ter goleada — ou uma das maiores surpresas do torneio.\n\n📋 PL
- ANTEIS\n🇫🇷 Franca\n  (escalacao a confirmar)\n\n🇮🇶 Iraque\n 
-  (escalacao a confirmar)
+ ANTEIS\n🇫🇷 Franca (4-3-3 | Tec. Didier Deschamps)\n  GOL: 1. Brice
+  Samba\, 16. Mike Maignan\, 23. Risser\n  DEF: 2. Gusto\, 3. Lucas Digne
+ \, 4. Dayot Upamecano\, 5. Jules Koundé\, 15. Ibrahima Konaté\, 17. Wi
+ lliam Saliba\, 19. T. Hernandez\, 21. Lucas Hernandez\, 26. Lacroix\n  M
+ EI: 6. Manu Koné\, 8. Aurélien Tchouaméni\, 13. N'Golo Kanté\, 14. A
+ drien Rabiot\, 18. Warren Zaïre-Emery\, 24. Rayan Cherki\, 25. Akliouch
+ e\n  ATA: 7. Ousmane Dembélé\, 9. Marcus Thuram\, 10. Kylian Mbappé\,
+  11. Michael Olise\, 12. Bradley Barcola\, 20. Désiré Doué\, 22. Mate
+ ta\n\n🇮🇶 Iraque (4-1-4-1 | Tec. Graham Arnold)\n  GOL: 1. Fahad\, 
+ 12. Jalal\, 22. Ahmed B.\n  DEF: 2. Rebin\, 3. Hussein\, 4. Zaid T.\, 5.
+  Akam\, 6. Munaf\, 15. Ahmed\, 23. Doski\, 25. Mustafa\, 26. Frans\n  ME
+ I: 7. Youssef\, 8. Ibrahim\, 14. Zach Iqbal\, 16. Al-Ammari\, 19. K. Yak
+ ob\, 20. Aimar\, 24. Zaid I.\n  ATA: 9. Al-Hamadi\, 10. Mohanad\, 11. Ah
+ med Q.\, 13. Ali Y.\, 17. Ali J.\, 18. Aymen\, 21. Marko
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1283,7 +1879,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-52@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 SUMMARY:🇳🇴 NOR x 🇸🇳 SEN — Fase de Grupos - Grupo I
@@ -1293,8 +1889,21 @@ DESCRIPTION:⚽ A CNN destacou este como um dos mais aguardados da fase d
  enta os Leões da Teranga do Senegal no MetLife Stadium. O Senegal tem a
  tletas físicos e defensores experientes capazes de dificultar a vida at
  é do maior centroavante do mundo. Um jogo que pode decidir quem é o se
- gundo colocado do Grupo I.\n\n📋 PLANTEIS\n🇳🇴 Noruega\n  (escala
- cao a confirmar)\n\n🇸🇳 Senegal\n  (escalacao a confirmar)
+ gundo colocado do Grupo I.\n\n📋 PLANTEIS\n🇳🇴 Noruega (4-3-3 | T
+ ec. Ståle Solbakken)\n  GOL: 1. Ørjan Nyland\, 12. Tangvik\, 13. Selvi
+ k\n  DEF: 3. Kristoffer Ajer\, 4. Leo Østigård\, 5. Møller Wolfe\, 15
+ . Bjørkan\, 16. Holmgren\, 17. Heggem\, 24. Langås\, 25. Falchener\n  
+ MEI: 2. Thorsby\, 6. Berg\, 8. Sander Berge\, 10. Martin Ødegaard\, 14.
+  Aursnes\, 18. Thorstvedt\, 19. Aasgaard\, 21. Schjelderup\, 22. Oscar B
+ obb\, 23. Hauge\n  ATA: 7. Alexander Sørloth\, 9. Erling Haaland\, 11. 
+ Jørgen Strand Larsen\, 20. Antonio Nusa\, 26. Ryerson\n\n🇸🇳 Seneg
+ al (4-3-3 | Tec. Pape Thiaw)\n  GOL: 1. Y. Diouf\, 16. Édouard Mendy\, 
+ 23. Diaw\n  DEF: 2. Ismail Sarr\, 3. Kalidou Koulibaly\, 4. Seck\, 14. J
+ akobs\, 15. Krépin Diatta\, 19. Niakhate\, 24. A. Mendy\, 25. Diouf\n  
+ MEI: 5. Idrissa Gana Gueye\, 6. P.I. Ciss\, 8. Lamine Camara\, 17. P.M. 
+ Sarr\, 21. H. Diarra\, 22. Bara\, 26. Gana Gueye\n  ATA: 7. Lamine Camar
+ a\, 9. B. Dieng\, 10. Sadio Mané\, 11. Nicolas Jackson\, 12. Cherif\, 1
+ 3. Iliman Ndiaye\, 18. Ismaïla Sarr\, 20. Mbaye
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1308,7 +1917,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-53@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇳🇴 NOR x 🇫🇷 FRA — Fase de Grupos - Grupo I
@@ -1318,8 +1927,22 @@ DESCRIPTION:⚽ Haaland vs. Mbappé — o duelo que o mundo inteiro quer
  tes da Copa\, incluindo um gol de fora da área de tirar o fôlego\, e D
  embélé é mais uma arma francesa. Mas a Noruega de Haaland venceu a qu
  alificação com 37 gols marcados — e em Boston este time vai ao ataqu
- e sem reservas.\n\n📋 PLANTEIS\n🇳🇴 Noruega\n  (escalacao a confi
- rmar)\n\n🇫🇷 Franca\n  (escalacao a confirmar)
+ e sem reservas.\n\n📋 PLANTEIS\n🇳🇴 Noruega (4-3-3 | Tec. Ståle 
+ Solbakken)\n  GOL: 1. Ørjan Nyland\, 12. Tangvik\, 13. Selvik\n  DEF: 3
+ . Kristoffer Ajer\, 4. Leo Østigård\, 5. Møller Wolfe\, 15. Bjørkan\
+ , 16. Holmgren\, 17. Heggem\, 24. Langås\, 25. Falchener\n  MEI: 2. Tho
+ rsby\, 6. Berg\, 8. Sander Berge\, 10. Martin Ødegaard\, 14. Aursnes\, 
+ 18. Thorstvedt\, 19. Aasgaard\, 21. Schjelderup\, 22. Oscar Bobb\, 23. H
+ auge\n  ATA: 7. Alexander Sørloth\, 9. Erling Haaland\, 11. Jørgen Str
+ and Larsen\, 20. Antonio Nusa\, 26. Ryerson\n\n🇫🇷 Franca (4-3-3 | 
+ Tec. Didier Deschamps)\n  GOL: 1. Brice Samba\, 16. Mike Maignan\, 23. R
+ isser\n  DEF: 2. Gusto\, 3. Lucas Digne\, 4. Dayot Upamecano\, 5. Jules 
+ Koundé\, 15. Ibrahima Konaté\, 17. William Saliba\, 19. T. Hernandez\,
+  21. Lucas Hernandez\, 26. Lacroix\n  MEI: 6. Manu Koné\, 8. Aurélien 
+ Tchouaméni\, 13. N'Golo Kanté\, 14. Adrien Rabiot\, 18. Warren Zaïre-
+ Emery\, 24. Rayan Cherki\, 25. Akliouche\n  ATA: 7. Ousmane Dembélé\, 
+ 9. Marcus Thuram\, 10. Kylian Mbappé\, 11. Michael Olise\, 12. Bradley 
+ Barcola\, 20. Désiré Doué\, 22. Mateta
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1333,7 +1956,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-54@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇸🇳 SEN x 🇮🇶 IRQ — Fase de Grupos - Grupo I
@@ -1342,8 +1965,20 @@ DESCRIPTION:⚽ Senegal e Iraque fecham o Grupo I em Toronto. Dependendo
  dos outros resultados\, pode ser um jogo de definição ou já de adeus 
  para os iraquianos. Os leões da Teranga vão querer entrar no mata-mata
   com confiança\; o Iraque vai tentar escrever o capítulo mais inespera
- do de sua história recente.\n\n📋 PLANTEIS\n🇸🇳 Senegal\n  (esca
- lacao a confirmar)\n\n🇮🇶 Iraque\n  (escalacao a confirmar)
+ do de sua história recente.\n\n📋 PLANTEIS\n🇸🇳 Senegal (4-3-3 |
+  Tec. Pape Thiaw)\n  GOL: 1. Y. Diouf\, 16. Édouard Mendy\, 23. Diaw\n 
+  DEF: 2. Ismail Sarr\, 3. Kalidou Koulibaly\, 4. Seck\, 14. Jakobs\, 15.
+  Krépin Diatta\, 19. Niakhate\, 24. A. Mendy\, 25. Diouf\n  MEI: 5. Idr
+ issa Gana Gueye\, 6. P.I. Ciss\, 8. Lamine Camara\, 17. P.M. Sarr\, 21. 
+ H. Diarra\, 22. Bara\, 26. Gana Gueye\n  ATA: 7. Lamine Camara\, 9. B. D
+ ieng\, 10. Sadio Mané\, 11. Nicolas Jackson\, 12. Cherif\, 13. Iliman N
+ diaye\, 18. Ismaïla Sarr\, 20. Mbaye\n\n🇮🇶 Iraque (4-1-4-1 | Tec.
+  Graham Arnold)\n  GOL: 1. Fahad\, 12. Jalal\, 22. Ahmed B.\n  DEF: 2. R
+ ebin\, 3. Hussein\, 4. Zaid T.\, 5. Akam\, 6. Munaf\, 15. Ahmed\, 23. Do
+ ski\, 25. Mustafa\, 26. Frans\n  MEI: 7. Youssef\, 8. Ibrahim\, 14. Zach
+  Iqbal\, 16. Al-Ammari\, 19. K. Yakob\, 20. Aimar\, 24. Zaid I.\n  ATA: 
+ 9. Al-Hamadi\, 10. Mohanad\, 11. Ahmed Q.\, 13. Ali Y.\, 17. Ali J.\, 18
+ . Aymen\, 21. Marko
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1357,7 +1992,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-55@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 SUMMARY:🇦🇷 ARG x 🇩🇿 ALG — Fase de Grupos - Grupo J
@@ -1368,8 +2003,21 @@ DESCRIPTION:⚽ Lionel Messi\, possivelmente em sua última Copa do Mundo
  odeado de uma seleção argentina construída por Scaloni para ser campe
  ã novamente. A Argélia\, semifinalista do AFCON 2021\, tem a motivaç
  ão de parar o maior jogador de todos os tempos.\n\n📋 PLANTEIS\n🇦
- 🇷 Argentina\n  (escalacao a confirmar)\n\n🇩🇿 Argelia\n  (escala
- cao a confirmar)
+ 🇷 Argentina (4-4-2 | Tec. Lionel Scaloni)\n  GOL: 1. Juan Musso\, 12.
+  Germán Rulli\, 23. Emiliano Martínez\n  DEF: 2. Balerdi\, 3. Nicolás
+  Tagliafico\, 4. Montiel\, 6. Lisandro Martínez\, 13. Cristian Romero\,
+  19. Nicolás Otamendi\, 25. Medina\, 26. Nahuel Molina\n  MEI: 5. Leand
+ ro Paredes\, 7. Rodrigo De Paul\, 8. Barco\, 11. Lo Celso\, 14. Exequiel
+  Palacios\, 15. Nicolás González\, 20. Alexis Mac Allister\, 24. Enzo 
+ Fernández\n  ATA: 9. Julián Álvarez\, 10. Lionel Messi\, 16. Almada\,
+  17. Simeone\, 18. Nico Paz\, 21. López\, 22. Lautaro Martínez\n\n🇩
+ 🇿 Argelia (4-3-3 | Tec. Vladimir Petkovic)\n  GOL: 1. Mastil\, 16. Be
+ nbot\, 23. Zidane\n  DEF: 2. Mandi\, 3. Abada\, 4. Tougai\, 5. Belaid\, 
+ 13. Hadjam\, 15. Rayan Aït-Nouri\, 17. Belghali\, 21. Bensebaini\, 26. 
+ Chergui\n  MEI: 6. Zerrouki\, 8. Houssem Aouar\, 10. Chaibi\, 14. Boudao
+ ui\, 19. Bentaleb\, 22. Maza\, 24. Titraoui\n  ATA: 7. Riyad Mahrez\, 9.
+  Ghouri\, 11. Hadj Moussa\, 12. Benbouali\, 18. Said Amoura\, 20. Boulbi
+ na\, 25. Ghedjemis
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1383,7 +2031,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-56@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:🇦🇹 AUT x 🇯🇴 JOR — Fase de Grupos - Grupo J
@@ -1393,8 +2041,19 @@ DESCRIPTION:⚽ A Jordânia faz sua estreia histórica em Copas do Mundo\
  r num Mundial pelo classificatório intercontinental de 2026\, a Jordân
  ia chegou aqui com muito esforço — e vai jogar com o coração do Ori
  ente Médio inteiro torcendo por ela.\n\n📋 PLANTEIS\n🇦🇹 Austria
- \n  (escalacao a confirmar)\n\n🇯🇴 Jordania\n  (escalacao a confirm
- ar)
+  (4-2-3-1 | Tec. Ralf Rangnick)\n  GOL: 1. Schlager\, 12. Wiegele\, 13. 
+ Pentz\n  DEF: 2. Affengruber\, 3. Kevin Danso\, 5. Stefan Posch\, 8. Dav
+ id Alaba\, 15. Lienhart\, 16. Mwene\, 23. Friedl\, 25. Svoboda\n  MEI: 4
+ . Florian Grillitsch\, 6. Nicolas Seiwald\, 9. Marcel Sabitzer\, 10. Gri
+ llitsch\, 17. Chukwuemeka\, 18. Schmid\, 19. Christoph Baumgartner\, 20.
+  Konrad Laimer\, 22. Prass\, 24. Wanner\, 26. Schöpf\n  ATA: 7. Marko A
+ rnautovic\, 11. Gregoritsch\, 14. Kalajdzic\, 21. Wimmer\n\n🇯🇴 Jor
+ dania (4-4-2 | Tec. Jamal Sellami)\n  GOL: 1. Yazeed\, 12. Bani Ateyah\,
+  22. Alfakhori\n  DEF: 2. Abu Hasheesh\, 3. Nasib\, 4. Abu Dhab\, 5. Ala
+ rab\, 16. Abulnadi\, 17. Salem\, 19. Saeed\, 23. Ehsan\, 26. Badawi\n  M
+ EI: 6. Jamous\, 8. Alrawabdeh\, 14. Rajaei\, 15. Sadeh\, 20. Abu Taha\, 
+ 21. Nizar\, 25. Aldaoud\n  ATA: 7. Abu Zraiq\, 9. Olwan\, 10. Mousa Al-T
+ aamari\, 11. Odeh\, 13. Almardi\, 18. Sabra\, 24. Azaizeh
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1408,7 +2067,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-57@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 SUMMARY:🇦🇷 ARG x 🇦🇹 AUT — Fase de Grupos - Grupo J
@@ -1418,8 +2077,21 @@ DESCRIPTION:⚽ Argentina e Áustria em Dallas: os campeões mundiais bus
   (se disponível) tenta repetir a surpresa da Copa de 1978 — quando ta
  mbém saiu cedo\, apesar do talento. Messi deve fazer sua segunda apari
  ção do torneio com o grupo já semi-decidido.\n\n📋 PLANTEIS\n🇦
- 🇷 Argentina\n  (escalacao a confirmar)\n\n🇦🇹 Austria\n  (escala
- cao a confirmar)
+ 🇷 Argentina (4-4-2 | Tec. Lionel Scaloni)\n  GOL: 1. Juan Musso\, 12.
+  Germán Rulli\, 23. Emiliano Martínez\n  DEF: 2. Balerdi\, 3. Nicolás
+  Tagliafico\, 4. Montiel\, 6. Lisandro Martínez\, 13. Cristian Romero\,
+  19. Nicolás Otamendi\, 25. Medina\, 26. Nahuel Molina\n  MEI: 5. Leand
+ ro Paredes\, 7. Rodrigo De Paul\, 8. Barco\, 11. Lo Celso\, 14. Exequiel
+  Palacios\, 15. Nicolás González\, 20. Alexis Mac Allister\, 24. Enzo 
+ Fernández\n  ATA: 9. Julián Álvarez\, 10. Lionel Messi\, 16. Almada\,
+  17. Simeone\, 18. Nico Paz\, 21. López\, 22. Lautaro Martínez\n\n🇦
+ 🇹 Austria (4-2-3-1 | Tec. Ralf Rangnick)\n  GOL: 1. Schlager\, 12. Wi
+ egele\, 13. Pentz\n  DEF: 2. Affengruber\, 3. Kevin Danso\, 5. Stefan Po
+ sch\, 8. David Alaba\, 15. Lienhart\, 16. Mwene\, 23. Friedl\, 25. Svobo
+ da\n  MEI: 4. Florian Grillitsch\, 6. Nicolas Seiwald\, 9. Marcel Sabitz
+ er\, 10. Grillitsch\, 17. Chukwuemeka\, 18. Schmid\, 19. Christoph Baumg
+ artner\, 20. Konrad Laimer\, 22. Prass\, 24. Wanner\, 26. Schöpf\n  ATA
+ : 7. Marko Arnautovic\, 11. Gregoritsch\, 14. Kalajdzic\, 21. Wimmer
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1433,7 +2105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-58@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 SUMMARY:🇯🇴 JOR x 🇩🇿 ALG — Fase de Grupos - Grupo J
@@ -1442,8 +2114,19 @@ DESCRIPTION:⚽ Jordânia e Argélia em San Francisco: um duelo entre dua
  s nações árabes e norte-africanas que precisam de pontos para avança
  r. Ambas chegam ao segundo jogo precisando de vitória — o que promete
   um jogo aberto\, físico e emocionalmente intenso.\n\n📋 PLANTEIS\n
- 🇯🇴 Jordania\n  (escalacao a confirmar)\n\n🇩🇿 Argelia\n  (esc
- alacao a confirmar)
+ 🇯🇴 Jordania (4-4-2 | Tec. Jamal Sellami)\n  GOL: 1. Yazeed\, 12. B
+ ani Ateyah\, 22. Alfakhori\n  DEF: 2. Abu Hasheesh\, 3. Nasib\, 4. Abu D
+ hab\, 5. Alarab\, 16. Abulnadi\, 17. Salem\, 19. Saeed\, 23. Ehsan\, 26.
+  Badawi\n  MEI: 6. Jamous\, 8. Alrawabdeh\, 14. Rajaei\, 15. Sadeh\, 20.
+  Abu Taha\, 21. Nizar\, 25. Aldaoud\n  ATA: 7. Abu Zraiq\, 9. Olwan\, 10
+ . Mousa Al-Taamari\, 11. Odeh\, 13. Almardi\, 18. Sabra\, 24. Azaizeh\n\
+ n🇩🇿 Argelia (4-3-3 | Tec. Vladimir Petkovic)\n  GOL: 1. Mastil\, 1
+ 6. Benbot\, 23. Zidane\n  DEF: 2. Mandi\, 3. Abada\, 4. Tougai\, 5. Bela
+ id\, 13. Hadjam\, 15. Rayan Aït-Nouri\, 17. Belghali\, 21. Bensebaini\,
+  26. Chergui\n  MEI: 6. Zerrouki\, 8. Houssem Aouar\, 10. Chaibi\, 14. B
+ oudaoui\, 19. Bentaleb\, 22. Maza\, 24. Titraoui\n  ATA: 7. Riyad Mahrez
+ \, 9. Ghouri\, 11. Hadj Moussa\, 12. Benbouali\, 18. Said Amoura\, 20. B
+ oulbina\, 25. Ghedjemis
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1457,7 +2140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-59@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇯🇴 JOR x 🇦🇷 ARG — Fase de Grupos - Grupo J
@@ -1466,8 +2149,21 @@ DESCRIPTION:⚽ Messi e a Argentina encerram o Grupo J contra a Jordânia
   em Dallas. Com 38 anos\, este pode ser o último jogo de grupo de Messi
   numa Copa do Mundo — e o craque vai querer despedir-se com um gol. A 
  Jordânia\, na sua primeira Copa\, vai guardar este duelo para contar ao
- s netos.\n\n📋 PLANTEIS\n🇯🇴 Jordania\n  (escalacao a confirmar)\
- n\n🇦🇷 Argentina\n  (escalacao a confirmar)
+ s netos.\n\n📋 PLANTEIS\n🇯🇴 Jordania (4-4-2 | Tec. Jamal Sellami
+ )\n  GOL: 1. Yazeed\, 12. Bani Ateyah\, 22. Alfakhori\n  DEF: 2. Abu Has
+ heesh\, 3. Nasib\, 4. Abu Dhab\, 5. Alarab\, 16. Abulnadi\, 17. Salem\, 
+ 19. Saeed\, 23. Ehsan\, 26. Badawi\n  MEI: 6. Jamous\, 8. Alrawabdeh\, 1
+ 4. Rajaei\, 15. Sadeh\, 20. Abu Taha\, 21. Nizar\, 25. Aldaoud\n  ATA: 7
+ . Abu Zraiq\, 9. Olwan\, 10. Mousa Al-Taamari\, 11. Odeh\, 13. Almardi\,
+  18. Sabra\, 24. Azaizeh\n\n🇦🇷 Argentina (4-4-2 | Tec. Lionel Scal
+ oni)\n  GOL: 1. Juan Musso\, 12. Germán Rulli\, 23. Emiliano Martínez\
+ n  DEF: 2. Balerdi\, 3. Nicolás Tagliafico\, 4. Montiel\, 6. Lisandro M
+ artínez\, 13. Cristian Romero\, 19. Nicolás Otamendi\, 25. Medina\, 26
+ . Nahuel Molina\n  MEI: 5. Leandro Paredes\, 7. Rodrigo De Paul\, 8. Bar
+ co\, 11. Lo Celso\, 14. Exequiel Palacios\, 15. Nicolás González\, 20.
+  Alexis Mac Allister\, 24. Enzo Fernández\n  ATA: 9. Julián Álvarez\,
+  10. Lionel Messi\, 16. Almada\, 17. Simeone\, 18. Nico Paz\, 21. López
+ \, 22. Lautaro Martínez
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1481,7 +2177,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-60@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇩🇿 ALG x 🇦🇹 AUT — Fase de Grupos - Grupo J
@@ -1490,8 +2186,20 @@ DESCRIPTION:⚽ Argélia e Áustria em Kansas City\, na última rodada do
   Grupo J: com a Argentina já classificada\, os dois brigam pela segunda
   vaga. Um duelo que pode precisar de gols para definir quem vai em frent
  e — e isso favorece um jogo aberto e emocionante.\n\n📋 PLANTEIS\n
- 🇩🇿 Argelia\n  (escalacao a confirmar)\n\n🇦🇹 Austria\n  (esca
- lacao a confirmar)
+ 🇩🇿 Argelia (4-3-3 | Tec. Vladimir Petkovic)\n  GOL: 1. Mastil\, 16
+ . Benbot\, 23. Zidane\n  DEF: 2. Mandi\, 3. Abada\, 4. Tougai\, 5. Belai
+ d\, 13. Hadjam\, 15. Rayan Aït-Nouri\, 17. Belghali\, 21. Bensebaini\, 
+ 26. Chergui\n  MEI: 6. Zerrouki\, 8. Houssem Aouar\, 10. Chaibi\, 14. Bo
+ udaoui\, 19. Bentaleb\, 22. Maza\, 24. Titraoui\n  ATA: 7. Riyad Mahrez\
+ , 9. Ghouri\, 11. Hadj Moussa\, 12. Benbouali\, 18. Said Amoura\, 20. Bo
+ ulbina\, 25. Ghedjemis\n\n🇦🇹 Austria (4-2-3-1 | Tec. Ralf Rangnick
+ )\n  GOL: 1. Schlager\, 12. Wiegele\, 13. Pentz\n  DEF: 2. Affengruber\,
+  3. Kevin Danso\, 5. Stefan Posch\, 8. David Alaba\, 15. Lienhart\, 16. 
+ Mwene\, 23. Friedl\, 25. Svoboda\n  MEI: 4. Florian Grillitsch\, 6. Nico
+ las Seiwald\, 9. Marcel Sabitzer\, 10. Grillitsch\, 17. Chukwuemeka\, 18
+ . Schmid\, 19. Christoph Baumgartner\, 20. Konrad Laimer\, 22. Prass\, 2
+ 4. Wanner\, 26. Schöpf\n  ATA: 7. Marko Arnautovic\, 11. Gregoritsch\, 
+ 14. Kalajdzic\, 21. Wimmer
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1505,7 +2213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-61@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 SUMMARY:🇵🇹 POR x 🇨🇩 COD — Fase de Grupos - Grupo K
@@ -1515,8 +2223,22 @@ DESCRIPTION:⚽ Cristiano Ronaldo\, com 41 anos\, possivelmente disputa s
  com um dos meios-campo mais talentosos do torneio: Vitinha\, João Neves
  \, Bruno Fernandes e Bernardo Silva\, nas palavras da CNN\, podem ser a 
  melhor linha de criação desta Copa. Ronaldo\, se utilizado\, ainda é 
- capaz de decidir.\n\n📋 PLANTEIS\n🇵🇹 Portugal\n  (escalacao a co
- nfirmar)\n\n🇨🇩 RD Congo\n  (escalacao a confirmar)
+ capaz de decidir.\n\n📋 PLANTEIS\n🇵🇹 Portugal (4-3-3 | Tec. Robe
+ rto Martínez)\n  GOL: 1. Diogo Costa\, 12. José Sá\, 22. Rui Silva\n 
+  DEF: 2. Nélson Semedo\, 3. Rúben Dias\, 4. Tomás Araújo\, 5. Diogo 
+ Dalot\, 13. Renato Veiga\, 14. Gonçalo Inácio\, 20. João Cancelo\, 24
+ . Samu\, 25. Nuno Mendes\n  MEI: 6. Matheus Nunes\, 8. Bruno Fernandes\,
+  10. Bernardo Silva\, 15. João Neves\, 21. Rúben Neves\, 23. Vitinha\n
+   ATA: 7. Cristiano Ronaldo\, 9. Gonçalo Ramos\, 11. João Félix\, 16.
+  Francisco Trincão\, 17. Rafael Leão\, 18. Neto\, 19. Gonçalo Guedes\
+ , 26. Francisco Conceição\n\n🇨🇩 RD Congo (4-2-3-1 | Tec. Sébast
+ ien Desabre)\n  GOL: 1. Mpasi\, 16. Fayulu\, 21. Epolo\n  DEF: 2. Aaron 
+ Wan-Bissaka\, 3. Kapuadi\, 4. Axel Tuanzebe\, 5. Batubinsika\, 12. J. Ka
+ yembe\, 22. Chancel Mbemba\, 24. G. Kalulu\, 26. Arthur Masuaku\n  MEI: 
+ 6. Mukau\, 7. Mbuku\, 8. Moutoussamy\, 10. Bongonda\, 14. Sadiki\, 15. T
+ shibola\, 18. Pickel\, 25. Kayembe\n  ATA: 9. Cipenga\, 11. Gael Kakuta\
+ , 13. Elia\, 17. Cédric Bakambu\, 19. Mayele\, 20. Yoane Wissa\, 23. Ba
+ nza
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1530,7 +2252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-62@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 SUMMARY:🇺🇿 UZB x 🇨🇴 COL — Fase de Grupos - Grupo K
@@ -1539,8 +2261,21 @@ DESCRIPTION:⚽ O Uzbequistão faz sua estreia histórica em Copas do Mun
  do no palco mais icônico do futebol mundial — o Estádio Azteca. Enfr
  enta a Colômbia\, vice-campeã da Copa América 2024\, com Luis Díaz d
  o Bayern de Munique como grande estrela. Um momento histórico para o fu
- tebol da Ásia Central.\n\n📋 PLANTEIS\n🇺🇿 Uzbequistao\n  (escal
- acao a confirmar)\n\n🇨🇴 Colombia\n  (escalacao a confirmar)
+ tebol da Ásia Central.\n\n📋 PLANTEIS\n🇺🇿 Uzbequistao (4-2-3-1 
+ | Tec. Fabio Cannavaro)\n  GOL: 1. Yusupov\, 12. Nematov\, 16. Ergashev\
+ n  DEF: 2. Abdukodir Khusanov\, 3. Alijonov\, 4. Sayfiev\, 5. Ashurmatov
+ \, 13. Nasrullaev\, 15. Eshmurodov\, 18. Abdullaev\, 24. Karimov\, 25. U
+ lmasaliyev\, 26. Urozov\n  MEI: 6. Mozgovoy\, 7. Shukurov\, 8. Iskandero
+ v\, 9. Xamrobekov\, 10. Jaloliddin Masharipov\, 11. Urunov\, 17. Khamdam
+ ov\, 19. Ganiev\, 22. Fayzullaev\, 23. Esanov\n  ATA: 14. Eldor Shomurod
+ ov\, 20. Amonov\, 21. Sergeev\n\n🇨🇴 Colombia (4-3-3 | Tec. Néstor
+  Lorenzo)\n  GOL: 1. David Ospina\, 12. C. Vargas\, 24. Montero\n  DEF: 
+ 2. Daniel Muñoz\, 3. Jhon Lucumí\, 4. Arias\, 13. Yerry Mina\, 14. Pue
+ rta\, 17. Johan Mojica\, 18. W. Ditta\, 22. Machado\, 23. Davinson Sánc
+ hez\n  MEI: 5. Kelvin Castaño\, 6. Richard Rios\, 8. Jorge Carrascal\, 
+ 10. James Rodríguez\, 11. Johan Arias\, 15. Portilla\, 16. Jefferson Le
+ rma\, 20. Juan Quintero\n  ATA: 7. Luis Díaz\, 9. Córdoba\, 19. C. Her
+ nandez\, 21. Jhon Arias\, 25. Luis Suárez\, 26. A. Gómez
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1554,7 +2289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-63@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 SUMMARY:🇵🇹 POR x 🇺🇿 UZB — Fase de Grupos - Grupo K
@@ -1563,8 +2298,21 @@ DESCRIPTION:⚽ Portugal e Uzbequistão em Houston: os lusitanos\, quarto
  s favoritos ao título\, buscam confirmar a classificação com anteced
  ência. Ronaldo pode receber mais minutos aqui\; o Uzbequistão vai defe
  nder com tudo para deixar a Copa com a cabeça erguida.\n\n📋 PLANTEIS
- \n🇵🇹 Portugal\n  (escalacao a confirmar)\n\n🇺🇿 Uzbequistao\n
-   (escalacao a confirmar)
+ \n🇵🇹 Portugal (4-3-3 | Tec. Roberto Martínez)\n  GOL: 1. Diogo Co
+ sta\, 12. José Sá\, 22. Rui Silva\n  DEF: 2. Nélson Semedo\, 3. Rúbe
+ n Dias\, 4. Tomás Araújo\, 5. Diogo Dalot\, 13. Renato Veiga\, 14. Gon
+ çalo Inácio\, 20. João Cancelo\, 24. Samu\, 25. Nuno Mendes\n  MEI: 6
+ . Matheus Nunes\, 8. Bruno Fernandes\, 10. Bernardo Silva\, 15. João Ne
+ ves\, 21. Rúben Neves\, 23. Vitinha\n  ATA: 7. Cristiano Ronaldo\, 9. G
+ onçalo Ramos\, 11. João Félix\, 16. Francisco Trincão\, 17. Rafael L
+ eão\, 18. Neto\, 19. Gonçalo Guedes\, 26. Francisco Conceição\n\n
+ 🇺🇿 Uzbequistao (4-2-3-1 | Tec. Fabio Cannavaro)\n  GOL: 1. Yusupov
+ \, 12. Nematov\, 16. Ergashev\n  DEF: 2. Abdukodir Khusanov\, 3. Alijono
+ v\, 4. Sayfiev\, 5. Ashurmatov\, 13. Nasrullaev\, 15. Eshmurodov\, 18. A
+ bdullaev\, 24. Karimov\, 25. Ulmasaliyev\, 26. Urozov\n  MEI: 6. Mozgovo
+ y\, 7. Shukurov\, 8. Iskanderov\, 9. Xamrobekov\, 10. Jaloliddin Mashari
+ pov\, 11. Urunov\, 17. Khamdamov\, 19. Ganiev\, 22. Fayzullaev\, 23. Esa
+ nov\n  ATA: 14. Eldor Shomurodov\, 20. Amonov\, 21. Sergeev
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1578,7 +2326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-64@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 SUMMARY:🇨🇴 COL x 🇨🇩 COD — Fase de Grupos - Grupo K
@@ -1587,8 +2335,21 @@ DESCRIPTION:⚽ Colômbia e RD Congo em Guadalajara: Luis Díaz\, um dos
  melhores atacantes em atividade\, lidera os colombianos num jogo que pod
  e confirmar a classificação. A RD Congo tem jogadores formados nos pri
  ncipais clubes europeus — não é o time fácil que parece.\n\n📋 PL
- ANTEIS\n🇨🇴 Colombia\n  (escalacao a confirmar)\n\n🇨🇩 RD Cong
- o\n  (escalacao a confirmar)
+ ANTEIS\n🇨🇴 Colombia (4-3-3 | Tec. Néstor Lorenzo)\n  GOL: 1. Davi
+ d Ospina\, 12. C. Vargas\, 24. Montero\n  DEF: 2. Daniel Muñoz\, 3. Jho
+ n Lucumí\, 4. Arias\, 13. Yerry Mina\, 14. Puerta\, 17. Johan Mojica\, 
+ 18. W. Ditta\, 22. Machado\, 23. Davinson Sánchez\n  MEI: 5. Kelvin Cas
+ taño\, 6. Richard Rios\, 8. Jorge Carrascal\, 10. James Rodríguez\, 11
+ . Johan Arias\, 15. Portilla\, 16. Jefferson Lerma\, 20. Juan Quintero\n
+   ATA: 7. Luis Díaz\, 9. Córdoba\, 19. C. Hernandez\, 21. Jhon Arias\,
+  25. Luis Suárez\, 26. A. Gómez\n\n🇨🇩 RD Congo (4-2-3-1 | Tec. S
+ ébastien Desabre)\n  GOL: 1. Mpasi\, 16. Fayulu\, 21. Epolo\n  DEF: 2. 
+ Aaron Wan-Bissaka\, 3. Kapuadi\, 4. Axel Tuanzebe\, 5. Batubinsika\, 12.
+  J. Kayembe\, 22. Chancel Mbemba\, 24. G. Kalulu\, 26. Arthur Masuaku\n 
+  MEI: 6. Mukau\, 7. Mbuku\, 8. Moutoussamy\, 10. Bongonda\, 14. Sadiki\,
+  15. Tshibola\, 18. Pickel\, 25. Kayembe\n  ATA: 9. Cipenga\, 11. Gael K
+ akuta\, 13. Elia\, 17. Cédric Bakambu\, 19. Mayele\, 20. Yoane Wissa\, 
+ 23. Banza
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1602,7 +2363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-65@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇴 COL x 🇵🇹 POR — Fase de Grupos - Grupo K
@@ -1613,8 +2374,22 @@ DESCRIPTION:⚽ A CNN elegeu este como o melhor jogo do Grupo K. Em Miami
  mbia tem Luis Díaz\, a atmosfera de um país apaixonado pelo futebol e 
  a motivação de quem chegou às finais da Copa América em 2024. Ronald
  o pode ser o fator X se Martínez decidir usá-lo.\n\n📋 PLANTEIS\n
- 🇨🇴 Colombia\n  (escalacao a confirmar)\n\n🇵🇹 Portugal\n  (es
- calacao a confirmar)
+ 🇨🇴 Colombia (4-3-3 | Tec. Néstor Lorenzo)\n  GOL: 1. David Ospina
+ \, 12. C. Vargas\, 24. Montero\n  DEF: 2. Daniel Muñoz\, 3. Jhon Lucum
+ í\, 4. Arias\, 13. Yerry Mina\, 14. Puerta\, 17. Johan Mojica\, 18. W. 
+ Ditta\, 22. Machado\, 23. Davinson Sánchez\n  MEI: 5. Kelvin Castaño\,
+  6. Richard Rios\, 8. Jorge Carrascal\, 10. James Rodríguez\, 11. Johan
+  Arias\, 15. Portilla\, 16. Jefferson Lerma\, 20. Juan Quintero\n  ATA: 
+ 7. Luis Díaz\, 9. Córdoba\, 19. C. Hernandez\, 21. Jhon Arias\, 25. Lu
+ is Suárez\, 26. A. Gómez\n\n🇵🇹 Portugal (4-3-3 | Tec. Roberto Ma
+ rtínez)\n  GOL: 1. Diogo Costa\, 12. José Sá\, 22. Rui Silva\n  DEF: 
+ 2. Nélson Semedo\, 3. Rúben Dias\, 4. Tomás Araújo\, 5. Diogo Dalot\
+ , 13. Renato Veiga\, 14. Gonçalo Inácio\, 20. João Cancelo\, 24. Samu
+ \, 25. Nuno Mendes\n  MEI: 6. Matheus Nunes\, 8. Bruno Fernandes\, 10. B
+ ernardo Silva\, 15. João Neves\, 21. Rúben Neves\, 23. Vitinha\n  ATA:
+  7. Cristiano Ronaldo\, 9. Gonçalo Ramos\, 11. João Félix\, 16. Franc
+ isco Trincão\, 17. Rafael Leão\, 18. Neto\, 19. Gonçalo Guedes\, 26. 
+ Francisco Conceição
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1628,7 +2403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-66@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇩 COD x 🇺🇿 UZB — Fase de Grupos - Grupo K
@@ -1637,8 +2412,20 @@ DESCRIPTION:⚽ RD Congo e Uzbequistão fecham o Grupo K em Atlanta. Dois
   times que fizeram história ao chegar aqui — um pela primeira vez com
  o nação independente com este nome\, o outro pela primeira vez na sua 
  história. Um jogo que terá mais emoção do que os resultados sugerem.
- \n\n📋 PLANTEIS\n🇨🇩 RD Congo\n  (escalacao a confirmar)\n\n🇺
- 🇿 Uzbequistao\n  (escalacao a confirmar)
+ \n\n📋 PLANTEIS\n🇨🇩 RD Congo (4-2-3-1 | Tec. Sébastien Desabre)
+ \n  GOL: 1. Mpasi\, 16. Fayulu\, 21. Epolo\n  DEF: 2. Aaron Wan-Bissaka\
+ , 3. Kapuadi\, 4. Axel Tuanzebe\, 5. Batubinsika\, 12. J. Kayembe\, 22. 
+ Chancel Mbemba\, 24. G. Kalulu\, 26. Arthur Masuaku\n  MEI: 6. Mukau\, 7
+ . Mbuku\, 8. Moutoussamy\, 10. Bongonda\, 14. Sadiki\, 15. Tshibola\, 18
+ . Pickel\, 25. Kayembe\n  ATA: 9. Cipenga\, 11. Gael Kakuta\, 13. Elia\,
+  17. Cédric Bakambu\, 19. Mayele\, 20. Yoane Wissa\, 23. Banza\n\n🇺
+ 🇿 Uzbequistao (4-2-3-1 | Tec. Fabio Cannavaro)\n  GOL: 1. Yusupov\, 1
+ 2. Nematov\, 16. Ergashev\n  DEF: 2. Abdukodir Khusanov\, 3. Alijonov\, 
+ 4. Sayfiev\, 5. Ashurmatov\, 13. Nasrullaev\, 15. Eshmurodov\, 18. Abdul
+ laev\, 24. Karimov\, 25. Ulmasaliyev\, 26. Urozov\n  MEI: 6. Mozgovoy\, 
+ 7. Shukurov\, 8. Iskanderov\, 9. Xamrobekov\, 10. Jaloliddin Masharipov\
+ , 11. Urunov\, 17. Khamdamov\, 19. Ganiev\, 22. Fayzullaev\, 23. Esanov\
+ n  ATA: 14. Eldor Shomurodov\, 20. Amonov\, 21. Sergeev
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1652,7 +2439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-67@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG x 🇭🇷 CRO — Fase de Grupo
@@ -1664,8 +2451,21 @@ DESCRIPTION:⚽ A CNN destacou este como um dos 10 melhores da Copa — e
  rrogação. Tuchel assumiu os Três Leões com Kane\, Bellingham\, Saka 
  e Declan Rice num dos melhores elencos ingleses de todos os tempos. Modr
  ić\, com 40 anos\, entra em campo numa Copa pela última vez.\n\n📋 P
- LANTEIS\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n  (escalacao a confirm
- ar)\n\n🇭🇷 Croacia\n  (escalacao a confirmar)
+ LANTEIS\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra (4-3-3 | Tec. Thomas Tu
+ chel)\n  GOL: 1. Jordan Pickford\, 13. D. Henderson\, 23. James Trafford
+ \n  DEF: 2. Konsa\, 3. O'Reilly\, 5. John Stones\, 6. Marc Guéhi\, 12. 
+ Livramento\, 15. Burn\, 24. Reece James\, 25. Spence\, 26. Quansah\n  ME
+ I: 4. Declan Rice\, 8. Anderson\, 10. Jude Bellingham\, 14. Jordan Hende
+ rson\, 16. Kobbie Mainoo\, 17. Rogers\, 21. Eberechi Eze\n  ATA: 7. Buka
+ yo Saka\, 9. Harry Kane\, 11. Marcus Rashford\, 18. Anthony Gordon\, 19.
+  Ollie Watkins\, 20. Noni Madueke\, 22. Ivan Toney\n\n🇭🇷 Croacia (
+ 4-3-3 | Tec. Zlatko Dalić)\n  GOL: 1. Dominik Livaković\, 12. Pandur\,
+  23. Kotarski\n  DEF: 2. Josip Stanišić\, 3. Pongračić\, 4. Joško G
+ vardiol\, 5. Duje Čaleta-Car\, 6. Šutalo\, 18. Jakić\, 22. Vušković
+ \, 25. Erlić\n  MEI: 7. Moro\, 8. Mateo Kovačić\, 10. Luka Modrić\, 
+ 13. Nikola Vlašić\, 15. Mario Pašalić\, 16. Baturina\, 17. Petar Su
+ čić\, 19. Fruk\, 21. Luka Sučić\n  ATA: 9. Kramarić\, 11. Budimir\,
+  14. Ivan Perišić\, 20. Matanović\, 24. M. Pašalić\, 26. Musa
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1679,7 +2479,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-68@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 SUMMARY:🇬🇭 GHA x 🇵🇦 PAN — Fase de Grupos - Grupo L
@@ -1688,8 +2488,20 @@ DESCRIPTION:⚽ Gana e Panamá em Toronto: dois times com tradições dif
  erentes mas com o mesmo espírito combativo. O Panamá\, classificado no
  vamente via CONCACAF\, quer repetir a energia de sua primeira Copa (2018
  ). Gana\, com uma nova geração de jogadores europeus\, quer sair desta
-  Copa com orgulho.\n\n📋 PLANTEIS\n🇬🇭 Gana\n  (escalacao a confi
- rmar)\n\n🇵🇦 Panama\n  (escalacao a confirmar)
+  Copa com orgulho.\n\n📋 PLANTEIS\n🇬🇭 Gana (4-2-3-1 | Tec. Carlo
+ s Queiroz)\n  GOL: 1. Lawrence Ati-Zigi\, 12. Anang\, 16. Asare\n  DEF: 
+ 2. Seidu\, 4. Adjetey\, 6. Suleman\, 14. Mensah\, 17. Abdul Baba Rahman\
+ , 18. Opoku\, 21. Peprah\, 23. Luckassen\, 26. Seneya\n  MEI: 3. Caleb\,
+  5. Thomas Partey\, 8. Sibo\, 11. Antoine Semenyo\, 15. Owusu\, 20. Boak
+ ye\n  ATA: 7. Fatawu Issahaku\, 9. Jordan Ayew\, 10. Asante\, 13. Baah\,
+  19. Iñaki Williams\, 22. Kamaldeen Sulemana\, 24. Ernest Nuamah\, 25. 
+ Adu\n\n🇵🇦 Panama (4-4-2 | Tec. Thomas Christiansen)\n  GOL: 1. Mej
+ ía\, 12. Samudio\, 22. Mosquera\n  DEF: 2. Blackman\, 3. Cordoba\, 4. F
+ . Escobar\, 5. Fariña\, 13. Ramos\, 14. Harvey\, 15. Davis\, 16. Andrad
+ e\, 23. Andrés Murillo\, 25. Miller\, 26. Gutiérrez\n  MEI: 6. Martín
+ ez\, 7. J.L. Rodríguez\, 8. Carrasquilla\, 10. Ismael\, 11. Bárcenas\,
+  19. Quintero\, 20. Godoy\, 21. Yanis\n  ATA: 9. T. Rodríguez\, 17. Jos
+ é Fajardo\, 18. Waterman\, 24. Londono
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1703,7 +2515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-69@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG x 🇬🇭 GHA — Fase de Grupo
@@ -1713,8 +2525,21 @@ DESCRIPTION:⚽ A Inglaterra de Bellingham e Saka enfrenta Gana no Gillet
  te Stadium\, em Boston. Os Três Leões chegam como terceiro favorito ao
   título\; os Black Stars têm uma nova geração técnica que vai testa
  r a defesa inglesa. Uma vitória inglesa praticamente garante a classifi
- cação.\n\n📋 PLANTEIS\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra\n  (e
- scalacao a confirmar)\n\n🇬🇭 Gana\n  (escalacao a confirmar)
+ cação.\n\n📋 PLANTEIS\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra (4-3-
+ 3 | Tec. Thomas Tuchel)\n  GOL: 1. Jordan Pickford\, 13. D. Henderson\, 
+ 23. James Trafford\n  DEF: 2. Konsa\, 3. O'Reilly\, 5. John Stones\, 6. 
+ Marc Guéhi\, 12. Livramento\, 15. Burn\, 24. Reece James\, 25. Spence\,
+  26. Quansah\n  MEI: 4. Declan Rice\, 8. Anderson\, 10. Jude Bellingham\
+ , 14. Jordan Henderson\, 16. Kobbie Mainoo\, 17. Rogers\, 21. Eberechi E
+ ze\n  ATA: 7. Bukayo Saka\, 9. Harry Kane\, 11. Marcus Rashford\, 18. An
+ thony Gordon\, 19. Ollie Watkins\, 20. Noni Madueke\, 22. Ivan Toney\n\n
+ 🇬🇭 Gana (4-2-3-1 | Tec. Carlos Queiroz)\n  GOL: 1. Lawrence Ati-Zi
+ gi\, 12. Anang\, 16. Asare\n  DEF: 2. Seidu\, 4. Adjetey\, 6. Suleman\, 
+ 14. Mensah\, 17. Abdul Baba Rahman\, 18. Opoku\, 21. Peprah\, 23. Luckas
+ sen\, 26. Seneya\n  MEI: 3. Caleb\, 5. Thomas Partey\, 8. Sibo\, 11. Ant
+ oine Semenyo\, 15. Owusu\, 20. Boakye\n  ATA: 7. Fatawu Issahaku\, 9. Jo
+ rdan Ayew\, 10. Asante\, 13. Baah\, 19. Iñaki Williams\, 22. Kamaldeen 
+ Sulemana\, 24. Ernest Nuamah\, 25. Adu
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1728,7 +2553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-70@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 SUMMARY:🇵🇦 PAN x 🇭🇷 CRO — Fase de Grupos - Grupo L
@@ -1737,8 +2562,20 @@ DESCRIPTION:⚽ Panamá e Croácia em Toronto: os croatas\, em despedida
  da geração Modrić\, buscam os pontos necessários para avançar. O Pa
  namá vai lutar muito para complicar o time europeu — em 2022\, a Cro
  ácia teve dificuldades com o Marrocos num jogo parecido com este.\n\n
- 📋 PLANTEIS\n🇵🇦 Panama\n  (escalacao a confirmar)\n\n🇭🇷 Cr
- oacia\n  (escalacao a confirmar)
+ 📋 PLANTEIS\n🇵🇦 Panama (4-4-2 | Tec. Thomas Christiansen)\n  GOL
+ : 1. Mejía\, 12. Samudio\, 22. Mosquera\n  DEF: 2. Blackman\, 3. Cordob
+ a\, 4. F. Escobar\, 5. Fariña\, 13. Ramos\, 14. Harvey\, 15. Davis\, 16
+ . Andrade\, 23. Andrés Murillo\, 25. Miller\, 26. Gutiérrez\n  MEI: 6.
+  Martínez\, 7. J.L. Rodríguez\, 8. Carrasquilla\, 10. Ismael\, 11. Bá
+ rcenas\, 19. Quintero\, 20. Godoy\, 21. Yanis\n  ATA: 9. T. Rodríguez\,
+  17. José Fajardo\, 18. Waterman\, 24. Londono\n\n🇭🇷 Croacia (4-3
+ -3 | Tec. Zlatko Dalić)\n  GOL: 1. Dominik Livaković\, 12. Pandur\, 23
+ . Kotarski\n  DEF: 2. Josip Stanišić\, 3. Pongračić\, 4. Joško Gvar
+ diol\, 5. Duje Čaleta-Car\, 6. Šutalo\, 18. Jakić\, 22. Vušković\, 
+ 25. Erlić\n  MEI: 7. Moro\, 8. Mateo Kovačić\, 10. Luka Modrić\, 13.
+  Nikola Vlašić\, 15. Mario Pašalić\, 16. Baturina\, 17. Petar Suči
+ ć\, 19. Fruk\, 21. Luka Sučić\n  ATA: 9. Kramarić\, 11. Budimir\, 14
+ . Ivan Perišić\, 20. Matanović\, 24. M. Pašalić\, 26. Musa
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1752,7 +2589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-71@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇵🇦 PAN x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG — Fase de Grupo
@@ -1762,8 +2599,21 @@ DESCRIPTION:⚽ Panamá e Inglaterra no MetLife Stadium\, em Nova York
  — os ingleses com o grupo praticamente definido\, o Panamá com tudo a
   provar. Um jogo em que Tuchel pode dar oportunidade a jogadores menos u
  tilizados\; o Panamá vai aproveitar cada espaço aberto.\n\n📋 PLANTE
- IS\n🇵🇦 Panama\n  (escalacao a confirmar)\n\n🏴󠁧󠁢󠁥󠁮
- 󠁧󠁿 Inglaterra\n  (escalacao a confirmar)
+ IS\n🇵🇦 Panama (4-4-2 | Tec. Thomas Christiansen)\n  GOL: 1. Mejía
+ \, 12. Samudio\, 22. Mosquera\n  DEF: 2. Blackman\, 3. Cordoba\, 4. F. E
+ scobar\, 5. Fariña\, 13. Ramos\, 14. Harvey\, 15. Davis\, 16. Andrade\,
+  23. Andrés Murillo\, 25. Miller\, 26. Gutiérrez\n  MEI: 6. Martínez\
+ , 7. J.L. Rodríguez\, 8. Carrasquilla\, 10. Ismael\, 11. Bárcenas\, 19
+ . Quintero\, 20. Godoy\, 21. Yanis\n  ATA: 9. T. Rodríguez\, 17. José 
+ Fajardo\, 18. Waterman\, 24. Londono\n\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Ing
+ laterra (4-3-3 | Tec. Thomas Tuchel)\n  GOL: 1. Jordan Pickford\, 13. D.
+  Henderson\, 23. James Trafford\n  DEF: 2. Konsa\, 3. O'Reilly\, 5. John
+  Stones\, 6. Marc Guéhi\, 12. Livramento\, 15. Burn\, 24. Reece James\,
+  25. Spence\, 26. Quansah\n  MEI: 4. Declan Rice\, 8. Anderson\, 10. Jud
+ e Bellingham\, 14. Jordan Henderson\, 16. Kobbie Mainoo\, 17. Rogers\, 2
+ 1. Eberechi Eze\n  ATA: 7. Bukayo Saka\, 9. Harry Kane\, 11. Marcus Rash
+ ford\, 18. Anthony Gordon\, 19. Ollie Watkins\, 20. Noni Madueke\, 22. I
+ van Toney
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1777,7 +2627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-72@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇭🇷 CRO x 🇬🇭 GHA — Fase de Grupos - Grupo L
@@ -1786,8 +2636,21 @@ DESCRIPTION:⚽ Croácia e Gana encerram o Grupo L em Filadelfia. Modrić
   pode fazer aqui sua última aparição num jogo de grupo de Copa do Mun
  do — com 40 anos e uma carreira que redefiniu o papel do meia no futeb
  ol moderno. Gana vai tentar a surpresa que deixaria os croatas fora do m
- ata-mata.\n\n📋 PLANTEIS\n🇭🇷 Croacia\n  (escalacao a confirmar)\
- n\n🇬🇭 Gana\n  (escalacao a confirmar)
+ ata-mata.\n\n📋 PLANTEIS\n🇭🇷 Croacia (4-3-3 | Tec. Zlatko Dalić
+ )\n  GOL: 1. Dominik Livaković\, 12. Pandur\, 23. Kotarski\n  DEF: 2. J
+ osip Stanišić\, 3. Pongračić\, 4. Joško Gvardiol\, 5. Duje Čaleta-
+ Car\, 6. Šutalo\, 18. Jakić\, 22. Vušković\, 25. Erlić\n  MEI: 7. M
+ oro\, 8. Mateo Kovačić\, 10. Luka Modrić\, 13. Nikola Vlašić\, 15. 
+ Mario Pašalić\, 16. Baturina\, 17. Petar Sučić\, 19. Fruk\, 21. Luka
+  Sučić\n  ATA: 9. Kramarić\, 11. Budimir\, 14. Ivan Perišić\, 20. M
+ atanović\, 24. M. Pašalić\, 26. Musa\n\n🇬🇭 Gana (4-2-3-1 | Tec.
+  Carlos Queiroz)\n  GOL: 1. Lawrence Ati-Zigi\, 12. Anang\, 16. Asare\n 
+  DEF: 2. Seidu\, 4. Adjetey\, 6. Suleman\, 14. Mensah\, 17. Abdul Baba R
+ ahman\, 18. Opoku\, 21. Peprah\, 23. Luckassen\, 26. Seneya\n  MEI: 3. C
+ aleb\, 5. Thomas Partey\, 8. Sibo\, 11. Antoine Semenyo\, 15. Owusu\, 20
+ . Boakye\n  ATA: 7. Fatawu Issahaku\, 9. Jordan Ayew\, 10. Asante\, 13. 
+ Baah\, 19. Iñaki Williams\, 22. Kamaldeen Sulemana\, 24. Ernest Nuamah\
+ , 25. Adu
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
@@ -1801,7 +2664,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-73@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 SUMMARY:❓ 2o Grupo A x ❓ 2o Grupo B — 16-avos de final
@@ -1825,7 +2688,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-74@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 SUMMARY:❓ 1o Grupo E x ❓ Melhor 3o (A/B/C/D/F) — 16-avos de final
@@ -1848,7 +2711,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-75@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 SUMMARY:❓ 1o Grupo F x ❓ 2o Grupo C — 16-avos de final
@@ -1871,7 +2734,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-76@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 SUMMARY:❓ 1o Grupo C x ❓ 2o Grupo F — 16-avos de final
@@ -1895,7 +2758,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-77@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 SUMMARY:❓ 1o Grupo I x ❓ Melhor 3o (C/D/F/G/H) — 16-avos de final
@@ -1918,7 +2781,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-78@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 SUMMARY:❓ 2o Grupo E x ❓ 2o Grupo I — 16-avos de final
@@ -1941,7 +2804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-79@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
 SUMMARY:❓ 1o Grupo A x ❓ Melhor 3o (C/E/F/H/I) — 16-avos de final
@@ -1965,7 +2828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-80@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 SUMMARY:❓ 1o Grupo L x ❓ Melhor 3o (E/H/I/J/K) — 16-avos de final
@@ -1988,7 +2851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-81@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 SUMMARY:❓ 1o Grupo D x ❓ Melhor 3o (B/E/F/I/J) — 16-avos de final
@@ -2011,7 +2874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-82@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260702T030000Z
 DTEND:20260702T050000Z
 SUMMARY:❓ 1o Grupo G x ❓ Melhor 3o (A/E/H/I/J) — 16-avos de final
@@ -2034,7 +2897,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-83@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
 SUMMARY:❓ 2o Grupo K x ❓ 2o Grupo L — 16-avos de final
@@ -2057,7 +2920,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-84@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 SUMMARY:❓ 1o Grupo H x ❓ 2o Grupo J — 16-avos de final
@@ -2081,7 +2944,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-85@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 SUMMARY:❓ 1o Grupo B x ❓ Melhor 3o (E/F/G/I/J) — 16-avos de final
@@ -2104,7 +2967,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-86@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 SUMMARY:❓ 1o Grupo J x ❓ 2o Grupo H — 16-avos de final
@@ -2127,7 +2990,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-87@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 SUMMARY:❓ 1o Grupo K x ❓ Melhor 3o (D/E/I/J/L) — 16-avos de final
@@ -2150,7 +3013,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-88@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 SUMMARY:❓ 2o Grupo D x ❓ 2o Grupo G — 16-avos de final
@@ -2173,7 +3036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-89@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:❓ Vencedor jogo 74 x ❓ Vencedor jogo 77 — Oitavas de final
@@ -2197,7 +3060,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-90@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 SUMMARY:❓ Vencedor jogo 73 x ❓ Vencedor jogo 75 — Oitavas de final
@@ -2220,7 +3083,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-91@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:❓ Vencedor jogo 76 x ❓ Vencedor jogo 78 — Oitavas de final
@@ -2243,7 +3106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-92@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 SUMMARY:❓ Vencedor jogo 79 x ❓ Vencedor jogo 80 — Oitavas de final
@@ -2266,7 +3129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-93@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 SUMMARY:❓ Vencedor jogo 83 x ❓ Vencedor jogo 84 — Oitavas de final
@@ -2289,7 +3152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-94@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 SUMMARY:❓ Vencedor jogo 81 x ❓ Vencedor jogo 82 — Oitavas de final
@@ -2312,7 +3175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-95@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:❓ Vencedor jogo 86 x ❓ Vencedor jogo 88 — Oitavas de final
@@ -2335,7 +3198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-96@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 SUMMARY:❓ Vencedor jogo 85 x ❓ Vencedor jogo 87 — Oitavas de final
@@ -2358,7 +3221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-97@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:❓ Vencedor jogo 89 x ❓ Vencedor jogo 90 — Quartas de final
@@ -2382,7 +3245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-98@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:❓ Vencedor jogo 93 x ❓ Vencedor jogo 94 — Quartas de final
@@ -2405,7 +3268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-99@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:❓ Vencedor jogo 91 x ❓ Vencedor jogo 92 — Quartas de final
@@ -2429,7 +3292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-100@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 SUMMARY:❓ Vencedor jogo 95 x ❓ Vencedor jogo 96 — Quartas de final
@@ -2452,7 +3315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-101@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 SUMMARY:❓ Vencedor jogo 97 x ❓ Vencedor jogo 98 — Semifinal
@@ -2475,7 +3338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-102@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 SUMMARY:❓ Vencedor jogo 99 x ❓ Vencedor jogo 100 — Semifinal
@@ -2498,7 +3361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-103@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 SUMMARY:❓ Perdedor jogo 101 x ❓ Perdedor jogo 102 — Disputa pelo 3o
@@ -2523,7 +3386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-104@copa2026
 SEQUENCE:0
-DTSTAMP:20260609T131832Z
+DTSTAMP:20260609T210520Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 SUMMARY:❓ Vencedor jogo 101 x ❓ Vencedor jogo 102 — Final
