@@ -1,0 +1,3870 @@
+{
+  "calendar": {
+    "name": "Copa do Mundo FIFA 2026",
+    "description": "Todos os 104 jogos da Copa do Mundo FIFA 2026 (EUA, Canada e Mexico).",
+    "refresh_hours": 6,
+    "default_match_minutes": 120,
+    "reminder_minutes_before": 15
+  },
+  "venues": {
+    "azteca": {
+      "stadium": "Estadio Azteca",
+      "city": "Cidade do Mexico",
+      "country": "Mexico"
+    },
+    "akron": {
+      "stadium": "Estadio Akron",
+      "city": "Guadalajara",
+      "country": "Mexico"
+    },
+    "bbva": {
+      "stadium": "Estadio BBVA",
+      "city": "Monterrey",
+      "country": "Mexico"
+    },
+    "bmo": {
+      "stadium": "BMO Field",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "bcplace": {
+      "stadium": "BC Place",
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "metlife": {
+      "stadium": "MetLife Stadium",
+      "city": "Nova York/Nova Jersey",
+      "country": "EUA"
+    },
+    "sofi": {
+      "stadium": "SoFi Stadium",
+      "city": "Los Angeles",
+      "country": "EUA"
+    },
+    "att": {
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "country": "EUA"
+    },
+    "nrg": {
+      "stadium": "NRG Stadium",
+      "city": "Houston",
+      "country": "EUA"
+    },
+    "arrowhead": {
+      "stadium": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "country": "EUA"
+    },
+    "mercedes": {
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "country": "EUA"
+    },
+    "hardrock": {
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "country": "EUA"
+    },
+    "lincoln": {
+      "stadium": "Lincoln Financial Field",
+      "city": "Filadelfia",
+      "country": "EUA"
+    },
+    "levis": {
+      "stadium": "Levi's Stadium",
+      "city": "San Francisco (Bay Area)",
+      "country": "EUA"
+    },
+    "lumen": {
+      "stadium": "Lumen Field",
+      "city": "Seattle",
+      "country": "EUA"
+    },
+    "gillette": {
+      "stadium": "Gillette Stadium",
+      "city": "Boston",
+      "country": "EUA"
+    }
+  },
+  "groups": {
+    "A": [
+      "MEX",
+      "RSA",
+      "KOR",
+      "CZE"
+    ],
+    "B": [
+      "CAN",
+      "BIH",
+      "QAT",
+      "SUI"
+    ],
+    "C": [
+      "BRA",
+      "MAR",
+      "HAI",
+      "SCO"
+    ],
+    "D": [
+      "USA",
+      "PAR",
+      "AUS",
+      "TUR"
+    ],
+    "E": [
+      "GER",
+      "CUW",
+      "CIV",
+      "ECU"
+    ],
+    "F": [
+      "NED",
+      "JPN",
+      "SWE",
+      "TUN"
+    ],
+    "G": [
+      "BEL",
+      "EGY",
+      "IRN",
+      "NZL"
+    ],
+    "H": [
+      "ESP",
+      "CPV",
+      "KSA",
+      "URU"
+    ],
+    "I": [
+      "FRA",
+      "SEN",
+      "IRQ",
+      "NOR"
+    ],
+    "J": [
+      "ARG",
+      "ALG",
+      "AUT",
+      "JOR"
+    ],
+    "K": [
+      "POR",
+      "COD",
+      "UZB",
+      "COL"
+    ],
+    "L": [
+      "ENG",
+      "CRO",
+      "GHA",
+      "PAN"
+    ]
+  },
+  "teams": {
+    "MEX": {
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "KOR": {
+      "name": "Coreia do Sul",
+      "flag": "🇰🇷",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "RSA": {
+      "name": "Africa do Sul",
+      "flag": "🇿🇦",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "CZE": {
+      "name": "Tchequia",
+      "flag": "🇨🇿",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "CAN": {
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "SUI": {
+      "name": "Suica",
+      "flag": "🇨🇭",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "QAT": {
+      "name": "Catar",
+      "flag": "🇶🇦",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "BIH": {
+      "name": "Bosnia e Herzegovina",
+      "flag": "🇧🇦",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "BRA": {
+      "name": "Brasil",
+      "flag": "🇧🇷",
+      "coach": "Carlo Ancelotti",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Alisson Becker",
+          "club": "Liverpool FC"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Wesley",
+          "club": "AS Roma"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Gabriel Magalhães",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Marquinhos",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Casemiro",
+          "club": "Manchester United"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Alex Sandro",
+          "club": "CR Flamengo"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Vinícius Jr.",
+          "club": "Real Madrid C.F."
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Bruno Guimarães",
+          "club": "Newcastle United"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Matheus Cunha",
+          "club": "Manchester United"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Neymar Jr.",
+          "club": "Santos FC"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Raphinha",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Weverton",
+          "club": "Grêmio FBPA"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Danilo",
+          "club": "CR Flamengo"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Bremer",
+          "club": "Juventus FC"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Léo Pereira",
+          "club": "CR Flamengo"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Douglas Santos",
+          "club": "FC Zenit"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Fabinho",
+          "club": "Al Ittihad"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Danilo Barbosa",
+          "club": "Botafogo"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Endrick",
+          "club": "Olympique Lyonnais"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Lucas Paquetá",
+          "club": "CR Flamengo"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Luiz Henrique",
+          "club": "FC Zenit"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "Gabriel Martinelli",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Ederson",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Ibañez",
+          "club": "Al Ahli FC"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Igor Thiago",
+          "club": "Brentford FC"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Rayan",
+          "club": "AFC Bournemouth"
+        }
+      ]
+    },
+    "MAR": {
+      "name": "Marrocos",
+      "flag": "🇲🇦",
+      "coach": "Mohamed Ouahbi",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Bono",
+          "club": "Al Hilal SC"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Hakimi",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Mazraoui",
+          "club": "Manchester United"
+        },
+        {
+          "n": 4,
+          "pos": "MEI",
+          "name": "Amrabat",
+          "club": "Real Betis"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Aguerd",
+          "club": "Olympique Marseille"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Bouaddi",
+          "club": "Lille OSC"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Talbi",
+          "club": "Sunderland AFC"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Ouahi",
+          "club": "Girona FC"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Rahimi",
+          "club": "Al Ain FC"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Brahim Díaz",
+          "club": "Real Madrid C.F."
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Saibari",
+          "club": "PSV Eindhoven"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "El Kajoui",
+          "club": "RS Berkane"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "El Ouahdi",
+          "club": "KRC Genk"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Issa",
+          "club": "Fulham FC"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "El Mourabet",
+          "club": "RC Strasbourg"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Yassine",
+          "club": "RC Strasbourg"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Ezzalzouli",
+          "club": "Real Betis"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Riad",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Belammari",
+          "club": "Al Ahly FC"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "El Kaabi",
+          "club": "Olympiacos FC"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Amaimouni",
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Tagnaouti",
+          "club": "ASFAR"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "El Khannouss",
+          "club": "VfB Stuttgart"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "El Aynaoui",
+          "club": "AS Roma"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Halhal",
+          "club": "KV Mechelen"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Salah-Eddine",
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    "SCO": {
+      "name": "Escocia",
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "HAI": {
+      "name": "Haiti",
+      "flag": "🇭🇹",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "USA": {
+      "name": "Estados Unidos",
+      "flag": "🇺🇸",
+      "coach": "Mauricio Pochettino",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Turner",
+          "club": "New England Revolution"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Dest",
+          "club": "PSV Eindhoven"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Richards",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 4,
+          "pos": "MEI",
+          "name": "Adams",
+          "club": "AFC Bournemouth"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "A. Robinson",
+          "club": "Fulham FC"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Trusty",
+          "club": "Celtic FC"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Reyna",
+          "club": "Borussia Mönchengladbach"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "McKennie",
+          "club": "Juventus FC"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Pepi",
+          "club": "PSV Eindhoven"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Pulisic",
+          "club": "AC Milan"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Aaronson",
+          "club": "Leeds United"
+        },
+        {
+          "n": 12,
+          "pos": "DEF",
+          "name": "M. Robinson",
+          "club": "FC Cincinnati"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Ream",
+          "club": "Charlotte FC"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Berhalter",
+          "club": "Vancouver Whitecaps"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Roldan",
+          "club": "Seattle Sounders FC"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Freeman",
+          "club": "Villarreal CF"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Tillman",
+          "club": "Bayer Leverkusen"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Arfsten",
+          "club": "Columbus Crew"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Wright",
+          "club": "Coventry City FC"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Balogun",
+          "club": "AS Monaco"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Weah",
+          "club": "Olympique Marseille"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "McKenzie",
+          "club": "Toulouse FC"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Scally",
+          "club": "Borussia Mönchengladbach"
+        },
+        {
+          "n": 24,
+          "pos": "GOL",
+          "name": "Freese",
+          "club": "New York City FC"
+        },
+        {
+          "n": 25,
+          "pos": "GOL",
+          "name": "Brady",
+          "club": "Chicago Fire FC"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Zendejas",
+          "club": "Club América"
+        }
+      ]
+    },
+    "AUS": {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "PAR": {
+      "name": "Paraguai",
+      "flag": "🇵🇾",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "TUR": {
+      "name": "Turquia",
+      "flag": "🇹🇷",
+      "coach": "Vincenzo Montella",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Mert",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Zeki Çelik",
+          "club": "AS Roma"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Demiral",
+          "club": "Al Ahli FC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Çağlar Söyüncü",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Özcan",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Orkun Kökçü",
+          "club": "Beşiktaş JK"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Aktürkoğlu",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 8,
+          "pos": "ATA",
+          "name": "Arda Güler",
+          "club": "Real Madrid C.F."
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Deniz Gül",
+          "club": "FC Porto"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Çalhanoğlu",
+          "club": "FC Internazionale"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Kenan Yıldız",
+          "club": "Juventus FC"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Altay",
+          "club": "Manchester United"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Eren Elmalı",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Abdülkerim",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Ozan Kabak",
+          "club": "TSG Hoffenheim"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "İsmail",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Kahveci",
+          "club": "Kasımpaşa SK"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Mert Müldür",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Yunus Akgün",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "F. Kadioglu",
+          "club": "Brighton & Hove Albion"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Barış",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Kaan",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Uğurcan",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Oğuz",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Samet Akaydin",
+          "club": "Çaykur Rizespor"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Can Uzun",
+          "club": "Eintracht Frankfurt"
+        }
+      ]
+    },
+    "GER": {
+      "name": "Alemanha",
+      "flag": "🇩🇪",
+      "coach": "Julian Nagelsmann",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Neuer",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Rüdiger",
+          "club": "Real Madrid C.F."
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Anton",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Tah",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Pavlovic",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Kimmich",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Havertz",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Goretzka",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 9,
+          "pos": "MEI",
+          "name": "Leweling",
+          "club": "VfB Stuttgart"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Musiala",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Woltemade",
+          "club": "Newcastle United"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Baumann",
+          "club": "TSG Hoffenheim"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Groß",
+          "club": "Brighton & Hove Albion"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Beier",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Schlotterbeck",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Stiller",
+          "club": "VfB Stuttgart"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Wirtz",
+          "club": "Liverpool FC"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Brown",
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Sané",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Amiri",
+          "club": "1. FSV Mainz 05"
+        },
+        {
+          "n": 21,
+          "pos": "GOL",
+          "name": "Nübel",
+          "club": "VfB Stuttgart"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Raum",
+          "club": "RB Leipzig"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Nmecha",
+          "club": "Borussia Dortmund"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Thiaw",
+          "club": "Newcastle United"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Karl",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Undav",
+          "club": "VfB Stuttgart"
+        }
+      ]
+    },
+    "ECU": {
+      "name": "Equador",
+      "flag": "🇪🇨",
+      "coach": "Sebastián Beccacece",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Galíndez",
+          "club": "CA Huracán"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Torres",
+          "club": "SC Internacional"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Hincapié",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Ordóñez",
+          "club": "Club Brugge"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Alcívar",
+          "club": "Independiente del Valle"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Pacho",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 7,
+          "pos": "DEF",
+          "name": "Estupiñán",
+          "club": "AC Milan"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "A. Valencia",
+          "club": "Royal Antwerp FC"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Yeboah Zamora",
+          "club": "Venezia FC"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Páez",
+          "club": "CA River Plate"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Rodríguez",
+          "club": "Union Saint-Gilloise"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Ramírez",
+          "club": "AE Kisia FC"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "E. Valencia",
+          "club": "CF Pachuca"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Minda",
+          "club": "Atlético Mineiro"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Vite",
+          "club": "Pumas UNAM"
+        },
+        {
+          "n": 16,
+          "pos": "ATA",
+          "name": "J. Caicedo",
+          "club": "CA Huracán"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "Preciado",
+          "club": "Atlético Mineiro"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Castillo",
+          "club": "FC Midtjylland"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Plata",
+          "club": "CR Flamengo"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Angulo",
+          "club": "Sunderland AFC"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Franco",
+          "club": "Atlético Mineiro"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Valle",
+          "club": "LDU Quito"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "M. Caicedo",
+          "club": "Chelsea FC"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Arévalo",
+          "club": "VfB Stuttgart"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Porozo",
+          "club": "Club Tijuana"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Medina",
+          "club": "KRC Genk"
+        }
+      ]
+    },
+    "CIV": {
+      "name": "Costa do Marfim",
+      "flag": "🇨🇮",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "CUW": {
+      "name": "Curacao",
+      "flag": "🇨🇼",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "NED": {
+      "name": "Paises Baixos",
+      "flag": "🇳🇱",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "JPN": {
+      "name": "Japao",
+      "flag": "🇯🇵",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "TUN": {
+      "name": "Tunisia",
+      "flag": "🇹🇳",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "SWE": {
+      "name": "Suecia",
+      "flag": "🇸🇪",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "BEL": {
+      "name": "Belgica",
+      "flag": "🇧🇪",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "IRN": {
+      "name": "Ira",
+      "flag": "🇮🇷",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "EGY": {
+      "name": "Egito",
+      "flag": "🇪🇬",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "NZL": {
+      "name": "Nova Zelandia",
+      "flag": "🇳🇿",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "ESP": {
+      "name": "Espanha",
+      "flag": "🇪🇸",
+      "coach": "Luis de la Fuente",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Raya",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Marc Pubill",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Grimaldo",
+          "club": "Bayer Leverkusen"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Eric García",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "M. Llorente",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Merino",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Ferran Torres",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Fabián Ruiz",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 9,
+          "pos": "MEI",
+          "name": "Gavi",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Olmo",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Jerémy Doku",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 12,
+          "pos": "DEF",
+          "name": "Pedro Porro",
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "n": 13,
+          "pos": "GOL",
+          "name": "Joan García",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Laporte",
+          "club": "Athletic Club"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Alex Baena",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Rodri",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Nico Williams",
+          "club": "Athletic Club"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Zubimendi",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Lamine Yamal",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Pedri",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Oyarzabal",
+          "club": "Real Sociedad"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Cubarsí",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Unai Simón",
+          "club": "Athletic Club"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Cucurella",
+          "club": "Chelsea FC"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Víctor Mollejo",
+          "club": "CA Osasuna"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "B. Iglesias",
+          "club": "RC Celta Vigo"
+        }
+      ]
+    },
+    "URU": {
+      "name": "Uruguai",
+      "flag": "🇺🇾",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "KSA": {
+      "name": "Arabia Saudita",
+      "flag": "🇸🇦",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "CPV": {
+      "name": "Cabo Verde",
+      "flag": "🇨🇻",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "FRA": {
+      "name": "Franca",
+      "flag": "🇫🇷",
+      "coach": "Didier Deschamps",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Samba",
+          "club": "Stade Rennais FC"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Gusto",
+          "club": "Chelsea FC"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Digne",
+          "club": "Aston Villa FC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Upamecano",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Koundé",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Koné",
+          "club": "AS Roma"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Dembélé",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Tchouaméni",
+          "club": "Real Madrid C.F."
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Thuram",
+          "club": "FC Internazionale Milano"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Mbappé",
+          "club": "Real Madrid C.F."
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Olise",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "Barcola",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Kanté",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Rabiot",
+          "club": "AC Milan"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Konate",
+          "club": "Liverpool FC"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Maignan",
+          "club": "AC Milan"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "Saliba",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Zaïre-Emery",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "T. Hernandez",
+          "club": "Al Hilal SC"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Doué",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "L. Hernandez",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "Mateta",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Risser",
+          "club": "RC Lens"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Cherki",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Akliouche",
+          "club": "AS Monaco"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Lacroix",
+          "club": "Crystal Palace FC"
+        }
+      ]
+    },
+    "SEN": {
+      "name": "Senegal",
+      "flag": "🇸🇳",
+      "coach": "Pape Thiaw",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Y. Diouf",
+          "club": "OGC Nice"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Sarr",
+          "club": "Chelsea FC"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Koulibaly",
+          "club": "Al Hilal SC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Seck",
+          "club": "Maccabi Haifa"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Gana Gueye",
+          "club": "Everton FC"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "P.I. Ciss",
+          "club": "Rayo Vallecano"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Diao",
+          "club": "Como"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Lamine Camara",
+          "club": "AS Monaco"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "B. Dieng",
+          "club": "FC Lorient"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Sadio Mané",
+          "club": "Al Nassr FC"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Nicolas Jackson",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "Cherif",
+          "club": "Samsunspor"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "Ndiaye",
+          "club": "Everton FC"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Jakobs",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Krépin Diatta",
+          "club": "AS Monaco"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Mendy",
+          "club": "Al Ahli FC"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "P.M. Sarr",
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Ismaïla Sarr",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Niakhate",
+          "club": "Olympique Lyonnais"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Mbaye",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "H. Diarra",
+          "club": "Sunderland AFC"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Bara",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Diaw",
+          "club": "Le Havre AC"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "A. Mendy",
+          "club": "OGC Nice"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Diouf",
+          "club": "West Ham United"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Gueye",
+          "club": "Villarreal CF"
+        }
+      ]
+    },
+    "NOR": {
+      "name": "Noruega",
+      "flag": "🇳🇴",
+      "coach": "Ståle Solbakken",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Nyland",
+          "club": "Sevilla FC"
+        },
+        {
+          "n": 2,
+          "pos": "MEI",
+          "name": "Thorsby",
+          "club": "US Cremonese"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Ajer",
+          "club": "Brentford FC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Østigård",
+          "club": "Genoa CFC"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Møller Wolfe",
+          "club": "Wolverhampton Wanderers"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Berg",
+          "club": "FK Bodø/Glimt"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Sørloth",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Berge",
+          "club": "Fulham FC"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Erling Haaland",
+          "club": "Manchester City"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Ødegaard",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Strand Larsen",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Tangvik",
+          "club": "Hamburger SV"
+        },
+        {
+          "n": 13,
+          "pos": "GOL",
+          "name": "Selvik",
+          "club": "Watford FC"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Aursnes",
+          "club": "SL Benfica"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Bjørkan",
+          "club": "FK Bodø/Glimt"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Holmgren",
+          "club": "Torino FC"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "Heggem",
+          "club": "Bologna FC"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Thorstvedt",
+          "club": "US Sassuolo"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Aasgaard",
+          "club": "Rangers FC"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Nusa",
+          "club": "RB Leipzig"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Schjelderup",
+          "club": "SL Benfica"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Bobb",
+          "club": "Fulham FC"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Hauge",
+          "club": "FK Bodø/Glimt"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Langås",
+          "club": "Derby County FC"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Falchener",
+          "club": "Viking Stavanger"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Ryerson",
+          "club": "Borussia Dortmund"
+        }
+      ]
+    },
+    "IRQ": {
+      "name": "Iraque",
+      "flag": "🇮🇶",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "ARG": {
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "coach": "Lionel Scaloni",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Musso",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Balerdi",
+          "club": "Olympique Marseille"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Tagliafico",
+          "club": "Olympique Lyonnais"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Montiel",
+          "club": "CA River Plate"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Paredes",
+          "club": "CA Boca Juniors"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Martínez",
+          "club": "Manchester United"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "De Paul",
+          "club": "Inter Miami CF"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Barco",
+          "club": "RC Strasbourg"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Julián Álvarez",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Lionel Messi",
+          "club": "Inter Miami CF"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Lo Celso",
+          "club": "Real Betis"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Rulli",
+          "club": "Olympique Marseille"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Romero",
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Palacios",
+          "club": "Bayer Leverkusen"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "N. González",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 16,
+          "pos": "ATA",
+          "name": "Almada",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Simeone",
+          "club": "Atlético de Madrid"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Nico Paz",
+          "club": "Como"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Otamendi",
+          "club": "SL Benfica"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Mac Allister",
+          "club": "Liverpool FC"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "López",
+          "club": "SE Palmeiras"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "Lautaro Martínez",
+          "club": "FC Internazionale"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "E. Martínez",
+          "club": "Aston Villa FC"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "E. Fernández",
+          "club": "Chelsea FC"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Medina",
+          "club": "Olympique Marseille"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Molina",
+          "club": "Atlético de Madrid"
+        }
+      ]
+    },
+    "AUT": {
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "ALG": {
+      "name": "Argelia",
+      "flag": "🇩🇿",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "JOR": {
+      "name": "Jordania",
+      "flag": "🇯🇴",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "POR": {
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "coach": "Roberto Martínez",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Diogo Costa",
+          "club": "FC Porto"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "N. Semedo",
+          "club": "Fenerbahçe SK"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Rúben Dias",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Tomás A.",
+          "club": "SL Benfica"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Dalot",
+          "club": "Manchester United"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Matheus Nunes",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Ronaldo",
+          "club": "Al Nassr FC"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Bruno Fernandes",
+          "club": "Manchester United"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Gonçalo Ramos",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Bernardo Silva",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "João Félix",
+          "club": "Al Nassr FC"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "José Sá",
+          "club": "Wolverhampton Wanderers"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Renato Veiga",
+          "club": "Villarreal CF"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "G. Inácio",
+          "club": "Sporting CP"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "João Neves",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 16,
+          "pos": "ATA",
+          "name": "Trincão",
+          "club": "Sporting CP"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Rafa Leão",
+          "club": "AC Milan"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Neto",
+          "club": "Chelsea FC"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "G. Guedes",
+          "club": "Real Sociedad"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "João Cancelo",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "R. Neves",
+          "club": "Al Hilal SC"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Rui Silva",
+          "club": "Sporting CP"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Vitinha",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Samu",
+          "club": "RCD Mallorca"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "N. Mendes",
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "F. Conceição",
+          "club": "Juventus FC"
+        }
+      ]
+    },
+    "COL": {
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "coach": "Néstor Lorenzo",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Ospina",
+          "club": "Atlético Nacional"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "D. Muñoz",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "J. Lucumí",
+          "club": "Bologna FC"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Arias",
+          "club": "CA Independiente"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "K. Castaño",
+          "club": "CA River Plate"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Richard Rios",
+          "club": "SL Benfica"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Luis Díaz",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Carrascal",
+          "club": "CR Flamengo"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Córdoba",
+          "club": "FC Krasnodar"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "James Rodríguez",
+          "club": "Minnesota United FC"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "J. Arias",
+          "club": "SE Palmeiras"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "C. Vargas",
+          "club": "Atlas FC"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Y. Mina",
+          "club": "Cagliari"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Puerta",
+          "club": "Racing Santander"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Portilla",
+          "club": "Athletico Paranaense"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "J. Lerma",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "J. Mojica",
+          "club": "RCD Mallorca"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "W. Ditta",
+          "club": "CF Cruz Azul"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "C. Hernandez",
+          "club": "Real Betis"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Quintero",
+          "club": "CA River Plate"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Campaz",
+          "club": "CA Rosario Central"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Machado",
+          "club": "FC Nantes"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Sanchez",
+          "club": "Galatasaray SK"
+        },
+        {
+          "n": 24,
+          "pos": "GOL",
+          "name": "Montero",
+          "club": "CA Vélez Sarsfield"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Suárez",
+          "club": "Sporting CP"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "A. Gómez",
+          "club": "CR Vasco da Gama"
+        }
+      ]
+    },
+    "UZB": {
+      "name": "Uzbequistao",
+      "flag": "🇺🇿",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "COD": {
+      "name": "RD Congo",
+      "flag": "🇨🇩",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "ENG": {
+      "name": "Inglaterra",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "coach": "Thomas Tuchel",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Pickford",
+          "club": "Everton FC"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Konsa",
+          "club": "Aston Villa FC"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "O'Reilly",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 4,
+          "pos": "MEI",
+          "name": "Rice",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Stones",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Guehi",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Saka",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Anderson",
+          "club": "Nottingham Forest FC"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Kane",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Bellingham",
+          "club": "Real Madrid C.F."
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Rashford",
+          "club": "FC Barcelona"
+        },
+        {
+          "n": 12,
+          "pos": "DEF",
+          "name": "Livramento",
+          "club": "Newcastle United"
+        },
+        {
+          "n": 13,
+          "pos": "GOL",
+          "name": "D. Henderson",
+          "club": "Crystal Palace FC"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "J. Henderson",
+          "club": "Brentford FC"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Burn",
+          "club": "Newcastle United"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Mainoo",
+          "club": "Manchester United"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Rogers",
+          "club": "Aston Villa FC"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Gordon",
+          "club": "Newcastle United"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Watkins",
+          "club": "Aston Villa FC"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Madueke",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Eze",
+          "club": "Arsenal FC"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "Toney",
+          "club": "Al Ahli FC"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Trafford",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "James",
+          "club": "Chelsea FC"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Spence",
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Quansah",
+          "club": "Bayer Leverkusen"
+        }
+      ]
+    },
+    "CRO": {
+      "name": "Croacia",
+      "flag": "🇭🇷",
+      "coach": "Zlatko Dalić",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Livaković",
+          "club": "GNK Dinamo Zagreb"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Staniši",
+          "club": "FC Bayern München"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Pongračić",
+          "club": "ACF Fiorentina"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Gvardiol",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Čaleta-Car",
+          "club": "Real Sociedad"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Šutalo",
+          "club": "AFC Ajax"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Moro",
+          "club": "Bologna FC"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Kovačić",
+          "club": "Manchester City FC"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Kramarić",
+          "club": "TSG Hoffenheim"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Modrić",
+          "club": "AC Milan"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Budimir",
+          "club": "CA Osasuna"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Pandur",
+          "club": "Hull City FC"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Vlašić",
+          "club": "Torino FC"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Perišić",
+          "club": "PSV Eindhoven"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Pašalić",
+          "club": "Atalanta Bergamo"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Baturina",
+          "club": "Como"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "P. Sučić",
+          "club": "FC Internazionale"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Jakić",
+          "club": "FC Augsburg"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Fruk",
+          "club": "HNK Rijeka"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Matanovć",
+          "club": "SC Freiburg"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Sučić",
+          "club": "Real Sociedad"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Vušković",
+          "club": "Hamburger SV"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Kotarski",
+          "club": "FC København"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "M. Pašalić",
+          "club": "Orlando City SC"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Erlić",
+          "club": "FC Midtjylland"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Musa",
+          "club": "FC Dallas"
+        }
+      ]
+    },
+    "PAN": {
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    },
+    "GHA": {
+      "name": "Gana",
+      "flag": "🇬🇭",
+      "coach": "",
+      "formation": "",
+      "squad": []
+    }
+  },
+  "matches": [
+    {
+      "id": 1,
+      "stage": "group",
+      "datetime_utc": "2026-06-11T19:00:00Z",
+      "venue": "azteca",
+      "home": "MEX",
+      "away": "RSA",
+      "fact": "O Estádio Azteca se torna o único da história a receber jogos de três Copas do Mundo masculinas (1970, 1986 e 2026). O México, anfitrião com uma das torcidas mais ruidosas do planeta, precisa de vitória diante de 80 mil fãs para sinalizar que levará este torneio a sério. A África do Sul, que em 2010 sediou a Copa, chega sem nada a perder e com tudo a ganhar.",
+      "group": "A"
+    },
+    {
+      "id": 2,
+      "stage": "group",
+      "datetime_utc": "2026-06-12T02:00:00Z",
+      "venue": "akron",
+      "home": "KOR",
+      "away": "CZE",
+      "fact": "Son Heung-min chega a esta Copa como um dos capitães mais respeitados do futebol europeu e lider incontestável da Coreia do Sul. A Tchequia retorna a uma Copa pela primeira vez desde 2006 e aposta em organização defensiva e contra-ataques rápidos. O vencedor assume a liderança provisória do Grupo A.",
+      "group": "A"
+    },
+    {
+      "id": 3,
+      "stage": "group",
+      "datetime_utc": "2026-06-18T16:00:00Z",
+      "venue": "mercedes",
+      "home": "CZE",
+      "away": "RSA",
+      "fact": "África do Sul e Tchequia se enfrentam em Atlanta em um duelo de 'mata ou morre': o perdedor fica praticamente eliminado. A Tchequia depende de uma vitória para se manter viva no torneio; os sul-africanos querem repetir o espírito combativo da geração que animou o mundo em 2010. Um jogo com o peso de uma eliminação precoce pairando sobre cada lance.",
+      "group": "A"
+    },
+    {
+      "id": 4,
+      "stage": "group",
+      "datetime_utc": "2026-06-19T01:00:00Z",
+      "venue": "akron",
+      "home": "MEX",
+      "away": "KOR",
+      "fact": "Dois estilos opostos se encontram em Guadalajara: a organização e a velocidade de transição coreana, liderada por Son Heung-min, contra a criatividade técnica mexicana diante de um caldeirão anfitrião. A Coreia do Sul foi a sensação de 2002 (semifinalista) e desbancou Alemanha e Espanha no grupo de 2022 — não tem medo de ninguém. O vencedor quase certamente garante vaga no mata-mata.",
+      "group": "A"
+    },
+    {
+      "id": 5,
+      "stage": "group",
+      "datetime_utc": "2026-06-25T01:00:00Z",
+      "venue": "azteca",
+      "home": "CZE",
+      "away": "MEX",
+      "fact": "No Azteca, a última chance do México de confirmar a liderança do Grupo A diante de sua torcida. A Tchequia, precisando de pontos para avançar, vai ao ataque sem nada a perder — exatamente o tipo de adversário que pode complicar um anfitrião. Um resultado que pode definir o caminho do México até a final.",
+      "group": "A"
+    },
+    {
+      "id": 6,
+      "stage": "group",
+      "datetime_utc": "2026-06-25T01:00:00Z",
+      "venue": "bbva",
+      "home": "RSA",
+      "away": "KOR",
+      "fact": "Em jogo simultâneo ao México vs. Tchequia, África do Sul e Coreia do Sul disputam a segunda vaga no Estadio BBVA, em Monterrey. Son Heung-min e Percy Tau — dois dos melhores jogadores que já passaram pelo futebol africano e asiático — podem protagonizar a disputa mais equilibrada da última rodada do Grupo A.",
+      "group": "A"
+    },
+    {
+      "id": 7,
+      "stage": "group",
+      "datetime_utc": "2026-06-12T19:00:00Z",
+      "venue": "bmo",
+      "home": "CAN",
+      "away": "BIH",
+      "fact": "O Canadá abre o torneio em casa no BMO Field de Toronto — a segunda aparição histórica do país numa Copa, a primeira desde 1986. Alfonso Davies, um dos melhores laterais-esquerdos do mundo pelo Bayern de Munique, é o principal nome; a Bósnia, que eliminou a Itália na repescagem europeia, não veio como turista.",
+      "group": "B"
+    },
+    {
+      "id": 8,
+      "stage": "group",
+      "datetime_utc": "2026-06-13T19:00:00Z",
+      "venue": "levis",
+      "home": "QAT",
+      "away": "SUI",
+      "fact": "O Catar disputa pela primeira vez uma Copa por mérito próprio — em 2022 entrou automaticamente como anfitrião e foi eliminado na fase de grupos sem vencer. A Suíça, uma das seleções mais consistentes da Europa nos últimos dez anos, é favorita — mas os qatarianos vão querer provar que merecem estar aqui.",
+      "group": "B"
+    },
+    {
+      "id": 9,
+      "stage": "group",
+      "datetime_utc": "2026-06-18T19:00:00Z",
+      "venue": "sofi",
+      "home": "SUI",
+      "away": "BIH",
+      "fact": "A Suíça, máquina de regularidade europeia, enfrenta a Bósnia no SoFi Stadium, em Los Angeles. Os bósnios têm uma identidade ofensiva marcante e vão tentar jogar em velocidade para desequilibrar a sólida defesa helvética. Um jogo europeu transplantado para a Califórnia.",
+      "group": "B"
+    },
+    {
+      "id": 10,
+      "stage": "group",
+      "datetime_utc": "2026-06-18T22:00:00Z",
+      "venue": "bcplace",
+      "home": "CAN",
+      "away": "QAT",
+      "fact": "O Canadá precisa de uma vitória sobre o Catar no BC Place, em Vancouver, para praticamente garantir as oitavas na frente de sua torcida. Davies, Jonathan David e Jacob Shaffelburg são as armas ofensivas de uma seleção que quer fazer história nesta Copa. Um estádio fechado que vai criar uma atmosfera única.",
+      "group": "B"
+    },
+    {
+      "id": 11,
+      "stage": "group",
+      "datetime_utc": "2026-06-24T19:00:00Z",
+      "venue": "bcplace",
+      "home": "SUI",
+      "away": "CAN",
+      "fact": "Suíça e Canadá fecham o Grupo B no BC Place num duelo que pode definir quem vai como líder ao mata-mata. O aproveitamento do adversário nas oitavas varia muito dependendo desta posição, então ambos os times vão ao ataque em busca da primeira colocação.",
+      "group": "B"
+    },
+    {
+      "id": 12,
+      "stage": "group",
+      "datetime_utc": "2026-06-24T19:00:00Z",
+      "venue": "lumen",
+      "home": "BIH",
+      "away": "QAT",
+      "fact": "Bósnia e Catar em Seattle: dois times que precisam de pontos para sobreviver no torneio — um drama de última rodada que pode ter a intensidade de um jogo eliminatório. O Catar, eliminado sem vencer em 2022, vai ao campo pelo orgulho de, pelo menos, marcar um gol numa Copa disputada.",
+      "group": "B"
+    },
+    {
+      "id": 13,
+      "stage": "group",
+      "datetime_utc": "2026-06-13T22:00:00Z",
+      "venue": "metlife",
+      "home": "BRA",
+      "away": "MAR",
+      "fact": "A CNN elegeu este como um dos 10 melhores jogos da fase de grupos. Brasil estreia com Carlo Ancelotti no comando — o lendário técnico italiano que venceu a Champions com o Real Madrid — contra o Marrocos, campeão africano e semifinalista de 2022. Vinícius Jr., Raphinha e Endrick lideram o ataque; do outro lado, Brahim Díaz, Achraf Hakimi e o goleiro Yassine Bounou formam um Marrocos que não é mais surpresa: é potência.",
+      "group": "C"
+    },
+    {
+      "id": 14,
+      "stage": "group",
+      "datetime_utc": "2026-06-14T01:00:00Z",
+      "venue": "gillette",
+      "home": "HAI",
+      "away": "SCO",
+      "fact": "O Haiti faz sua primeira aparição numa Copa do Mundo desde 1974 — mais de 50 anos de espera para o futebol haitiano. A Escócia, sempre apaixonada mas jamais capaz de superar a fase de grupos numa Copa, entra com a missão de finalmente escrever um capítulo diferente. Dois países com histórias complexas e torcidas de coração partido disputam neste jogo muito mais do que três pontos.",
+      "group": "C"
+    },
+    {
+      "id": 15,
+      "stage": "group",
+      "datetime_utc": "2026-06-19T22:00:00Z",
+      "venue": "gillette",
+      "home": "SCO",
+      "away": "MAR",
+      "fact": "A Escócia enfrenta o Marrocos — campeão africano e semifinalista de 2022 — no Gillette Stadium, em Boston, numa batalha que pode definir quem acompanha o Brasil nas oitavas. Scott McTominay (Manchester City) lidera os escoceses; Hakimi e Brahim Díaz são as armas marroquinas. Uma vitória escocesa seria uma das grandes surpresas da Copa.",
+      "group": "C"
+    },
+    {
+      "id": 16,
+      "stage": "group",
+      "datetime_utc": "2026-06-20T00:30:00Z",
+      "venue": "lincoln",
+      "home": "BRA",
+      "away": "HAI",
+      "fact": "Brasil e Haiti, em Filadelfia: no papel, uma formalidade para a Seleção. Na história do futebol, porém, Copas guardam momentos inesquecíveis exatamente neste tipo de jogo. Vinícius Jr. e Endrick devem ser os protagonistas; o Haiti vai jogar em homenagem a um povo que sonha grande mesmo quando os recursos são pequenos.",
+      "group": "C"
+    },
+    {
+      "id": 17,
+      "stage": "group",
+      "datetime_utc": "2026-06-24T22:00:00Z",
+      "venue": "hardrock",
+      "home": "SCO",
+      "away": "BRA",
+      "fact": "No Hard Rock Stadium de Miami — casa da NFL e de grandes shows — Brasil e Escócia encerram o Grupo C. Com a Seleção possivelmente já classificada, Ancelotti pode poupar titulares para o mata-mata. Para os escoceses, cada minuto é a última chance de deixar uma marca neste Mundial.",
+      "group": "C"
+    },
+    {
+      "id": 18,
+      "stage": "group",
+      "datetime_utc": "2026-06-24T22:00:00Z",
+      "venue": "mercedes",
+      "home": "MAR",
+      "away": "HAI",
+      "fact": "Marrocos e Haiti fecham o Grupo C em Atlanta com a segunda vaga em disputa. Os marroquinos, favoritos absolutos, encerram a fase de grupos com a responsabilidade de confirmar o status de potência continental. O Haiti vai entrar em campo pelo orgulho de disputar uma Copa do Mundo após décadas de ausência.",
+      "group": "C"
+    },
+    {
+      "id": 19,
+      "stage": "group",
+      "datetime_utc": "2026-06-13T01:00:00Z",
+      "venue": "sofi",
+      "home": "USA",
+      "away": "PAR",
+      "fact": "Os Estados Unidos, um dos anfitriões, abrem o torneio diante de seu público no SoFi Stadium, em Los Angeles — a arena de 70 mil lugares do NFL. Mauricio Pochettino, o técnico argentino que transformou o Paris Saint-Germain, tem a missão de levar os americanos mais longe do que qualquer geração anterior. O Paraguai, clássico sul-americano difícil de bater, será o primeiro teste desta jornada.",
+      "group": "D"
+    },
+    {
+      "id": 20,
+      "stage": "group",
+      "datetime_utc": "2026-06-14T04:00:00Z",
+      "venue": "bcplace",
+      "home": "AUS",
+      "away": "TUR",
+      "fact": "A Turquia está de volta a uma Copa após 24 anos de ausência — a geração de 2002 ficou em terceiro lugar, a melhor campanha do país. Arda Güler, a joia do Real Madrid, faz aqui sua estreia num Mundial. A Austrália, que chegou às semifinais em 2006 com Tim Cahill, tem uma nova geração querendo repetir o feito histórico.",
+      "group": "D"
+    },
+    {
+      "id": 21,
+      "stage": "group",
+      "datetime_utc": "2026-06-19T19:00:00Z",
+      "venue": "lumen",
+      "home": "USA",
+      "away": "AUS",
+      "fact": "Dois países de língua inglesa com culturas esportivas fortes se enfrentam em Seattle. Os EUA de Pochettino buscam a segunda vitória; os australianos, liderados pelo goleiro Mathew Ryan, apostam numa organização defensiva que complica qualquer adversário. Um jogo entre dois times que jogam futebol com a garra de quem cresceu em outras tradições esportivas.",
+      "group": "D"
+    },
+    {
+      "id": 22,
+      "stage": "group",
+      "datetime_utc": "2026-06-20T03:00:00Z",
+      "venue": "levis",
+      "home": "TUR",
+      "away": "PAR",
+      "fact": "Arda Güler — 20 anos, Real Madrid, já comparado a Iniesta — tem aqui um dos primeiros jogos grandes de sua carreira numa Copa do Mundo. O Paraguai é um time difícil, com marcação intensa e bola parada como arma. Um resultado positivo da Turquia a colocaria em posição privilegiada no Grupo D.",
+      "group": "D"
+    },
+    {
+      "id": 23,
+      "stage": "group",
+      "datetime_utc": "2026-06-26T02:00:00Z",
+      "venue": "sofi",
+      "home": "TUR",
+      "away": "USA",
+      "fact": "A CNN elegeu este como um dos 10 melhores jogos da fase de grupos. Turquia vs. EUA em casa, no SoFi de Los Angeles, provavelmente com o primeiro lugar do grupo em jogo. A Turquia chegou à Copa com uma invencibilidade de oito jogos consecutivos, incluindo um empate heroico de 2 a 2 contra a Espanha fora de casa. Christian Pulisic lidera os americanos — mas a Turquia de Güler não vai facilitar.",
+      "group": "D"
+    },
+    {
+      "id": 24,
+      "stage": "group",
+      "datetime_utc": "2026-06-26T02:00:00Z",
+      "venue": "levis",
+      "home": "PAR",
+      "away": "AUS",
+      "fact": "Paraguai e Austrália encerram o Grupo D em San José com a classificação em disputa. Os paraguaios, com a tradição de jamais desistirem no futebol sul-americano, e os australianos, que sempre encontram uma forma de surpreender em Copas, disputam uma das vagas do mata-mata numa batalha que pode ir até os últimos minutos.",
+      "group": "D"
+    },
+    {
+      "id": 25,
+      "stage": "group",
+      "datetime_utc": "2026-06-14T17:00:00Z",
+      "venue": "nrg",
+      "home": "GER",
+      "away": "CUW",
+      "fact": "Curaçao — uma ilha caribenha de 150 mil habitantes — faz sua estreia histórica numa Copa do Mundo contra uma das maiores potências do futebol mundial. A Alemanha de Jamal Musiala e Florian Wirtz, dois dos jovens mais talentosos do futebol europeu, é tetracampeã e quer mostrar que está pronta para o quinto título. Um duelo simbólico do futebol mais inclusivo da história.",
+      "group": "E"
+    },
+    {
+      "id": 26,
+      "stage": "group",
+      "datetime_utc": "2026-06-14T23:00:00Z",
+      "venue": "lincoln",
+      "home": "CIV",
+      "away": "ECU",
+      "fact": "A Costa do Marfim, bicampeã africana (2015 e 2023), estreia em Filadelfia contra o Equador, que terminou à frente de Brasil, Uruguai e Colômbia nas eliminatórias sul-americanas. Um duelo entre dois times que chegam desvalorizados pelos especialistas — e que podem ser a surpresa do Grupo E.",
+      "group": "E"
+    },
+    {
+      "id": 27,
+      "stage": "group",
+      "datetime_utc": "2026-06-20T20:00:00Z",
+      "venue": "bmo",
+      "home": "GER",
+      "away": "CIV",
+      "fact": "Alemanha e Costa do Marfim em Toronto: um duelo que resume a tensão entre o futebol europeu organizado e o futebol africano físico e veloz. Julian Nagelsmann, jovem técnico alemão, pode estar ainda experimentando suas melhores combinações — o que dá aos marfinenses a esperança de uma zebra.",
+      "group": "E"
+    },
+    {
+      "id": 28,
+      "stage": "group",
+      "datetime_utc": "2026-06-21T00:00:00Z",
+      "venue": "arrowhead",
+      "home": "ECU",
+      "away": "CUW",
+      "fact": "O Equador, acostumado a jogar a mais de 2.700 metros de altitude em Quito, tem um condicionamento físico único. Em Kansas City, enfrenta Curaçao — a nação estreante — numa partida que deve ser bem mais competitiva do que os placares esperados sugerem.",
+      "group": "E"
+    },
+    {
+      "id": 29,
+      "stage": "group",
+      "datetime_utc": "2026-06-25T20:00:00Z",
+      "venue": "lincoln",
+      "home": "CUW",
+      "away": "CIV",
+      "fact": "Curaçao, em seu segundo jogo numa Copa do Mundo, enfrenta a Costa do Marfim em Filadelfia. Os marfinenses vão querer pontos para confirmar a classificação; os caribenhos vão defender sua honra até o apito final. Um jogo que o futebol africano e caribenho vai acompanhar com orgulho.",
+      "group": "E"
+    },
+    {
+      "id": 30,
+      "stage": "group",
+      "datetime_utc": "2026-06-25T20:00:00Z",
+      "venue": "metlife",
+      "home": "ECU",
+      "away": "GER",
+      "fact": "A CNN elegeu este como um dos 10 melhores jogos. O Equador, segundo colocado nas eliminatórias sul-americanas à frente de favoritos históricos, enfrenta a Alemanha tetracampeã no MetLife Stadium. Os equatorianos, que jogam em altitude extrema em casa, têm preparo físico que pode desgastar até os mais preparados. Musiala e Wirtz precisarão de seu melhor futebol.",
+      "group": "E"
+    },
+    {
+      "id": 31,
+      "stage": "group",
+      "datetime_utc": "2026-06-14T20:00:00Z",
+      "venue": "att",
+      "home": "NED",
+      "away": "JPN",
+      "fact": "Para a CNN, um dos 10 melhores jogos da Copa. Os Países Baixos são eternamente proclamados como 'dark horse' — e com razão: semifinalistas na Euro 2024, quartas no Mundial de 2022, com talento coletivo em todas as linhas. O Japão, melhor seleção asiática, chega após seis vitórias consecutivas e um Grupo de 2022 em que eliminou Alemanha e Espanha — os Samurai Blue não têm medo de europeus.",
+      "group": "F"
+    },
+    {
+      "id": 32,
+      "stage": "group",
+      "datetime_utc": "2026-06-15T02:00:00Z",
+      "venue": "bbva",
+      "home": "SWE",
+      "away": "TUN",
+      "fact": "A Suécia, organizada e disciplinada, abre o Grupo F contra a Tunísia no Estadio BBVA, em Monterrey, com a vista para as montanhas da Sierra Madre ao fundo. Os tunisianos, de volta às Copas, vão querer mostrar que a geração de 2022 não foi fluke. Um duelo entre duas nações com muito futebol para mostrar.",
+      "group": "F"
+    },
+    {
+      "id": 33,
+      "stage": "group",
+      "datetime_utc": "2026-06-20T17:00:00Z",
+      "venue": "nrg",
+      "home": "NED",
+      "away": "SWE",
+      "fact": "Países Baixos e Suécia em Houston: um duelo entre dois modelos de futebol coletivo europeu. A Oranje, potente no ataque, enfrenta uma Suécia que aposta em bloco baixo e velocidade nas transições. Um dos jogos com maior conteúdo tático do Grupo F.",
+      "group": "F"
+    },
+    {
+      "id": 34,
+      "stage": "group",
+      "datetime_utc": "2026-06-21T04:00:00Z",
+      "venue": "bbva",
+      "home": "TUN",
+      "away": "JPN",
+      "fact": "Tunísia e Japão em Monterrey, às 10h da noite local: um jogo decisivo para a segunda vaga do Grupo F. Os Samurai Blue têm uma das melhores disciplinas táticas do futebol asiático; os tunisianos têm o ímpeto competitivo de quem joga sem pressão de favoritismo. Um resultado igual beneficiaria os Países Baixos.",
+      "group": "F"
+    },
+    {
+      "id": 35,
+      "stage": "group",
+      "datetime_utc": "2026-06-25T23:00:00Z",
+      "venue": "att",
+      "home": "JPN",
+      "away": "SWE",
+      "fact": "Japão e Suécia decidem, potencialmente, a segunda vaga do Grupo F em Dallas. Os japoneses, que eliminaram a Alemanha e a Espanha do grupo em 2022, podem dar mais um susto europeu. A Suécia vai entrar em campo sabendo que perder pode significar a eliminação.",
+      "group": "F"
+    },
+    {
+      "id": 36,
+      "stage": "group",
+      "datetime_utc": "2026-06-25T23:00:00Z",
+      "venue": "arrowhead",
+      "home": "TUN",
+      "away": "NED",
+      "fact": "Países Baixos e Tunísia encerram o Grupo F em Kansas City. Se a Oranje já estiver classificada, Koeman pode dar minutos a jogadores menos utilizados — abrindo espaço para os tunisianos tentarem a virada histórica. Uma das últimas rodadas com mais possibilidades abertas.",
+      "group": "F"
+    },
+    {
+      "id": 37,
+      "stage": "group",
+      "datetime_utc": "2026-06-15T19:00:00Z",
+      "venue": "lumen",
+      "home": "BEL",
+      "away": "EGY",
+      "fact": "Mohamed Salah — recordista de gols na Premier League e maior artilheiro da história do Egito — faz sua estreia em Seattle contra a Bélgica. Com quase 34 anos, esta pode ser a última Copa do craque que carregou o Egito sozinho por mais de uma década. A Bélgica, renovando sua geração pós-'geração dourada', quer impor seu domínio desde o início.",
+      "group": "G"
+    },
+    {
+      "id": 38,
+      "stage": "group",
+      "datetime_utc": "2026-06-16T01:00:00Z",
+      "venue": "sofi",
+      "home": "IRN",
+      "away": "NZL",
+      "fact": "O Irã, de volta a sua quarta Copa consecutiva, estreia contra a Nova Zelândia em Los Angeles. Os All Whites da Oceania raramente chegam a Mundiais — e cada jogo é uma celebração em si. Um encontro improvável entre dois futebol mundos que raramente se cruzam.",
+      "group": "G"
+    },
+    {
+      "id": 39,
+      "stage": "group",
+      "datetime_utc": "2026-06-21T19:00:00Z",
+      "venue": "sofi",
+      "home": "BEL",
+      "away": "IRN",
+      "fact": "Bélgica e Irã em Los Angeles: os Diabos Vermelhos podem pagar caro se subestimarem uma seleção asiática organizada, física e perigosa nas bolas paradas. O Irã nunca passou da fase de grupos numa Copa — mas esta pode ser a edição da mudança. Um jogo de armadilha potencial para os belgas.",
+      "group": "G"
+    },
+    {
+      "id": 40,
+      "stage": "group",
+      "datetime_utc": "2026-06-22T01:00:00Z",
+      "venue": "bcplace",
+      "home": "NZL",
+      "away": "EGY",
+      "fact": "Nova Zelândia e Egito em Vancouver: o emotivo Salah pode ser a diferença entre uma vitória egípcia rotineira e uma virada histórica dos All Whites. A Nova Zelândia vai jogar sem medo — e no futebol, times que jogam sem medo costumam complicar os favoritos.",
+      "group": "G"
+    },
+    {
+      "id": 41,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T03:00:00Z",
+      "venue": "lumen",
+      "home": "EGY",
+      "away": "IRN",
+      "fact": "Egito e Irã em Seattle num jogo que pode definir a segunda vaga do Grupo G. Salah do lado egípcio; uma defesa compacta e transições rápidas do lado iraniano. O vencedor se posiciona bem para o mata-mata; o perdedor pode estar eliminado.",
+      "group": "G"
+    },
+    {
+      "id": 42,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T03:00:00Z",
+      "venue": "bcplace",
+      "home": "NZL",
+      "away": "BEL",
+      "fact": "Nova Zelândia e Bélgica encerram o Grupo G em Vancouver. Se os All Whites ainda tiverem chance de classificação, teremos uma das narrativas mais bonitas desta Copa — uma nação pequena que foi longe mais do que qualquer expectativa. A Bélgica vai ao campo sabendo que qualquer descuido pode custar caro.",
+      "group": "G"
+    },
+    {
+      "id": 43,
+      "stage": "group",
+      "datetime_utc": "2026-06-15T16:00:00Z",
+      "venue": "mercedes",
+      "home": "ESP",
+      "away": "CPV",
+      "fact": "Estreia da campeã europeia Espanha e, ao mesmo tempo, primeira Copa do Mundo da história de Cabo Verde. Lamine Yamal — considerado por muitos o melhor jogador do mundo quando em condição física plena — retorna de uma lesão muscular que encurtou sua temporada na La Liga. Se Yamal estiver 100%, a Espanha pode ser o time mais desequilibrante desta Copa.",
+      "group": "H"
+    },
+    {
+      "id": 44,
+      "stage": "group",
+      "datetime_utc": "2026-06-15T22:00:00Z",
+      "venue": "hardrock",
+      "home": "KSA",
+      "away": "URU",
+      "fact": "A Arábia Saudita fez a maior zebra do Mundial de 2022 ao vencer a Argentina por 2 a 1 — e não tem medo de nomes grandes. Darwin Núñez, o centroavante explosivo do Uruguai pelo Liverpool, tenta impor o ritmo sul-americano desde o início no Hard Rock Stadium, em Miami. Dois estilos que prometem um jogo físico e intenso.",
+      "group": "H"
+    },
+    {
+      "id": 45,
+      "stage": "group",
+      "datetime_utc": "2026-06-21T16:00:00Z",
+      "venue": "mercedes",
+      "home": "ESP",
+      "away": "KSA",
+      "fact": "Em 2022, a Arábia Saudita fez o jogo da virada histórica contra a Argentina. A Espanha de Lamine Yamal não quer ser a próxima surpresa do catálogo saudita. De la Fuente vai querer que sua equipe seja dominante em todos os aspectos — para evitar qualquer zebra no Grupo H.",
+      "group": "H"
+    },
+    {
+      "id": 46,
+      "stage": "group",
+      "datetime_utc": "2026-06-21T22:00:00Z",
+      "venue": "hardrock",
+      "home": "URU",
+      "away": "CPV",
+      "fact": "Uruguai e Cabo Verde em Miami: os La Celeste, com dois títulos mundiais no currículo, chegam como grandes favoritos. Mas Cabo Verde, na sua primeira Copa do Mundo, vai jogar com a leveza de quem não tem nada a perder — exatamente o tipo de adversário que pode surpreender.",
+      "group": "H"
+    },
+    {
+      "id": 47,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T00:00:00Z",
+      "venue": "nrg",
+      "home": "CPV",
+      "away": "KSA",
+      "fact": "Cabo Verde e Arábia Saudita em Houston: dois times que precisam de pontos para garantir a classificação. Os sauditas vêm de uma Copa de zebras; os cabo-verdianos estão vivendo sua primeira Copa. Um jogo com alto valor emocional para ambas as seleções.",
+      "group": "H"
+    },
+    {
+      "id": 48,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T00:00:00Z",
+      "venue": "akron",
+      "home": "URU",
+      "away": "ESP",
+      "fact": "A CNN elegeu este como um dos 10 melhores jogos da Copa. Em Guadalajara, a Espanha favorita ao título enfrenta o Uruguai bicampeão mundial no Estadio Akron. Lamine Yamal, o adolescente que pode decidir uma Copa sozinho, vai enfrentar Federico Valverde e uma defesa uruguaia que vive para frustrar os favoritos. Un Clasico americano no coração do México.",
+      "group": "H"
+    },
+    {
+      "id": 49,
+      "stage": "group",
+      "datetime_utc": "2026-06-16T19:00:00Z",
+      "venue": "metlife",
+      "home": "FRA",
+      "away": "SEN",
+      "fact": "Para a CNN, um dos melhores jogos da Copa — 'uma batalha de nações francófonas que vai muito além do idioma'. A França é uma das favoritas ao título com Mbappé, Dembélé, Michael Olise e os jovens Désiré Doué e Rayan Cherki. O Senegal foi campeão africano antes de ser privado do título de forma controversa — e chega com um elenco de talento e raiva motivadora.",
+      "group": "I"
+    },
+    {
+      "id": 50,
+      "stage": "group",
+      "datetime_utc": "2026-06-16T22:00:00Z",
+      "venue": "gillette",
+      "home": "IRQ",
+      "away": "NOR",
+      "fact": "Erling Haaland faz aqui sua estreia numa Copa do Mundo. O atacante do Manchester City, com 1,94m e uma das maiores taxas de gol da história do futebol, marcou 16 dos 37 gols noruegueses na qualificação. O Iraque enfrenta talvez o jogador mais difícil de parar nesta Copa — num jogo que toda uma geração de fãs estava ansiosa para assistir.",
+      "group": "I"
+    },
+    {
+      "id": 51,
+      "stage": "group",
+      "datetime_utc": "2026-06-22T21:00:00Z",
+      "venue": "lincoln",
+      "home": "FRA",
+      "away": "IRQ",
+      "fact": "A França, co-favorita ao título, encontra o Iraque em Filadelfia. Mbappé, Olise e companhia representam um dos ataques mais letais da Copa; os iraquianos, na sua segunda Copa da história, vão se defender com tudo e tentar o contra-ataque histórico. Um jogo que pode ter goleada — ou uma das maiores surpresas do torneio.",
+      "group": "I"
+    },
+    {
+      "id": 52,
+      "stage": "group",
+      "datetime_utc": "2026-06-23T00:00:00Z",
+      "venue": "metlife",
+      "home": "NOR",
+      "away": "SEN",
+      "fact": "A CNN destacou este como um dos mais aguardados da fase de grupos. Erling Haaland, em busca do seu primeiro gol numa Copa, enfrenta os Leões da Teranga do Senegal no MetLife Stadium. O Senegal tem atletas físicos e defensores experientes capazes de dificultar a vida até do maior centroavante do mundo. Um jogo que pode decidir quem é o segundo colocado do Grupo I.",
+      "group": "I"
+    },
+    {
+      "id": 53,
+      "stage": "group",
+      "datetime_utc": "2026-06-26T19:00:00Z",
+      "venue": "gillette",
+      "home": "NOR",
+      "away": "FRA",
+      "fact": "Haaland vs. Mbappé — o duelo que o mundo inteiro quer assistir. Michael Olise marcou um hat-trick contra a Irlanda do Norte antes da Copa, incluindo um gol de fora da área de tirar o fôlego, e Dembélé é mais uma arma francesa. Mas a Noruega de Haaland venceu a qualificação com 37 gols marcados — e em Boston este time vai ao ataque sem reservas.",
+      "group": "I"
+    },
+    {
+      "id": 54,
+      "stage": "group",
+      "datetime_utc": "2026-06-26T19:00:00Z",
+      "venue": "bmo",
+      "home": "SEN",
+      "away": "IRQ",
+      "fact": "Senegal e Iraque fecham o Grupo I em Toronto. Dependendo dos outros resultados, pode ser um jogo de definição ou já de adeus para os iraquianos. Os leões da Teranga vão querer entrar no mata-mata com confiança; o Iraque vai tentar escrever o capítulo mais inesperado de sua história recente.",
+      "group": "I"
+    },
+    {
+      "id": 55,
+      "stage": "group",
+      "datetime_utc": "2026-06-17T01:00:00Z",
+      "venue": "arrowhead",
+      "home": "ARG",
+      "away": "ALG",
+      "fact": "Lionel Messi, possivelmente em sua última Copa do Mundo com 38 anos, abre o Grupo J contra a Argélia em Kansas City. O campeão de 2022 e melhor jogador do mundo nos últimos anos entra em campo rodeado de uma seleção argentina construída por Scaloni para ser campeã novamente. A Argélia, semifinalista do AFCON 2021, tem a motivação de parar o maior jogador de todos os tempos.",
+      "group": "J"
+    },
+    {
+      "id": 56,
+      "stage": "group",
+      "datetime_utc": "2026-06-17T04:00:00Z",
+      "venue": "levis",
+      "home": "AUT",
+      "away": "JOR",
+      "fact": "A Jordânia faz sua estreia histórica em Copas do Mundo, em San Francisco, contra a Áustria. Primeira nação árabe a estrear num Mundial pelo classificatório intercontinental de 2026, a Jordânia chegou aqui com muito esforço — e vai jogar com o coração do Oriente Médio inteiro torcendo por ela.",
+      "group": "J"
+    },
+    {
+      "id": 57,
+      "stage": "group",
+      "datetime_utc": "2026-06-22T17:00:00Z",
+      "venue": "att",
+      "home": "ARG",
+      "away": "AUT",
+      "fact": "Argentina e Áustria em Dallas: os campeões mundiais buscam confirmar a liderança do grupo, enquanto a Áustria de David Alaba (se disponível) tenta repetir a surpresa da Copa de 1978 — quando também saiu cedo, apesar do talento. Messi deve fazer sua segunda aparição do torneio com o grupo já semi-decidido.",
+      "group": "J"
+    },
+    {
+      "id": 58,
+      "stage": "group",
+      "datetime_utc": "2026-06-23T03:00:00Z",
+      "venue": "levis",
+      "home": "JOR",
+      "away": "ALG",
+      "fact": "Jordânia e Argélia em San Francisco: um duelo entre duas nações árabes e norte-africanas que precisam de pontos para avançar. Ambas chegam ao segundo jogo precisando de vitória — o que promete um jogo aberto, físico e emocionalmente intenso.",
+      "group": "J"
+    },
+    {
+      "id": 59,
+      "stage": "group",
+      "datetime_utc": "2026-06-28T02:00:00Z",
+      "venue": "att",
+      "home": "JOR",
+      "away": "ARG",
+      "fact": "Messi e a Argentina encerram o Grupo J contra a Jordânia em Dallas. Com 38 anos, este pode ser o último jogo de grupo de Messi numa Copa do Mundo — e o craque vai querer despedir-se com um gol. A Jordânia, na sua primeira Copa, vai guardar este duelo para contar aos netos.",
+      "group": "J"
+    },
+    {
+      "id": 60,
+      "stage": "group",
+      "datetime_utc": "2026-06-28T02:00:00Z",
+      "venue": "arrowhead",
+      "home": "ALG",
+      "away": "AUT",
+      "fact": "Argélia e Áustria em Kansas City, na última rodada do Grupo J: com a Argentina já classificada, os dois brigam pela segunda vaga. Um duelo que pode precisar de gols para definir quem vai em frente — e isso favorece um jogo aberto e emocionante.",
+      "group": "J"
+    },
+    {
+      "id": 61,
+      "stage": "group",
+      "datetime_utc": "2026-06-17T17:00:00Z",
+      "venue": "nrg",
+      "home": "POR",
+      "away": "COD",
+      "fact": "Cristiano Ronaldo, com 41 anos, possivelmente disputa sua última Copa do Mundo. Portugal estreia contra a RD Congo em Houston com um dos meios-campo mais talentosos do torneio: Vitinha, João Neves, Bruno Fernandes e Bernardo Silva, nas palavras da CNN, podem ser a melhor linha de criação desta Copa. Ronaldo, se utilizado, ainda é capaz de decidir.",
+      "group": "K"
+    },
+    {
+      "id": 62,
+      "stage": "group",
+      "datetime_utc": "2026-06-18T02:00:00Z",
+      "venue": "azteca",
+      "home": "UZB",
+      "away": "COL",
+      "fact": "O Uzbequistão faz sua estreia histórica em Copas do Mundo no palco mais icônico do futebol mundial — o Estádio Azteca. Enfrenta a Colômbia, vice-campeã da Copa América 2024, com Luis Díaz do Bayern de Munique como grande estrela. Um momento histórico para o futebol da Ásia Central.",
+      "group": "K"
+    },
+    {
+      "id": 63,
+      "stage": "group",
+      "datetime_utc": "2026-06-23T17:00:00Z",
+      "venue": "nrg",
+      "home": "POR",
+      "away": "UZB",
+      "fact": "Portugal e Uzbequistão em Houston: os lusitanos, quartos favoritos ao título, buscam confirmar a classificação com antecedência. Ronaldo pode receber mais minutos aqui; o Uzbequistão vai defender com tudo para deixar a Copa com a cabeça erguida.",
+      "group": "K"
+    },
+    {
+      "id": 64,
+      "stage": "group",
+      "datetime_utc": "2026-06-24T02:00:00Z",
+      "venue": "akron",
+      "home": "COL",
+      "away": "COD",
+      "fact": "Colômbia e RD Congo em Guadalajara: Luis Díaz, um dos melhores atacantes em atividade, lidera os colombianos num jogo que pode confirmar a classificação. A RD Congo tem jogadores formados nos principais clubes europeus — não é o time fácil que parece.",
+      "group": "K"
+    },
+    {
+      "id": 65,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T23:30:00Z",
+      "venue": "hardrock",
+      "home": "COL",
+      "away": "POR",
+      "fact": "A CNN elegeu este como o melhor jogo do Grupo K. Em Miami, Colômbia e Portugal disputam a liderança num confronto de altíssimo nível: Portugal tem um dos melhores meios-campos do torneio; a Colômbia tem Luis Díaz, a atmosfera de um país apaixonado pelo futebol e a motivação de quem chegou às finais da Copa América em 2024. Ronaldo pode ser o fator X se Martínez decidir usá-lo.",
+      "group": "K"
+    },
+    {
+      "id": 66,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T23:30:00Z",
+      "venue": "mercedes",
+      "home": "COD",
+      "away": "UZB",
+      "fact": "RD Congo e Uzbequistão fecham o Grupo K em Atlanta. Dois times que fizeram história ao chegar aqui — um pela primeira vez como nação independente com este nome, o outro pela primeira vez na sua história. Um jogo que terá mais emoção do que os resultados sugerem.",
+      "group": "K"
+    },
+    {
+      "id": 67,
+      "stage": "group",
+      "datetime_utc": "2026-06-17T20:00:00Z",
+      "venue": "att",
+      "home": "ENG",
+      "away": "CRO",
+      "fact": "A CNN destacou este como um dos 10 melhores da Copa — e a história justifica: Inglaterra e Croácia reproduzem a semifinal de 2018 na Rússia, quando Modrić e companhia venceram os ingleses na prorrogação. Tuchel assumiu os Três Leões com Kane, Bellingham, Saka e Declan Rice num dos melhores elencos ingleses de todos os tempos. Modrić, com 40 anos, entra em campo numa Copa pela última vez.",
+      "group": "L"
+    },
+    {
+      "id": 68,
+      "stage": "group",
+      "datetime_utc": "2026-06-17T23:00:00Z",
+      "venue": "bmo",
+      "home": "GHA",
+      "away": "PAN",
+      "fact": "Gana e Panamá em Toronto: dois times com tradições diferentes mas com o mesmo espírito combativo. O Panamá, classificado novamente via CONCACAF, quer repetir a energia de sua primeira Copa (2018). Gana, com uma nova geração de jogadores europeus, quer sair desta Copa com orgulho.",
+      "group": "L"
+    },
+    {
+      "id": 69,
+      "stage": "group",
+      "datetime_utc": "2026-06-23T20:00:00Z",
+      "venue": "gillette",
+      "home": "ENG",
+      "away": "GHA",
+      "fact": "A Inglaterra de Bellingham e Saka enfrenta Gana no Gillette Stadium, em Boston. Os Três Leões chegam como terceiro favorito ao título; os Black Stars têm uma nova geração técnica que vai testar a defesa inglesa. Uma vitória inglesa praticamente garante a classificação.",
+      "group": "L"
+    },
+    {
+      "id": 70,
+      "stage": "group",
+      "datetime_utc": "2026-06-23T23:00:00Z",
+      "venue": "bmo",
+      "home": "PAN",
+      "away": "CRO",
+      "fact": "Panamá e Croácia em Toronto: os croatas, em despedida da geração Modrić, buscam os pontos necessários para avançar. O Panamá vai lutar muito para complicar o time europeu — em 2022, a Croácia teve dificuldades com o Marrocos num jogo parecido com este.",
+      "group": "L"
+    },
+    {
+      "id": 71,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T21:00:00Z",
+      "venue": "metlife",
+      "home": "PAN",
+      "away": "ENG",
+      "fact": "Panamá e Inglaterra no MetLife Stadium, em Nova York — os ingleses com o grupo praticamente definido, o Panamá com tudo a provar. Um jogo em que Tuchel pode dar oportunidade a jogadores menos utilizados; o Panamá vai aproveitar cada espaço aberto.",
+      "group": "L"
+    },
+    {
+      "id": 72,
+      "stage": "group",
+      "datetime_utc": "2026-06-27T21:00:00Z",
+      "venue": "lincoln",
+      "home": "CRO",
+      "away": "GHA",
+      "fact": "Croácia e Gana encerram o Grupo L em Filadelfia. Modrić pode fazer aqui sua última aparição num jogo de grupo de Copa do Mundo — com 40 anos e uma carreira que redefiniu o papel do meia no futebol moderno. Gana vai tentar a surpresa que deixaria os croatas fora do mata-mata.",
+      "group": "L"
+    },
+    {
+      "id": 73,
+      "stage": "r32",
+      "datetime_utc": "2026-06-28T19:00:00Z",
+      "venue": "sofi",
+      "home": "2A",
+      "away": "2B",
+      "fact": "O primeiro jogo dos 16-avos de final é uma novidade absoluta da Copa de 48 seleções — esta fase nunca existiu antes num Mundial masculino. No SoFi Stadium de Los Angeles, segundo e segundo colocados dos Grupos A e B se enfrentam num mata-mata em que qualquer erro é fatal e não há segundo turno."
+    },
+    {
+      "id": 74,
+      "stage": "r32",
+      "datetime_utc": "2026-06-29T20:30:00Z",
+      "venue": "gillette",
+      "home": "1E",
+      "away": "T_ABCDF",
+      "fact": "No Gillette Stadium, em Boston, o líder do Grupo E enfrenta um dos melhores terceiros colocados num duelo que defini quem avança para as oitavas. A nova fase dos 16-avos exige atenção máxima desde o primeiro minuto."
+    },
+    {
+      "id": 75,
+      "stage": "r32",
+      "datetime_utc": "2026-06-30T01:00:00Z",
+      "venue": "bbva",
+      "home": "1F",
+      "away": "2C",
+      "fact": "O Estadio BBVA, em Monterrey, recebe seu primeiro jogo do mata-mata da Copa. O dono do grupo F cruza com o segundo do grupo C — dois times que sobreviveram à fase mais imprevisível e se encontram agora no momento da verdade."
+    },
+    {
+      "id": 76,
+      "stage": "r32",
+      "datetime_utc": "2026-06-29T17:00:00Z",
+      "venue": "nrg",
+      "home": "1C",
+      "away": "2F",
+      "fact": "O NRG Stadium de Houston, onde a temperatura e a umidade são fatores desde o aquecimento, recebe um dos 16-avos mais aguardados. O líder do Grupo C enfrenta o segundo do Grupo F num jogo em que o histórico de grupos diz muito — mas o mata-mata tem lógica própria."
+    },
+    {
+      "id": 77,
+      "stage": "r32",
+      "datetime_utc": "2026-06-30T21:00:00Z",
+      "venue": "metlife",
+      "home": "1I",
+      "away": "T_CDFGH",
+      "fact": "O MetLife Stadium, palco da grande final, recebe seu primeiro jogo eliminatório da Copa. O líder do Grupo I — potencialmente um time de ponta — mede forças com um dos melhores terceiros colocados de grupos repletos de qualidade."
+    },
+    {
+      "id": 78,
+      "stage": "r32",
+      "datetime_utc": "2026-06-30T17:00:00Z",
+      "venue": "att",
+      "home": "2E",
+      "away": "2I",
+      "fact": "AT&T Stadium, em Dallas: o segundo do Grupo E enfrenta o segundo do Grupo I num duelo que pode reunir dois dos times mais técnicos do torneio. O mata-mata começa aqui a definir a história desta Copa."
+    },
+    {
+      "id": 79,
+      "stage": "r32",
+      "datetime_utc": "2026-07-01T01:00:00Z",
+      "venue": "azteca",
+      "home": "1A",
+      "away": "T_CEFHI",
+      "fact": "O Estádio Azteca, o mais mítico desta Copa, recebe um jogo do mata-mata. O líder do Grupo A — potencialmente o México diante de sua própria torcida — tem aqui uma das maiores oportunidades da história do futebol mexicano para ir além das oitavas, onde parou em todos os seus Mundiais recentes."
+    },
+    {
+      "id": 80,
+      "stage": "r32",
+      "datetime_utc": "2026-07-01T16:00:00Z",
+      "venue": "mercedes",
+      "home": "1L",
+      "away": "T_EHIJK",
+      "fact": "O Mercedes-Benz Stadium de Atlanta recebe um dos 16-avos com maior potencial de público emocionado. O líder do Grupo L — potencialmente a Inglaterra ou a Croácia — enfrenta um dos melhores terceiros no que pode ser um jogo de altíssima intensidade."
+    },
+    {
+      "id": 81,
+      "stage": "r32",
+      "datetime_utc": "2026-07-02T00:00:00Z",
+      "venue": "levis",
+      "home": "1D",
+      "away": "T_BEFIJ",
+      "fact": "O Levi's Stadium, no Vale do Silício, recebe um mata-mata entre o líder do Grupo D e um dos melhores terceiros colocados. A seleção anfitriã dos EUA pode estar aqui — e uma jogada de Pulisic poderia levantar 68 mil torcedores americanos."
+    },
+    {
+      "id": 82,
+      "stage": "r32",
+      "datetime_utc": "2026-07-02T03:00:00Z",
+      "venue": "lumen",
+      "home": "1G",
+      "away": "T_AEHIJ",
+      "fact": "O Lumen Field de Seattle, um dos estádios mais barulhentos desta Copa, recebe o duelo entre o líder do Grupo G e um dos melhores terceiros. Com a cobertura fechada criando uma acústica única, qualquer gol aqui vai fazer a arena tremer."
+    },
+    {
+      "id": 83,
+      "stage": "r32",
+      "datetime_utc": "2026-07-02T23:00:00Z",
+      "venue": "bmo",
+      "home": "2K",
+      "away": "2L",
+      "fact": "O BMO Field de Toronto, a menor sede desta Copa, recebe um dos 16-avos com mais calor humano. O segundo do Grupo K enfrenta o segundo do Grupo L num confronto que pode reunir Portugal ou Colômbia contra Inglaterra ou Croácia."
+    },
+    {
+      "id": 84,
+      "stage": "r32",
+      "datetime_utc": "2026-07-02T19:00:00Z",
+      "venue": "sofi",
+      "home": "1H",
+      "away": "2J",
+      "fact": "O SoFi de Los Angeles recebe um segundo jogo do mata-mata — desta vez o líder do Grupo H (potencialmente a Espanha de Lamine Yamal) contra o segundo do Grupo J (potencialmente a Argentina de Messi). Se os favoritos avançarem, este pode ser o jogo mais badalado dos 16-avos."
+    },
+    {
+      "id": 85,
+      "stage": "r32",
+      "datetime_utc": "2026-07-03T03:00:00Z",
+      "venue": "bcplace",
+      "home": "1B",
+      "away": "T_EFGIJ",
+      "fact": "O BC Place de Vancouver, com seu teto retrátil e clima ameno, recebe um dos jogos de 16-avos mais estratégicos. O líder do Grupo B encontra um dos melhores terceiros colocados num duelo que pode revelar um dos grandes candidatos ao título."
+    },
+    {
+      "id": 86,
+      "stage": "r32",
+      "datetime_utc": "2026-07-03T22:00:00Z",
+      "venue": "hardrock",
+      "home": "1J",
+      "away": "2H",
+      "fact": "O Hard Rock Stadium de Miami recebe um dos confrontos mais aguardados dos 16-avos: o líder do Grupo J (potencialmente a Argentina de Messi) contra o segundo do Grupo H (potencialmente o Uruguai). Um clássico sul-americano em solo americano."
+    },
+    {
+      "id": 87,
+      "stage": "r32",
+      "datetime_utc": "2026-07-04T01:30:00Z",
+      "venue": "arrowhead",
+      "home": "1K",
+      "away": "T_DEIJL",
+      "fact": "O Arrowhead Stadium de Kansas City, um dos mais barulhentos dos Estados Unidos, recebe um dos 16-avos com maior potencial de emotividade. O líder do Grupo K (potencialmente Portugal com Ronaldo) enfrenta um dos melhores terceiros colocados."
+    },
+    {
+      "id": 88,
+      "stage": "r32",
+      "datetime_utc": "2026-07-03T18:00:00Z",
+      "venue": "att",
+      "home": "2D",
+      "away": "2G",
+      "fact": "AT&T Stadium, em Dallas, recebe o último jogo dos 16-avos antes das oitavas. O segundo do Grupo D enfrenta o segundo do Grupo G num jogo que encerra a primeira fase do mata-mata e abre o caminho para as quartas."
+    },
+    {
+      "id": 89,
+      "stage": "r16",
+      "datetime_utc": "2026-07-04T21:00:00Z",
+      "venue": "lincoln",
+      "home": "W74",
+      "away": "W77",
+      "fact": "As oitavas de final chegam ao Lincoln Financial Field de Filadelfia. Os vencedores dos 16-avos 74 e 77 se encontram numa batalha em que os favoritos ao título começam a eliminar uns aos outros. Filadelfia, a cidade da independência americana, pode assistir à queda de uma grande seleção."
+    },
+    {
+      "id": 90,
+      "stage": "r16",
+      "datetime_utc": "2026-07-04T17:00:00Z",
+      "venue": "nrg",
+      "home": "W73",
+      "away": "W75",
+      "fact": "O NRG Stadium de Houston recebe as oitavas de final. Os vencedores dos jogos 73 e 75 se encontram num estádio onde o calor e a umidade podem ser um fator extra. As oitavas são o momento em que a Copa começa a separar os times bons dos times excepcionais."
+    },
+    {
+      "id": 91,
+      "stage": "r16",
+      "datetime_utc": "2026-07-05T20:00:00Z",
+      "venue": "metlife",
+      "home": "W76",
+      "away": "W78",
+      "fact": "O MetLife Stadium recebe as oitavas de final — a terceira vez que este palco da grande final abriga um jogo decisivo. Os vencedores dos jogos 76 e 78 chegam aqui tendo sobrevivido a duas semanas de pressão extrema."
+    },
+    {
+      "id": 92,
+      "stage": "r16",
+      "datetime_utc": "2026-07-06T00:00:00Z",
+      "venue": "azteca",
+      "home": "W79",
+      "away": "W80",
+      "fact": "O Estádio Azteca recebe as oitavas de final. Com capacidade para mais de 80 mil pessoas e uma atmosfera inigualável, qualquer time que jogar aqui sente o peso da história — especialmente se o México ainda estiver no torneio."
+    },
+    {
+      "id": 93,
+      "stage": "r16",
+      "datetime_utc": "2026-07-06T19:00:00Z",
+      "venue": "att",
+      "home": "W83",
+      "away": "W84",
+      "fact": "AT&T Stadium, em Dallas, recebe as oitavas de final. Os vencedores dos jogos 83 e 84 se encontram numa batalha que pode reunir as maiores estrelas do mundo. Uma das cidades mais entusiastas desta Copa."
+    },
+    {
+      "id": 94,
+      "stage": "r16",
+      "datetime_utc": "2026-07-07T00:00:00Z",
+      "venue": "lumen",
+      "home": "W81",
+      "away": "W82",
+      "fact": "O Lumen Field de Seattle recebe as oitavas de final. Com seu teto retrátil e a atmosfera envolvente criada pela cobertura, este estádio pode ser o palco de um dos duelos mais intensos do mata-mata."
+    },
+    {
+      "id": 95,
+      "stage": "r16",
+      "datetime_utc": "2026-07-07T16:00:00Z",
+      "venue": "mercedes",
+      "home": "W86",
+      "away": "W88",
+      "fact": "O Mercedes-Benz Stadium de Atlanta recebe as oitavas de final. Os vencedores dos jogos 86 e 88 chegam a este ponto com pelo menos duas vitórias no mata-mata — os únicos que sobreviveram à fase mais imprevisível da Copa."
+    },
+    {
+      "id": 96,
+      "stage": "r16",
+      "datetime_utc": "2026-07-07T20:00:00Z",
+      "venue": "bcplace",
+      "home": "W85",
+      "away": "W87",
+      "fact": "O BC Place de Vancouver recebe as oitavas. Numa Copa que chegou ao continente americano inteiro, a cidade canadense de Vancouver pode ser palco do jogo que defina quem vai às quartas — com a temperatura amena e um público apaixonado."
+    },
+    {
+      "id": 97,
+      "stage": "qf",
+      "datetime_utc": "2026-07-09T20:00:00Z",
+      "venue": "gillette",
+      "home": "W89",
+      "away": "W90",
+      "fact": "Quartas de final no Gillette Stadium de Boston — restam apenas oito seleções no torneio. Os vencedores das oitavas 89 e 90 chegam aqui como dois dos melhores times do mundo, e um deles vai para casa. Boston, cidade de tradição esportiva intensa, vai criar uma atmosfera de final para este jogo."
+    },
+    {
+      "id": 98,
+      "stage": "qf",
+      "datetime_utc": "2026-07-10T19:00:00Z",
+      "venue": "sofi",
+      "home": "W93",
+      "away": "W94",
+      "fact": "Quartas de final no SoFi de Los Angeles — o estádio de 70 mil lugares que abrigou a abertura recebe agora um dos quatro jogos que definem as semifinalistas. Com dois times de elite em campo, este pode ser o jogo mais memorável desta fase."
+    },
+    {
+      "id": 99,
+      "stage": "qf",
+      "datetime_utc": "2026-07-11T21:00:00Z",
+      "venue": "hardrock",
+      "home": "W91",
+      "away": "W92",
+      "fact": "Quartas de final no Hard Rock Stadium de Miami. Os vencedores das oitavas 91 e 92 se encontram num confronto que pode reunir duas potências de continentes diferentes. Miami, a cidade mais latina dos EUA, vai escolher seu lado e criar uma das atmosferas mais quentes da Copa."
+    },
+    {
+      "id": 100,
+      "stage": "qf",
+      "datetime_utc": "2026-07-12T01:00:00Z",
+      "venue": "arrowhead",
+      "home": "W95",
+      "away": "W96",
+      "fact": "Quartas de final no Arrowhead Stadium de Kansas City. No estádio que já recebeu Messi em partidas do Inter Miami, dois dos oito melhores times do mundo definem uma vaga nas semifinais. O vencedor está a dois jogos de levantar a Copa."
+    },
+    {
+      "id": 101,
+      "stage": "sf",
+      "datetime_utc": "2026-07-14T19:00:00Z",
+      "venue": "att",
+      "home": "W97",
+      "away": "W98",
+      "fact": "Semifinal no AT&T Stadium de Dallas. Dois dos quatro melhores times do torneio definem a primeira vaga na final do MetLife Stadium. Histórico de Copas, pressão máxima e o peso de estar a 90 minutos de disputar o maior prêmio do futebol mundial."
+    },
+    {
+      "id": 102,
+      "stage": "sf",
+      "datetime_utc": "2026-07-15T19:00:00Z",
+      "venue": "mercedes",
+      "home": "W99",
+      "away": "W100",
+      "fact": "Semifinal no Mercedes-Benz Stadium de Atlanta. A segunda vaga para a final da Copa do Mundo 2026 é definida aqui. Um dos maiores estádios desta Copa, em pleno verão americano, recebe um jogo que ficará na memória do futebol por décadas."
+    },
+    {
+      "id": 103,
+      "stage": "third",
+      "datetime_utc": "2026-07-18T21:00:00Z",
+      "venue": "hardrock",
+      "home": "L101",
+      "away": "L102",
+      "fact": "Disputa pelo terceiro lugar no Hard Rock Stadium de Miami — uma tradição controversa mas sempre emocionante. Os dois perdedores das semifinais têm uma última chance de deixar a Copa com a cabeça erguida e uma medalha de bronze. Muitos ídolos de grandes nações se despediram de Copas neste tipo de jogo."
+    },
+    {
+      "id": 104,
+      "stage": "final",
+      "datetime_utc": "2026-07-19T19:00:00Z",
+      "venue": "metlife",
+      "home": "W101",
+      "away": "W102",
+      "fact": "A grande final da Copa do Mundo FIFA 2026 no MetLife Stadium, em East Rutherford, Nova Jersey — o mesmo estádio que abrigou o Brasil de Ancelotti em seu primeiro jogo do torneio. Mais de 82 mil pessoas vão assistir ao jogo mais assistido do planeta. Um capítulo definitivo da Copa mais inclusiva da história."
+    }
+  ],
+  "results": {},
+  "thirds": {}
+}
