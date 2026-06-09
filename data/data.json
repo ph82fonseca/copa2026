@@ -166,58 +166,1106 @@
     "MEX": {
       "name": "Mexico",
       "flag": "🇲🇽",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Javier Aguirre",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "R. Rangel"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "J. Sánchez"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "C. Montes"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "E. Álvarez"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "J. Vásquez"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "E. Lira"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "L. Romo"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Fidalgo"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Raúl Jiménez"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "A. Vega"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Santiago Giménez"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "C. Acevedo"
+        },
+        {
+          "n": 13,
+          "pos": "GOL",
+          "name": "G. Ochoa"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "A. González"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "I. Reyes"
+        },
+        {
+          "n": 16,
+          "pos": "ATA",
+          "name": "J. Quiñones"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Orbelín"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "O. Vargas"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "G. Mora"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "M. Chávez"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "C. Huerta"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "G. Martínez"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "J. Gallardo"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "L. Chávez"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "R. Alvarado"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "B. Gutiérrez"
+        }
+      ]
     },
     "KOR": {
       "name": "Coreia do Sul",
       "flag": "🇰🇷",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Hong Myung-bo",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Kim Seung-gyu"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Hanbeom"
+        },
+        {
+          "n": 3,
+          "pos": "MEI",
+          "name": "Gihyuk"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Kim Min-jae"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Taehyeon"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Inbeom"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Son Heung-min"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Seungho"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Guseung"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Jaesung"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Heechan"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Bumkeun"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Taeseok"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Wije"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Moonhwan"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Jinseob"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Junho"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Hyeongyu"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Lee Kang-in"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Hyunjun"
+        },
+        {
+          "n": 21,
+          "pos": "GOL",
+          "name": "Hyeonwoo"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Youngwoo"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Jens"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Jingyu"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Jisung"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Donggyeong"
+        }
+      ]
     },
     "RSA": {
       "name": "Africa do Sul",
       "flag": "🇿🇦",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Hugo Broos",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Williams"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Matuludi"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Ndamane"
+        },
+        {
+          "n": 4,
+          "pos": "MEI",
+          "name": "Mokoena"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Mbatha"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Modiba"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Appollis"
+        },
+        {
+          "n": 8,
+          "pos": "ATA",
+          "name": "Moremi"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Foster"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Mofokeng"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Zwane"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "Maseko"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Sithole"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Mbokazi"
+        },
+        {
+          "n": 15,
+          "pos": "ATA",
+          "name": "Rayners"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Chaine"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Makgopa"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Kabini"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Sibisi"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "Mudau"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Okon"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Goss"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Adams"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Makhanya"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Sebelebele"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Cross"
+        }
+      ]
     },
     "CZE": {
       "name": "Tchequia",
       "flag": "🇨🇿",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Miroslav Koubek",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Kovár"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Zima"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Holes"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Hranáč"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Coufal"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Chaloupek"
+        },
+        {
+          "n": 7,
+          "pos": "DEF",
+          "name": "Krejčí"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Darida"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Hlozek"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Patrik Schick"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Kuchta"
+        },
+        {
+          "n": 12,
+          "pos": "MEI",
+          "name": "Cerv"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "Chytil"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Jurásek"
+        },
+        {
+          "n": 15,
+          "pos": "ATA",
+          "name": "Šulc"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Staněk"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Provod"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Sadílek"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Chorý"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "Zelený"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Doudera"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Tomáš Souček"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Horníček"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Sojka"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Sochurek"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Visínský"
+        }
+      ]
     },
     "CAN": {
       "name": "Canada",
       "flag": "🇨🇦",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Jesse Marsch",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "St. Clair"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Johnston"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Jones"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "De Fougerolles"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Waterman"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Choinière"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Eustáquio"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Koné"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Larin"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Jonathan David"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Millar"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "Oluwaseyi"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Cornelius"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Shaffelburg"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Bombito"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Crepeau"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Buchanan"
+        },
+        {
+          "n": 18,
+          "pos": "GOL",
+          "name": "Goodman"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Alphonso Davies"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Ahmed"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Osorio"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Laryea"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Sigur"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Promise"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Saliba"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Marcelo"
+        }
+      ]
     },
     "SUI": {
       "name": "Suica",
       "flag": "🇨🇭",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Murat Yakin",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Kobel"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Muheim"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Widmer"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Elvedi"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Manuel Akanji"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Zakaria"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Breel Embolo"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Freuler"
+        },
+        {
+          "n": 9,
+          "pos": "MEI",
+          "name": "Manzambi"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Granit Xhaka"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Ndoye"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Mvogo"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Rodríguez"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Jashari"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Sow"
+        },
+        {
+          "n": 16,
+          "pos": "ATA",
+          "name": "Fassnacht"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Vargas"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Comert"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Okafor"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Aebischer"
+        },
+        {
+          "n": 21,
+          "pos": "GOL",
+          "name": "Keller"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Rieder"
+        },
+        {
+          "n": 23,
+          "pos": "ATA",
+          "name": "Amdouni"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Amenda"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Jaquez"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Itten"
+        }
+      ]
     },
     "QAT": {
       "name": "Catar",
       "flag": "🇶🇦",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Julen Lopetegui",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Abunada"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Pedro"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "L. Mendes"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Gueye"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Jassem"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "A. Aziz"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Alaeddin"
+        },
+        {
+          "n": 8,
+          "pos": "ATA",
+          "name": "Edmilson Jr."
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Muntari"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Alhaydos"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Afif"
+        },
+        {
+          "n": 12,
+          "pos": "MEI",
+          "name": "Karim"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Ayoub"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Homam"
+        },
+        {
+          "n": 15,
+          "pos": "ATA",
+          "name": "Yusuf"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Khoukhi"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "A. Alganehi"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Sultan"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Almoez"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "A. Fathy"
+        },
+        {
+          "n": 21,
+          "pos": "GOL",
+          "name": "Salah"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Barsham"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Madibo"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Tahsin"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Alhashmi"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Manai"
+        }
+      ]
     },
     "BIH": {
       "name": "Bosnia e Herzegovina",
       "flag": "🇧🇦",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Sergej Barbarez",
+      "formation": "3-5-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Vasilj"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Mujakić"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Hadžikadunic"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Muharemović"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Kolašinac"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Tahirović"
+        },
+        {
+          "n": 7,
+          "pos": "DEF",
+          "name": "Dedić"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Gigović"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Bazdar"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Demirović"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Edin Džeko"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Jurkas"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Bašić"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Šunjić"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Memić"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Hadžiahmetović"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Burnić"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Katić"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Alajbegović"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Bajraktarević"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Radeljić"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Zlomislić"
+        },
+        {
+          "n": 23,
+          "pos": "ATA",
+          "name": "Tabakovic"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Celik"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Lukić"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Mahmić"
+        }
+      ]
     },
     "BRA": {
       "name": "Brasil",
@@ -228,158 +1276,132 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Alisson Becker",
-          "club": "Liverpool FC"
+          "name": "Alisson Becker"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Wesley",
-          "club": "AS Roma"
+          "name": "Wesley"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Gabriel Magalhães",
-          "club": "Arsenal FC"
+          "name": "Gabriel Magalhães"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Marquinhos",
-          "club": "Paris Saint-Germain"
+          "name": "Marquinhos"
         },
         {
           "n": 5,
           "pos": "MEI",
-          "name": "Casemiro",
-          "club": "Manchester United"
+          "name": "Casemiro"
         },
         {
           "n": 6,
           "pos": "DEF",
-          "name": "Alex Sandro",
-          "club": "CR Flamengo"
+          "name": "Alex Sandro"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Vinícius Jr.",
-          "club": "Real Madrid C.F."
+          "name": "Vinícius Jr."
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Bruno Guimarães",
-          "club": "Newcastle United"
+          "name": "Bruno Guimarães"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Matheus Cunha",
-          "club": "Manchester United"
+          "name": "Matheus Cunha"
         },
         {
           "n": 10,
           "pos": "ATA",
-          "name": "Neymar Jr.",
-          "club": "Santos FC"
+          "name": "Neymar Jr."
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Raphinha",
-          "club": "FC Barcelona"
+          "name": "Raphinha"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "Weverton",
-          "club": "Grêmio FBPA"
+          "name": "Weverton"
         },
         {
           "n": 13,
           "pos": "DEF",
-          "name": "Danilo",
-          "club": "CR Flamengo"
+          "name": "Danilo"
         },
         {
           "n": 14,
           "pos": "DEF",
-          "name": "Bremer",
-          "club": "Juventus FC"
+          "name": "Bremer"
         },
         {
           "n": 15,
           "pos": "DEF",
-          "name": "Léo Pereira",
-          "club": "CR Flamengo"
+          "name": "Léo Pereira"
         },
         {
           "n": 16,
           "pos": "DEF",
-          "name": "Douglas Santos",
-          "club": "FC Zenit"
+          "name": "Douglas Santos"
         },
         {
           "n": 17,
           "pos": "MEI",
-          "name": "Fabinho",
-          "club": "Al Ittihad"
+          "name": "Fabinho"
         },
         {
           "n": 18,
           "pos": "MEI",
-          "name": "Danilo Barbosa",
-          "club": "Botafogo"
+          "name": "Danilo Barbosa"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "Endrick",
-          "club": "Olympique Lyonnais"
+          "name": "Endrick"
         },
         {
           "n": 20,
           "pos": "MEI",
-          "name": "Lucas Paquetá",
-          "club": "CR Flamengo"
+          "name": "Lucas Paquetá"
         },
         {
           "n": 21,
           "pos": "ATA",
-          "name": "Luiz Henrique",
-          "club": "FC Zenit"
+          "name": "Luiz Henrique"
         },
         {
           "n": 22,
           "pos": "ATA",
-          "name": "Gabriel Martinelli",
-          "club": "Arsenal FC"
+          "name": "Gabriel Martinelli"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "Ederson",
-          "club": "Fenerbahçe SK"
+          "name": "Ederson"
         },
         {
           "n": 24,
           "pos": "DEF",
-          "name": "Ibañez",
-          "club": "Al Ahli FC"
+          "name": "Ibañez"
         },
         {
           "n": 25,
           "pos": "ATA",
-          "name": "Igor Thiago",
-          "club": "Brentford FC"
+          "name": "Igor Thiago"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "Rayan",
-          "club": "AFC Bournemouth"
+          "name": "Rayan"
         }
       ]
     },
@@ -392,174 +1414,410 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Bono",
-          "club": "Al Hilal SC"
+          "name": "Bono"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Hakimi",
-          "club": "Paris Saint-Germain"
+          "name": "Achraf Hakimi"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Mazraoui",
-          "club": "Manchester United"
+          "name": "Noussair Mazraoui"
         },
         {
           "n": 4,
           "pos": "MEI",
-          "name": "Amrabat",
-          "club": "Real Betis"
+          "name": "Amrabat"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "Aguerd",
-          "club": "Olympique Marseille"
+          "name": "Aguerd"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "Bouaddi",
-          "club": "Lille OSC"
+          "name": "Bouaddi"
         },
         {
           "n": 7,
           "pos": "MEI",
-          "name": "Talbi",
-          "club": "Sunderland AFC"
+          "name": "Talbi"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Ouahi",
-          "club": "Girona FC"
+          "name": "Ouahi"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Rahimi",
-          "club": "Al Ain FC"
+          "name": "Rahimi"
         },
         {
           "n": 10,
           "pos": "ATA",
-          "name": "Brahim Díaz",
-          "club": "Real Madrid C.F."
+          "name": "Brahim Díaz"
         },
         {
           "n": 11,
           "pos": "MEI",
-          "name": "Saibari",
-          "club": "PSV Eindhoven"
+          "name": "Saibari"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "El Kajoui",
-          "club": "RS Berkane"
+          "name": "El Kajoui"
         },
         {
           "n": 13,
           "pos": "DEF",
-          "name": "El Ouahdi",
-          "club": "KRC Genk"
+          "name": "El Ouahdi"
         },
         {
           "n": 14,
           "pos": "DEF",
-          "name": "Issa",
-          "club": "Fulham FC"
+          "name": "Issa"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "El Mourabet",
-          "club": "RC Strasbourg"
+          "name": "El Mourabet"
         },
         {
           "n": 16,
           "pos": "MEI",
-          "name": "Yassine",
-          "club": "RC Strasbourg"
+          "name": "Yassine"
         },
         {
           "n": 17,
           "pos": "ATA",
-          "name": "Ezzalzouli",
-          "club": "Real Betis"
+          "name": "Ezzalzouli"
         },
         {
           "n": 18,
           "pos": "DEF",
-          "name": "Riad",
-          "club": "Crystal Palace FC"
+          "name": "Riad"
         },
         {
           "n": 19,
           "pos": "DEF",
-          "name": "Belammari",
-          "club": "Al Ahly FC"
+          "name": "Belammari"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "El Kaabi",
-          "club": "Olympiacos FC"
+          "name": "El Kaabi"
         },
         {
           "n": 21,
           "pos": "ATA",
-          "name": "Amaimouni",
-          "club": "Eintracht Frankfurt"
+          "name": "Amaimouni"
         },
         {
           "n": 22,
           "pos": "GOL",
-          "name": "Tagnaouti",
-          "club": "ASFAR"
+          "name": "Tagnaouti"
         },
         {
           "n": 23,
           "pos": "MEI",
-          "name": "El Khannouss",
-          "club": "VfB Stuttgart"
+          "name": "El Khannouss"
         },
         {
           "n": 24,
           "pos": "MEI",
-          "name": "El Aynaoui",
-          "club": "AS Roma"
+          "name": "El Aynaoui"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Halhal",
-          "club": "KV Mechelen"
+          "name": "Halhal"
         },
         {
           "n": 26,
           "pos": "DEF",
-          "name": "Salah-Eddine",
-          "club": "PSV Eindhoven"
+          "name": "Salah-Eddine"
         }
       ]
     },
     "SCO": {
       "name": "Escocia",
       "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Steve Clarke",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Gunn"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Hickey"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Andy Robertson"
+        },
+        {
+          "n": 4,
+          "pos": "MEI",
+          "name": "Scott McTominay"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Hanley"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Tierney"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "McGinn"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Fletcher"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Dykes"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Che Adams"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Christie"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Kelly"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Hendry"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Stewart"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Souttar"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Hyam"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Gannon Doak"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Hirst"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Ferguson"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Shankland"
+        },
+        {
+          "n": 21,
+          "pos": "GOL",
+          "name": "Gordon"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Patterson"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "McLean"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Ralston"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Curtis"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "McKenna"
+        }
+      ]
     },
     "HAI": {
       "name": "Haiti",
       "flag": "🇭🇹",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Sébastien Migné",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Placide"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Arcus"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Thermoncy"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Ade"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Delcroix"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Sainte"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Etienne Jr"
+        },
+        {
+          "n": 8,
+          "pos": "DEF",
+          "name": "Experience"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Nazon"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Bellegarde"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Deedson"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "A. Pierre"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Lacroix"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "L. Pierre"
+        },
+        {
+          "n": 15,
+          "pos": "ATA",
+          "name": "Providence"
+        },
+        {
+          "n": 16,
+          "pos": "ATA",
+          "name": "Joseph"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Jean Jacques"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Isidor"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Fortune"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Pierrot"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Casimir"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Duverne"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Duverger"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Paugin"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Simon"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "W. Pierre"
+        }
+      ]
     },
     "USA": {
       "name": "Estados Unidos",
@@ -570,174 +1828,410 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Turner",
-          "club": "New England Revolution"
+          "name": "Turner"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Dest",
-          "club": "PSV Eindhoven"
+          "name": "Dest"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Richards",
-          "club": "Crystal Palace FC"
+          "name": "Richards"
         },
         {
           "n": 4,
           "pos": "MEI",
-          "name": "Adams",
-          "club": "AFC Bournemouth"
+          "name": "Tyler Adams"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "A. Robinson",
-          "club": "Fulham FC"
+          "name": "A. Robinson"
         },
         {
           "n": 6,
           "pos": "DEF",
-          "name": "Trusty",
-          "club": "Celtic FC"
+          "name": "Trusty"
         },
         {
           "n": 7,
           "pos": "MEI",
-          "name": "Reyna",
-          "club": "Borussia Mönchengladbach"
+          "name": "Reyna"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "McKennie",
-          "club": "Juventus FC"
+          "name": "McKennie"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Pepi",
-          "club": "PSV Eindhoven"
+          "name": "Pepi"
         },
         {
           "n": 10,
           "pos": "ATA",
-          "name": "Pulisic",
-          "club": "AC Milan"
+          "name": "Christian Pulisic"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Aaronson",
-          "club": "Leeds United"
+          "name": "Aaronson"
         },
         {
           "n": 12,
           "pos": "DEF",
-          "name": "M. Robinson",
-          "club": "FC Cincinnati"
+          "name": "M. Robinson"
         },
         {
           "n": 13,
           "pos": "DEF",
-          "name": "Ream",
-          "club": "Charlotte FC"
+          "name": "Ream"
         },
         {
           "n": 14,
           "pos": "MEI",
-          "name": "Berhalter",
-          "club": "Vancouver Whitecaps"
+          "name": "Berhalter"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "Roldan",
-          "club": "Seattle Sounders FC"
+          "name": "Roldan"
         },
         {
           "n": 16,
           "pos": "DEF",
-          "name": "Freeman",
-          "club": "Villarreal CF"
+          "name": "Freeman"
         },
         {
           "n": 17,
           "pos": "MEI",
-          "name": "Tillman",
-          "club": "Bayer Leverkusen"
+          "name": "Tillman"
         },
         {
           "n": 18,
           "pos": "DEF",
-          "name": "Arfsten",
-          "club": "Columbus Crew"
+          "name": "Arfsten"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "Wright",
-          "club": "Coventry City FC"
+          "name": "Wright"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "Balogun",
-          "club": "AS Monaco"
+          "name": "Balogun"
         },
         {
           "n": 21,
           "pos": "ATA",
-          "name": "Weah",
-          "club": "Olympique Marseille"
+          "name": "Weah"
         },
         {
           "n": 22,
           "pos": "DEF",
-          "name": "McKenzie",
-          "club": "Toulouse FC"
+          "name": "McKenzie"
         },
         {
           "n": 23,
           "pos": "DEF",
-          "name": "Scally",
-          "club": "Borussia Mönchengladbach"
+          "name": "Scally"
         },
         {
           "n": 24,
           "pos": "GOL",
-          "name": "Freese",
-          "club": "New York City FC"
+          "name": "Freese"
         },
         {
           "n": 25,
           "pos": "GOL",
-          "name": "Brady",
-          "club": "Chicago Fire FC"
+          "name": "Brady"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "Zendejas",
-          "club": "Club América"
+          "name": "Zendejas"
         }
       ]
     },
     "AUS": {
       "name": "Australia",
       "flag": "🇦🇺",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Tony Popovic",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Mathew Ryan"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Degenek"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Circati"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Italiano"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Bos"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Geria"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Leckie"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Metcalfe"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Toure"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Hrustic"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Mabil"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Izzo"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "O'Neill"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Devlin"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Trewin"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Behich"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Irankunda"
+        },
+        {
+          "n": 18,
+          "pos": "GOL",
+          "name": "Beach"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Souttar"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Volpato"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Burgess"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Irvine"
+        },
+        {
+          "n": 23,
+          "pos": "ATA",
+          "name": "Velupillay"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Okon-Engstler"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Herrington"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Yengi"
+        }
+      ]
     },
     "PAR": {
       "name": "Paraguai",
       "flag": "🇵🇾",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Gustavo Alfaro",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Fernandez"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Velázquez"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Alderete"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Cáceres"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Balbuena"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Alonso"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Sosa"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "D. Gomez"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Sanabria"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Miguel Almirón"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Mauricio"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "O. Gill"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Canale"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Cubas"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "G. Gomez"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Bobadilla"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "R. Gamarra"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Arce"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Enciso"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Ojeda"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Avalos"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Oliveira"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Galarza"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Caballero"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Pitta"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Maidana"
+        }
+      ]
     },
     "TUR": {
       "name": "Turquia",
@@ -748,158 +2242,132 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Mert",
-          "club": "Fenerbahçe SK"
+          "name": "Mert"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Zeki Çelik",
-          "club": "AS Roma"
+          "name": "Zeki Çelik"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Demiral",
-          "club": "Al Ahli FC"
+          "name": "Merih Demiral"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Çağlar Söyüncü",
-          "club": "Fenerbahçe SK"
+          "name": "Çağlar Söyüncü"
         },
         {
           "n": 5,
           "pos": "MEI",
-          "name": "Özcan",
-          "club": "Borussia Dortmund"
+          "name": "Özcan"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "Orkun Kökçü",
-          "club": "Beşiktaş JK"
+          "name": "Orkun Kökçü"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Aktürkoğlu",
-          "club": "Fenerbahçe SK"
+          "name": "Aktürkoğlu"
         },
         {
           "n": 8,
           "pos": "ATA",
-          "name": "Arda Güler",
-          "club": "Real Madrid C.F."
+          "name": "Arda Güler"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Deniz Gül",
-          "club": "FC Porto"
+          "name": "Deniz Gül"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "Çalhanoğlu",
-          "club": "FC Internazionale"
+          "name": "Hakan Çalhanoğlu"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Kenan Yıldız",
-          "club": "Juventus FC"
+          "name": "Kenan Yıldız"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "Altay",
-          "club": "Manchester United"
+          "name": "Altay"
         },
         {
           "n": 13,
           "pos": "DEF",
-          "name": "Eren Elmalı",
-          "club": "Galatasaray SK"
+          "name": "Eren Elmalı"
         },
         {
           "n": 14,
           "pos": "DEF",
-          "name": "Abdülkerim",
-          "club": "Galatasaray SK"
+          "name": "Abdülkerim"
         },
         {
           "n": 15,
           "pos": "DEF",
-          "name": "Ozan Kabak",
-          "club": "TSG Hoffenheim"
+          "name": "Ozan Kabak"
         },
         {
           "n": 16,
           "pos": "MEI",
-          "name": "İsmail",
-          "club": "Fenerbahçe SK"
+          "name": "İsmail"
         },
         {
           "n": 17,
           "pos": "ATA",
-          "name": "Kahveci",
-          "club": "Kasımpaşa SK"
+          "name": "Kahveci"
         },
         {
           "n": 18,
           "pos": "DEF",
-          "name": "Mert Müldür",
-          "club": "Fenerbahçe SK"
+          "name": "Mert Müldür"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "Yunus Akgün",
-          "club": "Galatasaray SK"
+          "name": "Yunus Akgün"
         },
         {
           "n": 20,
           "pos": "DEF",
-          "name": "F. Kadioglu",
-          "club": "Brighton & Hove Albion"
+          "name": "F. Kadıoğlu"
         },
         {
           "n": 21,
           "pos": "ATA",
-          "name": "Barış",
-          "club": "Galatasaray SK"
+          "name": "Barış"
         },
         {
           "n": 22,
           "pos": "MEI",
-          "name": "Kaan",
-          "club": "Galatasaray SK"
+          "name": "Kaan"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "Uğurcan",
-          "club": "Galatasaray SK"
+          "name": "Uğurcan"
         },
         {
           "n": 24,
           "pos": "ATA",
-          "name": "Oğuz",
-          "club": "Fenerbahçe SK"
+          "name": "Oğuz"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Samet Akaydin",
-          "club": "Çaykur Rizespor"
+          "name": "Samet Akaydin"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "Can Uzun",
-          "club": "Eintracht Frankfurt"
+          "name": "Can Uzun"
         }
       ]
     },
@@ -912,158 +2380,132 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Neuer",
-          "club": "FC Bayern München"
+          "name": "Manuel Neuer"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Rüdiger",
-          "club": "Real Madrid C.F."
+          "name": "Antonio Rüdiger"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Anton",
-          "club": "Borussia Dortmund"
+          "name": "Anton"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Tah",
-          "club": "FC Bayern München"
+          "name": "Jonathan Tah"
         },
         {
           "n": 5,
           "pos": "MEI",
-          "name": "Pavlovic",
-          "club": "FC Bayern München"
+          "name": "Pavlovic"
         },
         {
           "n": 6,
           "pos": "DEF",
-          "name": "Kimmich",
-          "club": "FC Bayern München"
+          "name": "Joshua Kimmich"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Havertz",
-          "club": "Arsenal FC"
+          "name": "Kai Havertz"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Goretzka",
-          "club": "FC Bayern München"
+          "name": "Goretzka"
         },
         {
           "n": 9,
           "pos": "MEI",
-          "name": "Leweling",
-          "club": "VfB Stuttgart"
+          "name": "Leweling"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "Musiala",
-          "club": "FC Bayern München"
+          "name": "Jamal Musiala"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Woltemade",
-          "club": "Newcastle United"
+          "name": "Woltemade"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "Baumann",
-          "club": "TSG Hoffenheim"
+          "name": "Baumann"
         },
         {
           "n": 13,
           "pos": "MEI",
-          "name": "Groß",
-          "club": "Brighton & Hove Albion"
+          "name": "Groß"
         },
         {
           "n": 14,
           "pos": "ATA",
-          "name": "Beier",
-          "club": "Borussia Dortmund"
+          "name": "Beier"
         },
         {
           "n": 15,
           "pos": "DEF",
-          "name": "Schlotterbeck",
-          "club": "Borussia Dortmund"
+          "name": "Schlotterbeck"
         },
         {
           "n": 16,
           "pos": "MEI",
-          "name": "Stiller",
-          "club": "VfB Stuttgart"
+          "name": "Stiller"
         },
         {
           "n": 17,
           "pos": "MEI",
-          "name": "Wirtz",
-          "club": "Liverpool FC"
+          "name": "Florian Wirtz"
         },
         {
           "n": 18,
           "pos": "DEF",
-          "name": "Brown",
-          "club": "Eintracht Frankfurt"
+          "name": "Brown"
         },
         {
           "n": 19,
           "pos": "MEI",
-          "name": "Sané",
-          "club": "Galatasaray SK"
+          "name": "Sané"
         },
         {
           "n": 20,
           "pos": "MEI",
-          "name": "Amiri",
-          "club": "1. FSV Mainz 05"
+          "name": "Amiri"
         },
         {
           "n": 21,
           "pos": "GOL",
-          "name": "Nübel",
-          "club": "VfB Stuttgart"
+          "name": "Nübel"
         },
         {
           "n": 22,
           "pos": "DEF",
-          "name": "Raum",
-          "club": "RB Leipzig"
+          "name": "Raum"
         },
         {
           "n": 23,
           "pos": "MEI",
-          "name": "Nmecha",
-          "club": "Borussia Dortmund"
+          "name": "Nmecha"
         },
         {
           "n": 24,
           "pos": "DEF",
-          "name": "Thiaw",
-          "club": "Newcastle United"
+          "name": "Thiaw"
         },
         {
           "n": 25,
           "pos": "MEI",
-          "name": "Karl",
-          "club": "FC Bayern München"
+          "name": "Karl"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "Undav",
-          "club": "VfB Stuttgart"
+          "name": "Undav"
         }
       ]
     },
@@ -1076,230 +2518,1514 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Galíndez",
-          "club": "CA Huracán"
+          "name": "Galíndez"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Torres",
-          "club": "SC Internacional"
+          "name": "Torres"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Hincapié",
-          "club": "Arsenal FC"
+          "name": "Piero Hincapié"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Ordóñez",
-          "club": "Club Brugge"
+          "name": "Ordóñez"
         },
         {
           "n": 5,
           "pos": "MEI",
-          "name": "Alcívar",
-          "club": "Independiente del Valle"
+          "name": "Alcívar"
         },
         {
           "n": 6,
           "pos": "DEF",
-          "name": "Pacho",
-          "club": "Paris Saint-Germain"
+          "name": "Pacho"
         },
         {
           "n": 7,
           "pos": "DEF",
-          "name": "Estupiñán",
-          "club": "AC Milan"
+          "name": "Pervis Estupiñán"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "A. Valencia",
-          "club": "Royal Antwerp FC"
+          "name": "A. Valencia"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Yeboah Zamora",
-          "club": "Venezia FC"
+          "name": "Yeboah Zamora"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "Páez",
-          "club": "CA River Plate"
+          "name": "Páez"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Rodríguez",
-          "club": "Union Saint-Gilloise"
+          "name": "Rodríguez"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "Ramírez",
-          "club": "AE Kisia FC"
+          "name": "Ramírez"
         },
         {
           "n": 13,
           "pos": "ATA",
-          "name": "E. Valencia",
-          "club": "CF Pachuca"
+          "name": "E. Valencia"
         },
         {
           "n": 14,
           "pos": "MEI",
-          "name": "Minda",
-          "club": "Atlético Mineiro"
+          "name": "Minda"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "Vite",
-          "club": "Pumas UNAM"
+          "name": "Vite"
         },
         {
           "n": 16,
           "pos": "ATA",
-          "name": "J. Caicedo",
-          "club": "CA Huracán"
+          "name": "J. Caicedo"
         },
         {
           "n": 17,
           "pos": "DEF",
-          "name": "Preciado",
-          "club": "Atlético Mineiro"
+          "name": "Preciado"
         },
         {
           "n": 18,
           "pos": "MEI",
-          "name": "Castillo",
-          "club": "FC Midtjylland"
+          "name": "Castillo"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "Plata",
-          "club": "CR Flamengo"
+          "name": "Plata"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "Angulo",
-          "club": "Sunderland AFC"
+          "name": "Angulo"
         },
         {
           "n": 21,
           "pos": "MEI",
-          "name": "Franco",
-          "club": "Atlético Mineiro"
+          "name": "Franco"
         },
         {
           "n": 22,
           "pos": "GOL",
-          "name": "Valle",
-          "club": "LDU Quito"
+          "name": "Valle"
         },
         {
           "n": 23,
           "pos": "MEI",
-          "name": "M. Caicedo",
-          "club": "Chelsea FC"
+          "name": "Moisés Caicedo"
         },
         {
           "n": 24,
           "pos": "ATA",
-          "name": "Arévalo",
-          "club": "VfB Stuttgart"
+          "name": "Arévalo"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Porozo",
-          "club": "Club Tijuana"
+          "name": "Porozo"
         },
         {
           "n": 26,
           "pos": "DEF",
-          "name": "Medina",
-          "club": "KRC Genk"
+          "name": "Medina"
         }
       ]
     },
     "CIV": {
       "name": "Costa do Marfim",
       "flag": "🇨🇮",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Emerse Faé",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Y. Fofana"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "O. Diomandé"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "G. Konan"
+        },
+        {
+          "n": 4,
+          "pos": "MEI",
+          "name": "Jean Michaël Seri"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Singo"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Franck Kessié"
+        },
+        {
+          "n": 7,
+          "pos": "DEF",
+          "name": "Kossounou"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Fofana"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Bonny"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Simon Adingra"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Yan Diomandé"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "Wahi"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Operi"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Diakite"
+        },
+        {
+          "n": 15,
+          "pos": "ATA",
+          "name": "Amad Diallo"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Koné"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "G. Doué"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Ibrahim Sangaré"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Nicolas Pépé"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "Agbadou"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "N'Dicka"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "Guessand"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Lafont"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Touré"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Guiagon"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Inao"
+        }
+      ]
     },
     "CUW": {
       "name": "Curacao",
       "flag": "🇨🇼",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Dick Advocaat",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Room"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Sambo"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Gaari"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Van Eijma"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Floranus"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Roemeratoe"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "J. Bacuna"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Comenencia"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Locadia"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "L. Bacuna"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Antonisse"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "Hansen"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "Noslin"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Gorre"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Martha"
+        },
+        {
+          "n": 16,
+          "pos": "ATA",
+          "name": "Margaritha"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Kuwas"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Obispo"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Kastaneer"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "Brenet"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Chong"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Felida"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Bazoer"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Fonville"
+        },
+        {
+          "n": 25,
+          "pos": "GOL",
+          "name": "Bodak"
+        },
+        {
+          "n": 26,
+          "pos": "GOL",
+          "name": "Doornbusch"
+        }
+      ]
     },
     "NED": {
       "name": "Paises Baixos",
       "flag": "🇳🇱",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Ronald Koeman",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Verbruggen"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Jurriën Timber"
+        },
+        {
+          "n": 3,
+          "pos": "MEI",
+          "name": "De Roon"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Virgil van Dijk"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Nathan Aké"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Van Hecke"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Justin Kluivert"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Ryan Gravenberch"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Weghorst"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Memphis Depay"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Cody Gakpo"
+        },
+        {
+          "n": 12,
+          "pos": "DEF",
+          "name": "Wieffer"
+        },
+        {
+          "n": 13,
+          "pos": "GOL",
+          "name": "Roefs"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Tijjani Reijnders"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Van de Ven"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Til"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Lang"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Malen"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Brobbey"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Koopmeiners"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Frenkie de Jong"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Denzel Dumfries"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Flekken"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Summerville"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Hato"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Q. Timber"
+        }
+      ]
     },
     "JPN": {
       "name": "Japao",
       "flag": "🇯🇵",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Hajime Moriyasu",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Suzuki"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Sugawara"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Taniguchi"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Itakura"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Nagatomo"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Wataru Endo"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Tanaka"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Takefusa Kubo"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Goto"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Doan"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Daizen Maeda"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Osako"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Nakamura"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Ito"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Kamada"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Watanabe"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Y. Suzuki"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Ayase"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Ogawa"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "Seko"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "H. Ito"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Takehiro Tomiyasu"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Hayakawa"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Sano"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "J. Suzuki"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Shiogai"
+        }
+      ]
     },
     "TUN": {
       "name": "Tunisia",
       "flag": "🇹🇳",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Sabri Lamouchi",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Chamakh"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Abdi"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Talbi"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Rekik"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Arous"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Bronn"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Achouri"
+        },
+        {
+          "n": 8,
+          "pos": "ATA",
+          "name": "Saad"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Mastouri"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Hannibal Mejbri"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Gharbi"
+        },
+        {
+          "n": 12,
+          "pos": "DEF",
+          "name": "Ben Ouanes"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Khedira"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Ayari"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Belhadj Mahmoud"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Dahmen"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Skhiri"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Elloumi"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Chaouat"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "Valery"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Ben Hmida"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Ben Hsan"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Neffati"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Chikhaoui"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Slimane"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Tounekti"
+        }
+      ]
     },
     "SWE": {
       "name": "Suecia",
       "flag": "🇸🇪",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Graham Potter",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Zetterström"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Lagerbielke"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Victor Lindelöf"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Hien"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Gudmundsson"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "H. Johansson"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Lucas Bergvall"
+        },
+        {
+          "n": 8,
+          "pos": "DEF",
+          "name": "Svensson"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Alexander Isak"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Nygren"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Anthony Elanga"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "V. Johansson"
+        },
+        {
+          "n": 13,
+          "pos": "MEI",
+          "name": "Sema"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Ekdal"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Starfelt"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Karlström"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Viktor Gyökeres"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Ayari"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Svanberg"
+        },
+        {
+          "n": 20,
+          "pos": "DEF",
+          "name": "Smith"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Bernhardsson"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Zeneli"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Nordfeldt"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Stroud"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Nilsson"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Ali"
+        }
+      ]
     },
     "BEL": {
       "name": "Belgica",
       "flag": "🇧🇪",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Rudi García",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Thibaut Courtois"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Debast"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Thiate"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Mechele"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "De Cuyper"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Axel Witsel"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Kevin De Bruyne"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Youri Tielemans"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Romelu Lukaku"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Leandro Trossard"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Jérémy Doku"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Lammens"
+        },
+        {
+          "n": 13,
+          "pos": "GOL",
+          "name": "Penders"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Lukebakio"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Thomas Meunier"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "De Winter"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Charles De Ketelaere"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Seys"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Moreira"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Hans Vanaken"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Timothy Castagne"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Alexis Saelemaekers"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Raskin"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Onana"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Ngoy"
+        },
+        {
+          "n": 26,
+          "pos": "ATA",
+          "name": "Fernandez-Pardo"
+        }
+      ]
     },
     "IRN": {
       "name": "Ira",
       "flag": "🇮🇷",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Amir Ghalenoei",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Alireza Beiranvand"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Saleh"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "E. Hajisafi"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Shoja"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "M. Mohammadi"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "S. Ezatolahi"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "A. Jahanbakhsh"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "M. Mohebi"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Mehdi Taremi"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Mehdi Ghayedi"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "A. Alipour"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Payam"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Kanani"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Ghoddoos"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Roozbeh"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "M. Torabi"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "Arya"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Amirhossein"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Ali"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Shahriyar"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Mohammad"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Hosseini"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Ramin"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Dargahi"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Danial"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Razagh"
+        }
+      ]
     },
     "EGY": {
       "name": "Egito",
       "flag": "🇪🇬",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Hossam Hassan",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "M. Elshenawy"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Yasser"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "M. Hany"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Hossam"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "R. Rabiaa"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "M. Abdelmoneim"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "M. Trezeguet"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "E. Ashour"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Abdelkarim"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Mohamed Salah"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Zico"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "H. Hassan"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "A. Fatouh"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "H. Fathy"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "K. Hafez"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "M. Soliman"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "M. Lashin"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Donga"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "M. Attia"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "I. Adel"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "M. Saber"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "Omar Marmoush"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Shoubir"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "T. Alaa"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Zizo"
+        },
+        {
+          "n": 26,
+          "pos": "GOL",
+          "name": "M. Alaa"
+        }
+      ]
     },
     "NZL": {
       "name": "Nova Zelandia",
       "flag": "🇳🇿",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Darren Bazeley",
+      "formation": "3-4-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Crocombe"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Payne"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "De Vries"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Bindon"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Boxall"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Bell"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Garbett"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Stamenic"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Chris Wood"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Singh"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Just"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Paulsen"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Cacace"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Rufer"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Pijnaker"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Surman"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Barbarouses"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Waine"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Old"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "McCowatt"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Randall"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Woud"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Thomas"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Elliot"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Bayliss"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Smith"
+        }
+      ]
     },
     "ESP": {
       "name": "Espanha",
@@ -1310,181 +4036,548 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Raya",
-          "club": "Arsenal FC"
+          "name": "David Raya"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Marc Pubill",
-          "club": "Atlético de Madrid"
+          "name": "Marc Pubill"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Grimaldo",
-          "club": "Bayer Leverkusen"
+          "name": "Alejandro Grimaldo"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Eric García",
-          "club": "FC Barcelona"
+          "name": "Eric García"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "M. Llorente",
-          "club": "Atlético de Madrid"
+          "name": "Marcos Llorente"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "Merino",
-          "club": "Arsenal FC"
+          "name": "Mikel Merino"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Ferran Torres",
-          "club": "FC Barcelona"
+          "name": "Ferran Torres"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Fabián Ruiz",
-          "club": "Paris Saint-Germain"
+          "name": "Fabián Ruiz"
         },
         {
           "n": 9,
           "pos": "MEI",
-          "name": "Gavi",
-          "club": "FC Barcelona"
+          "name": "Gavi"
         },
         {
           "n": 10,
           "pos": "ATA",
-          "name": "Olmo",
-          "club": "FC Barcelona"
+          "name": "Dani Olmo"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Jerémy Doku",
-          "club": "Crystal Palace FC"
+          "name": "Jeremy"
         },
         {
           "n": 12,
           "pos": "DEF",
-          "name": "Pedro Porro",
-          "club": "Tottenham Hotspur"
+          "name": "Pedro Porro"
         },
         {
           "n": 13,
           "pos": "GOL",
-          "name": "Joan García",
-          "club": "FC Barcelona"
+          "name": "Joan García"
         },
         {
           "n": 14,
           "pos": "DEF",
-          "name": "Laporte",
-          "club": "Athletic Club"
+          "name": "Aymeric Laporte"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "Alex Baena",
-          "club": "Atlético de Madrid"
+          "name": "Alex Baena"
         },
         {
           "n": 16,
           "pos": "MEI",
-          "name": "Rodri",
-          "club": "Manchester City FC"
+          "name": "Rodri"
         },
         {
           "n": 17,
           "pos": "ATA",
-          "name": "Nico Williams",
-          "club": "Athletic Club"
+          "name": "Nico Williams"
         },
         {
           "n": 18,
           "pos": "MEI",
-          "name": "Zubimendi",
-          "club": "Arsenal FC"
+          "name": "Martín Zubimendi"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "Lamine Yamal",
-          "club": "FC Barcelona"
+          "name": "Lamine Yamal"
         },
         {
           "n": 20,
           "pos": "MEI",
-          "name": "Pedri",
-          "club": "FC Barcelona"
+          "name": "Pedri"
         },
         {
           "n": 21,
           "pos": "ATA",
-          "name": "Oyarzabal",
-          "club": "Real Sociedad"
+          "name": "Mikel Oyarzabal"
         },
         {
           "n": 22,
           "pos": "DEF",
-          "name": "Cubarsí",
-          "club": "FC Barcelona"
+          "name": "Pau Cubarsí"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "Unai Simón",
-          "club": "Athletic Club"
+          "name": "Unai Simón"
         },
         {
           "n": 24,
           "pos": "DEF",
-          "name": "Cucurella",
-          "club": "Chelsea FC"
+          "name": "Marc Cucurella"
         },
         {
           "n": 25,
           "pos": "ATA",
-          "name": "Víctor Mollejo",
-          "club": "CA Osasuna"
+          "name": "Víctor Mollejo"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "B. Iglesias",
-          "club": "RC Celta Vigo"
+          "name": "Borja Iglesias"
         }
       ]
     },
     "URU": {
       "name": "Uruguai",
       "flag": "🇺🇾",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Marcelo Bielsa",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Sergio Rochet"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "José María Giménez"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "S. Cáceres"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Ronald Araújo"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Manuel Ugarte"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Rodrigo Bentancur"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "N. de la Cruz"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Federico Valverde"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Darwin Núñez"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Giorgian de Arrascaeta"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Facundo Pellistri"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "S. Mele"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "G. Varela"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "A. Canobbio"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "E. Martínez"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Mathías Olivera"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "M. Viña"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "B. Rodríguez"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "R. Aguirre"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "M. Araújo"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "F. Viñas"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "J. Piquerez"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Fernando Muslera"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "S. Bueno"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "J.M. Sanabria"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "R. Zalazar"
+        }
+      ]
     },
     "KSA": {
       "name": "Arabia Saudita",
       "flag": "🇸🇦",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Georgios Donis",
+      "formation": "4-5-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Alaqidi"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Majrashi"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Lajami"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Alamri"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Altambakti"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Nasser"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Musab"
+        },
+        {
+          "n": 8,
+          "pos": "ATA",
+          "name": "Aiman"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Feras"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Salem Al-Dawsari"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Alshehri"
+        },
+        {
+          "n": 12,
+          "pos": "DEF",
+          "name": "Saud"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Nawaf"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Kadish"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Alkhaibari"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Ziyad"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Khalid"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Alhajji"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Alhamddan"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Mandash"
+        },
+        {
+          "n": 21,
+          "pos": "GOL",
+          "name": "Alowais"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Alkassar"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Mohamed Kanno"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Moteb"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Jehad"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Mohammed"
+        }
+      ]
     },
     "CPV": {
       "name": "Cabo Verde",
       "flag": "🇨🇻",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Pedro Bubista",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Vozinha"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Stopira"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Borges"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Lopes"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Logan Costa"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Kevin Lopes"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Jovane"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "João Paulo"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Benchimol"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Monteiro"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Rodrigues"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Márcio"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Lopes Cabral"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "D. Duarte"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Duarte"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Y. Semedo"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Semedo"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Arcanjo"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Livramento"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Ryan"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Da Costa"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Moreira"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Dos Santos"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Wagner P."
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Kelvin"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Hélio"
+        }
+      ]
     },
     "FRA": {
       "name": "Franca",
@@ -1495,158 +4588,132 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Samba",
-          "club": "Stade Rennais FC"
+          "name": "Brice Samba"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Gusto",
-          "club": "Chelsea FC"
+          "name": "Gusto"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Digne",
-          "club": "Aston Villa FC"
+          "name": "Lucas Digne"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Upamecano",
-          "club": "FC Bayern München"
+          "name": "Dayot Upamecano"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "Koundé",
-          "club": "FC Barcelona"
+          "name": "Jules Koundé"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "Koné",
-          "club": "AS Roma"
+          "name": "Manu Koné"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Dembélé",
-          "club": "Paris Saint-Germain"
+          "name": "Ousmane Dembélé"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Tchouaméni",
-          "club": "Real Madrid C.F."
+          "name": "Aurélien Tchouaméni"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Thuram",
-          "club": "FC Internazionale Milano"
+          "name": "Marcus Thuram"
         },
         {
           "n": 10,
           "pos": "ATA",
-          "name": "Mbappé",
-          "club": "Real Madrid C.F."
+          "name": "Kylian Mbappé"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Olise",
-          "club": "FC Bayern München"
+          "name": "Michael Olise"
         },
         {
           "n": 12,
           "pos": "ATA",
-          "name": "Barcola",
-          "club": "Paris Saint-Germain"
+          "name": "Bradley Barcola"
         },
         {
           "n": 13,
           "pos": "MEI",
-          "name": "Kanté",
-          "club": "Fenerbahçe SK"
+          "name": "N'Golo Kanté"
         },
         {
           "n": 14,
           "pos": "MEI",
-          "name": "Rabiot",
-          "club": "AC Milan"
+          "name": "Adrien Rabiot"
         },
         {
           "n": 15,
           "pos": "DEF",
-          "name": "Konate",
-          "club": "Liverpool FC"
+          "name": "Ibrahima Konaté"
         },
         {
           "n": 16,
           "pos": "GOL",
-          "name": "Maignan",
-          "club": "AC Milan"
+          "name": "Mike Maignan"
         },
         {
           "n": 17,
           "pos": "DEF",
-          "name": "Saliba",
-          "club": "Arsenal FC"
+          "name": "William Saliba"
         },
         {
           "n": 18,
           "pos": "MEI",
-          "name": "Zaïre-Emery",
-          "club": "Paris Saint-Germain"
+          "name": "Warren Zaïre-Emery"
         },
         {
           "n": 19,
           "pos": "DEF",
-          "name": "T. Hernandez",
-          "club": "Al Hilal SC"
+          "name": "T. Hernandez"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "Doué",
-          "club": "Paris Saint-Germain"
+          "name": "Désiré Doué"
         },
         {
           "n": 21,
           "pos": "DEF",
-          "name": "L. Hernandez",
-          "club": "Paris Saint-Germain"
+          "name": "Lucas Hernandez"
         },
         {
           "n": 22,
           "pos": "ATA",
-          "name": "Mateta",
-          "club": "Crystal Palace FC"
+          "name": "Mateta"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "Risser",
-          "club": "RC Lens"
+          "name": "Risser"
         },
         {
           "n": 24,
           "pos": "MEI",
-          "name": "Cherki",
-          "club": "Manchester City FC"
+          "name": "Rayan Cherki"
         },
         {
           "n": 25,
           "pos": "MEI",
-          "name": "Akliouche",
-          "club": "AS Monaco"
+          "name": "Akliouche"
         },
         {
           "n": 26,
           "pos": "DEF",
-          "name": "Lacroix",
-          "club": "Crystal Palace FC"
+          "name": "Lacroix"
         }
       ]
     },
@@ -1659,158 +4726,132 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Y. Diouf",
-          "club": "OGC Nice"
+          "name": "Y. Diouf"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Sarr",
-          "club": "Chelsea FC"
+          "name": "Ismail Sarr"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Koulibaly",
-          "club": "Al Hilal SC"
+          "name": "Kalidou Koulibaly"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Seck",
-          "club": "Maccabi Haifa"
+          "name": "Seck"
         },
         {
           "n": 5,
           "pos": "MEI",
-          "name": "Gana Gueye",
-          "club": "Everton FC"
+          "name": "Idrissa Gana Gueye"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "P.I. Ciss",
-          "club": "Rayo Vallecano"
+          "name": "P.I. Ciss"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Diao",
-          "club": "Como"
+          "name": "Lamine Camara"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Lamine Camara",
-          "club": "AS Monaco"
+          "name": "Lamine Camara"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "B. Dieng",
-          "club": "FC Lorient"
+          "name": "B. Dieng"
         },
         {
           "n": 10,
           "pos": "ATA",
-          "name": "Sadio Mané",
-          "club": "Al Nassr FC"
+          "name": "Sadio Mané"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Nicolas Jackson",
-          "club": "FC Bayern München"
+          "name": "Nicolas Jackson"
         },
         {
           "n": 12,
           "pos": "ATA",
-          "name": "Cherif",
-          "club": "Samsunspor"
+          "name": "Cherif"
         },
         {
           "n": 13,
           "pos": "ATA",
-          "name": "Ndiaye",
-          "club": "Everton FC"
+          "name": "Iliman Ndiaye"
         },
         {
           "n": 14,
           "pos": "DEF",
-          "name": "Jakobs",
-          "club": "Galatasaray SK"
+          "name": "Jakobs"
         },
         {
           "n": 15,
           "pos": "DEF",
-          "name": "Krépin Diatta",
-          "club": "AS Monaco"
+          "name": "Krépin Diatta"
         },
         {
           "n": 16,
           "pos": "GOL",
-          "name": "Mendy",
-          "club": "Al Ahli FC"
+          "name": "Édouard Mendy"
         },
         {
           "n": 17,
           "pos": "MEI",
-          "name": "P.M. Sarr",
-          "club": "Tottenham Hotspur"
+          "name": "P.M. Sarr"
         },
         {
           "n": 18,
           "pos": "ATA",
-          "name": "Ismaïla Sarr",
-          "club": "Crystal Palace FC"
+          "name": "Ismaïla Sarr"
         },
         {
           "n": 19,
           "pos": "DEF",
-          "name": "Niakhate",
-          "club": "Olympique Lyonnais"
+          "name": "Niakhate"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "Mbaye",
-          "club": "Paris Saint-Germain"
+          "name": "Mbaye"
         },
         {
           "n": 21,
           "pos": "MEI",
-          "name": "H. Diarra",
-          "club": "Sunderland AFC"
+          "name": "H. Diarra"
         },
         {
           "n": 22,
           "pos": "MEI",
-          "name": "Bara",
-          "club": "FC Bayern München"
+          "name": "Bara"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "Diaw",
-          "club": "Le Havre AC"
+          "name": "Diaw"
         },
         {
           "n": 24,
           "pos": "DEF",
-          "name": "A. Mendy",
-          "club": "OGC Nice"
+          "name": "A. Mendy"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Diouf",
-          "club": "West Ham United"
+          "name": "Diouf"
         },
         {
           "n": 26,
           "pos": "MEI",
-          "name": "Gueye",
-          "club": "Villarreal CF"
+          "name": "Gana Gueye"
         }
       ]
     },
@@ -1823,167 +4864,272 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Nyland",
-          "club": "Sevilla FC"
+          "name": "Ørjan Nyland"
         },
         {
           "n": 2,
           "pos": "MEI",
-          "name": "Thorsby",
-          "club": "US Cremonese"
+          "name": "Thorsby"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Ajer",
-          "club": "Brentford FC"
+          "name": "Kristoffer Ajer"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Østigård",
-          "club": "Genoa CFC"
+          "name": "Leo Østigård"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "Møller Wolfe",
-          "club": "Wolverhampton Wanderers"
+          "name": "Møller Wolfe"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "Berg",
-          "club": "FK Bodø/Glimt"
+          "name": "Berg"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Sørloth",
-          "club": "Atlético de Madrid"
+          "name": "Alexander Sørloth"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Berge",
-          "club": "Fulham FC"
+          "name": "Sander Berge"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Erling Haaland",
-          "club": "Manchester City"
+          "name": "Erling Haaland"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "Ødegaard",
-          "club": "Arsenal FC"
+          "name": "Martin Ødegaard"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Strand Larsen",
-          "club": "Crystal Palace FC"
+          "name": "Jørgen Strand Larsen"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "Tangvik",
-          "club": "Hamburger SV"
+          "name": "Tangvik"
         },
         {
           "n": 13,
           "pos": "GOL",
-          "name": "Selvik",
-          "club": "Watford FC"
+          "name": "Selvik"
         },
         {
           "n": 14,
           "pos": "MEI",
-          "name": "Aursnes",
-          "club": "SL Benfica"
+          "name": "Aursnes"
         },
         {
           "n": 15,
           "pos": "DEF",
-          "name": "Bjørkan",
-          "club": "FK Bodø/Glimt"
+          "name": "Bjørkan"
         },
         {
           "n": 16,
           "pos": "DEF",
-          "name": "Holmgren",
-          "club": "Torino FC"
+          "name": "Holmgren"
         },
         {
           "n": 17,
           "pos": "DEF",
-          "name": "Heggem",
-          "club": "Bologna FC"
+          "name": "Heggem"
         },
         {
           "n": 18,
           "pos": "MEI",
-          "name": "Thorstvedt",
-          "club": "US Sassuolo"
+          "name": "Thorstvedt"
         },
         {
           "n": 19,
           "pos": "MEI",
-          "name": "Aasgaard",
-          "club": "Rangers FC"
+          "name": "Aasgaard"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "Nusa",
-          "club": "RB Leipzig"
+          "name": "Antonio Nusa"
         },
         {
           "n": 21,
           "pos": "MEI",
-          "name": "Schjelderup",
-          "club": "SL Benfica"
+          "name": "Schjelderup"
         },
         {
           "n": 22,
           "pos": "MEI",
-          "name": "Bobb",
-          "club": "Fulham FC"
+          "name": "Oscar Bobb"
         },
         {
           "n": 23,
           "pos": "MEI",
-          "name": "Hauge",
-          "club": "FK Bodø/Glimt"
+          "name": "Hauge"
         },
         {
           "n": 24,
           "pos": "DEF",
-          "name": "Langås",
-          "club": "Derby County FC"
+          "name": "Langås"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Falchener",
-          "club": "Viking Stavanger"
+          "name": "Falchener"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "Ryerson",
-          "club": "Borussia Dortmund"
+          "name": "Ryerson"
         }
       ]
     },
     "IRQ": {
       "name": "Iraque",
       "flag": "🇮🇶",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Graham Arnold",
+      "formation": "4-1-4-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Fahad"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Rebin"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Hussein"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Zaid T."
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Akam"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Munaf"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Youssef"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Ibrahim"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Al-Hamadi"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Mohanad"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Ahmed Q."
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Jalal"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "Ali Y."
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Zach Iqbal"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Ahmed"
+        },
+        {
+          "n": 16,
+          "pos": "MEI",
+          "name": "Al-Ammari"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Ali J."
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Aymen"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "K. Yakob"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Aimar"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Marko"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Ahmed B."
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Doski"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Zaid I."
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Mustafa"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Frans"
+        }
+      ]
     },
     "ARG": {
       "name": "Argentina",
@@ -1994,181 +5140,548 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Musso",
-          "club": "Atlético de Madrid"
+          "name": "Juan Musso"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Balerdi",
-          "club": "Olympique Marseille"
+          "name": "Balerdi"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Tagliafico",
-          "club": "Olympique Lyonnais"
+          "name": "Nicolás Tagliafico"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Montiel",
-          "club": "CA River Plate"
+          "name": "Montiel"
         },
         {
           "n": 5,
           "pos": "MEI",
-          "name": "Paredes",
-          "club": "CA Boca Juniors"
+          "name": "Leandro Paredes"
         },
         {
           "n": 6,
           "pos": "DEF",
-          "name": "Martínez",
-          "club": "Manchester United"
+          "name": "Lisandro Martínez"
         },
         {
           "n": 7,
           "pos": "MEI",
-          "name": "De Paul",
-          "club": "Inter Miami CF"
+          "name": "Rodrigo De Paul"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Barco",
-          "club": "RC Strasbourg"
+          "name": "Barco"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Julián Álvarez",
-          "club": "Atlético de Madrid"
+          "name": "Julián Álvarez"
         },
         {
           "n": 10,
           "pos": "ATA",
-          "name": "Lionel Messi",
-          "club": "Inter Miami CF"
+          "name": "Lionel Messi"
         },
         {
           "n": 11,
           "pos": "MEI",
-          "name": "Lo Celso",
-          "club": "Real Betis"
+          "name": "Lo Celso"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "Rulli",
-          "club": "Olympique Marseille"
+          "name": "Germán Rulli"
         },
         {
           "n": 13,
           "pos": "DEF",
-          "name": "Romero",
-          "club": "Tottenham Hotspur"
+          "name": "Cristian Romero"
         },
         {
           "n": 14,
           "pos": "MEI",
-          "name": "Palacios",
-          "club": "Bayer Leverkusen"
+          "name": "Exequiel Palacios"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "N. González",
-          "club": "Atlético de Madrid"
+          "name": "Nicolás González"
         },
         {
           "n": 16,
           "pos": "ATA",
-          "name": "Almada",
-          "club": "Atlético de Madrid"
+          "name": "Almada"
         },
         {
           "n": 17,
           "pos": "ATA",
-          "name": "Simeone",
-          "club": "Atlético de Madrid"
+          "name": "Simeone"
         },
         {
           "n": 18,
           "pos": "ATA",
-          "name": "Nico Paz",
-          "club": "Como"
+          "name": "Nico Paz"
         },
         {
           "n": 19,
           "pos": "DEF",
-          "name": "Otamendi",
-          "club": "SL Benfica"
+          "name": "Nicolás Otamendi"
         },
         {
           "n": 20,
           "pos": "MEI",
-          "name": "Mac Allister",
-          "club": "Liverpool FC"
+          "name": "Alexis Mac Allister"
         },
         {
           "n": 21,
           "pos": "ATA",
-          "name": "López",
-          "club": "SE Palmeiras"
+          "name": "López"
         },
         {
           "n": 22,
           "pos": "ATA",
-          "name": "Lautaro Martínez",
-          "club": "FC Internazionale"
+          "name": "Lautaro Martínez"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "E. Martínez",
-          "club": "Aston Villa FC"
+          "name": "Emiliano Martínez"
         },
         {
           "n": 24,
           "pos": "MEI",
-          "name": "E. Fernández",
-          "club": "Chelsea FC"
+          "name": "Enzo Fernández"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Medina",
-          "club": "Olympique Marseille"
+          "name": "Medina"
         },
         {
           "n": 26,
           "pos": "DEF",
-          "name": "Molina",
-          "club": "Atlético de Madrid"
+          "name": "Nahuel Molina"
         }
       ]
     },
     "AUT": {
       "name": "Austria",
       "flag": "🇦🇹",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Ralf Rangnick",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Schlager"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Affengruber"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Kevin Danso"
+        },
+        {
+          "n": 4,
+          "pos": "MEI",
+          "name": "Florian Grillitsch"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Stefan Posch"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Nicolas Seiwald"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Marko Arnautovic"
+        },
+        {
+          "n": 8,
+          "pos": "DEF",
+          "name": "David Alaba"
+        },
+        {
+          "n": 9,
+          "pos": "MEI",
+          "name": "Marcel Sabitzer"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Grillitsch"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Gregoritsch"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Wiegele"
+        },
+        {
+          "n": 13,
+          "pos": "GOL",
+          "name": "Pentz"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Kalajdzic"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Lienhart"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Mwene"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Chukwuemeka"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Schmid"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Christoph Baumgartner"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Konrad Laimer"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Wimmer"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Prass"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Friedl"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Wanner"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Svoboda"
+        },
+        {
+          "n": 26,
+          "pos": "MEI",
+          "name": "Schöpf"
+        }
+      ]
     },
     "ALG": {
       "name": "Argelia",
       "flag": "🇩🇿",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Vladimir Petkovic",
+      "formation": "4-3-3",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Mastil"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Mandi"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Abada"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Tougai"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Belaid"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Zerrouki"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Riyad Mahrez"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Houssem Aouar"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Ghouri"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Chaibi"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Hadj Moussa"
+        },
+        {
+          "n": 12,
+          "pos": "ATA",
+          "name": "Benbouali"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Hadjam"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Boudaoui"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Rayan Aït-Nouri"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Benbot"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "Belghali"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Said Amoura"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Bentaleb"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Boulbina"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Bensebaini"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Maza"
+        },
+        {
+          "n": 23,
+          "pos": "GOL",
+          "name": "Zidane"
+        },
+        {
+          "n": 24,
+          "pos": "MEI",
+          "name": "Titraoui"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Ghedjemis"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Chergui"
+        }
+      ]
     },
     "JOR": {
       "name": "Jordania",
       "flag": "🇯🇴",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Jamal Sellami",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Yazeed"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Abu Hasheesh"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Nasib"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Abu Dhab"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Alarab"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Jamous"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Abu Zraiq"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Alrawabdeh"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Olwan"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Mousa Al-Taamari"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Odeh"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Bani Ateyah"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "Almardi"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Rajaei"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Sadeh"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Abulnadi"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "Salem"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Sabra"
+        },
+        {
+          "n": 19,
+          "pos": "DEF",
+          "name": "Saeed"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Abu Taha"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Nizar"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Alfakhori"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Ehsan"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Azaizeh"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Aldaoud"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Badawi"
+        }
+      ]
     },
     "POR": {
       "name": "Portugal",
@@ -2179,158 +5692,132 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Diogo Costa",
-          "club": "FC Porto"
+          "name": "Diogo Costa"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "N. Semedo",
-          "club": "Fenerbahçe SK"
+          "name": "Nélson Semedo"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Rúben Dias",
-          "club": "Manchester City FC"
+          "name": "Rúben Dias"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Tomás A.",
-          "club": "SL Benfica"
+          "name": "Tomás Araújo"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "Dalot",
-          "club": "Manchester United"
+          "name": "Diogo Dalot"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "Matheus Nunes",
-          "club": "Manchester City FC"
+          "name": "Matheus Nunes"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Ronaldo",
-          "club": "Al Nassr FC"
+          "name": "Cristiano Ronaldo"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Bruno Fernandes",
-          "club": "Manchester United"
+          "name": "Bruno Fernandes"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Gonçalo Ramos",
-          "club": "Paris Saint-Germain"
+          "name": "Gonçalo Ramos"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "Bernardo Silva",
-          "club": "Manchester City FC"
+          "name": "Bernardo Silva"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "João Félix",
-          "club": "Al Nassr FC"
+          "name": "João Félix"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "José Sá",
-          "club": "Wolverhampton Wanderers"
+          "name": "José Sá"
         },
         {
           "n": 13,
           "pos": "DEF",
-          "name": "Renato Veiga",
-          "club": "Villarreal CF"
+          "name": "Renato Veiga"
         },
         {
           "n": 14,
           "pos": "DEF",
-          "name": "G. Inácio",
-          "club": "Sporting CP"
+          "name": "Gonçalo Inácio"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "João Neves",
-          "club": "Paris Saint-Germain"
+          "name": "João Neves"
         },
         {
           "n": 16,
           "pos": "ATA",
-          "name": "Trincão",
-          "club": "Sporting CP"
+          "name": "Francisco Trincão"
         },
         {
           "n": 17,
           "pos": "ATA",
-          "name": "Rafa Leão",
-          "club": "AC Milan"
+          "name": "Rafael Leão"
         },
         {
           "n": 18,
           "pos": "ATA",
-          "name": "Neto",
-          "club": "Chelsea FC"
+          "name": "Neto"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "G. Guedes",
-          "club": "Real Sociedad"
+          "name": "Gonçalo Guedes"
         },
         {
           "n": 20,
           "pos": "DEF",
-          "name": "João Cancelo",
-          "club": "FC Barcelona"
+          "name": "João Cancelo"
         },
         {
           "n": 21,
           "pos": "MEI",
-          "name": "R. Neves",
-          "club": "Al Hilal SC"
+          "name": "Rúben Neves"
         },
         {
           "n": 22,
           "pos": "GOL",
-          "name": "Rui Silva",
-          "club": "Sporting CP"
+          "name": "Rui Silva"
         },
         {
           "n": 23,
           "pos": "MEI",
-          "name": "Vitinha",
-          "club": "Paris Saint-Germain"
+          "name": "Vitinha"
         },
         {
           "n": 24,
           "pos": "DEF",
-          "name": "Samu",
-          "club": "RCD Mallorca"
+          "name": "Samu"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "N. Mendes",
-          "club": "Paris Saint-Germain"
+          "name": "Nuno Mendes"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "F. Conceição",
-          "club": "Juventus FC"
+          "name": "Francisco Conceição"
         }
       ]
     },
@@ -2343,174 +5830,410 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Ospina",
-          "club": "Atlético Nacional"
+          "name": "David Ospina"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "D. Muñoz",
-          "club": "Crystal Palace FC"
+          "name": "Daniel Muñoz"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "J. Lucumí",
-          "club": "Bologna FC"
+          "name": "Jhon Lucumí"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Arias",
-          "club": "CA Independiente"
+          "name": "Arias"
         },
         {
           "n": 5,
           "pos": "MEI",
-          "name": "K. Castaño",
-          "club": "CA River Plate"
+          "name": "Kelvin Castaño"
         },
         {
           "n": 6,
           "pos": "MEI",
-          "name": "Richard Rios",
-          "club": "SL Benfica"
+          "name": "Richard Rios"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Luis Díaz",
-          "club": "FC Bayern München"
+          "name": "Luis Díaz"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Carrascal",
-          "club": "CR Flamengo"
+          "name": "Jorge Carrascal"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Córdoba",
-          "club": "FC Krasnodar"
+          "name": "Córdoba"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "James Rodríguez",
-          "club": "Minnesota United FC"
+          "name": "James Rodríguez"
         },
         {
           "n": 11,
           "pos": "MEI",
-          "name": "J. Arias",
-          "club": "SE Palmeiras"
+          "name": "Johan Arias"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "C. Vargas",
-          "club": "Atlas FC"
+          "name": "C. Vargas"
         },
         {
           "n": 13,
           "pos": "DEF",
-          "name": "Y. Mina",
-          "club": "Cagliari"
+          "name": "Yerry Mina"
         },
         {
           "n": 14,
           "pos": "DEF",
-          "name": "Puerta",
-          "club": "Racing Santander"
+          "name": "Puerta"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "Portilla",
-          "club": "Athletico Paranaense"
+          "name": "Portilla"
         },
         {
           "n": 16,
           "pos": "MEI",
-          "name": "J. Lerma",
-          "club": "Crystal Palace FC"
+          "name": "Jefferson Lerma"
         },
         {
           "n": 17,
           "pos": "DEF",
-          "name": "J. Mojica",
-          "club": "RCD Mallorca"
+          "name": "Johan Mojica"
         },
         {
           "n": 18,
           "pos": "DEF",
-          "name": "W. Ditta",
-          "club": "CF Cruz Azul"
+          "name": "W. Ditta"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "C. Hernandez",
-          "club": "Real Betis"
+          "name": "C. Hernandez"
         },
         {
           "n": 20,
           "pos": "MEI",
-          "name": "Quintero",
-          "club": "CA River Plate"
+          "name": "Juan Quintero"
         },
         {
           "n": 21,
           "pos": "ATA",
-          "name": "Campaz",
-          "club": "CA Rosario Central"
+          "name": "Jhon Arias"
         },
         {
           "n": 22,
           "pos": "DEF",
-          "name": "Machado",
-          "club": "FC Nantes"
+          "name": "Machado"
         },
         {
           "n": 23,
           "pos": "DEF",
-          "name": "Sanchez",
-          "club": "Galatasaray SK"
+          "name": "Davinson Sánchez"
         },
         {
           "n": 24,
           "pos": "GOL",
-          "name": "Montero",
-          "club": "CA Vélez Sarsfield"
+          "name": "Montero"
         },
         {
           "n": 25,
           "pos": "ATA",
-          "name": "Suárez",
-          "club": "Sporting CP"
+          "name": "Luis Suárez"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "A. Gómez",
-          "club": "CR Vasco da Gama"
+          "name": "A. Gómez"
         }
       ]
     },
     "UZB": {
       "name": "Uzbequistao",
       "flag": "🇺🇿",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Fabio Cannavaro",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Yusupov"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Abdukodir Khusanov"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Alijonov"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Sayfiev"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Ashurmatov"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Mozgovoy"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Shukurov"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Iskanderov"
+        },
+        {
+          "n": 9,
+          "pos": "MEI",
+          "name": "Xamrobekov"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Jaloliddin Masharipov"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Urunov"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Nematov"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Nasrullaev"
+        },
+        {
+          "n": 14,
+          "pos": "ATA",
+          "name": "Eldor Shomurodov"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Eshmurodov"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Ergashev"
+        },
+        {
+          "n": 17,
+          "pos": "MEI",
+          "name": "Khamdamov"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Abdullaev"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Ganiev"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Amonov"
+        },
+        {
+          "n": 21,
+          "pos": "ATA",
+          "name": "Sergeev"
+        },
+        {
+          "n": 22,
+          "pos": "MEI",
+          "name": "Fayzullaev"
+        },
+        {
+          "n": 23,
+          "pos": "MEI",
+          "name": "Esanov"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "Karimov"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Ulmasaliyev"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Urozov"
+        }
+      ]
     },
     "COD": {
       "name": "RD Congo",
       "flag": "🇨🇩",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Sébastien Desabre",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Mpasi"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Aaron Wan-Bissaka"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Kapuadi"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Axel Tuanzebe"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Batubinsika"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Mukau"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "Mbuku"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Moutoussamy"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Cipenga"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Bongonda"
+        },
+        {
+          "n": 11,
+          "pos": "ATA",
+          "name": "Gael Kakuta"
+        },
+        {
+          "n": 12,
+          "pos": "DEF",
+          "name": "J. Kayembe"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "Elia"
+        },
+        {
+          "n": 14,
+          "pos": "MEI",
+          "name": "Sadiki"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Tshibola"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Fayulu"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "Cédric Bakambu"
+        },
+        {
+          "n": 18,
+          "pos": "MEI",
+          "name": "Pickel"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Mayele"
+        },
+        {
+          "n": 20,
+          "pos": "ATA",
+          "name": "Yoane Wissa"
+        },
+        {
+          "n": 21,
+          "pos": "GOL",
+          "name": "Epolo"
+        },
+        {
+          "n": 22,
+          "pos": "DEF",
+          "name": "Chancel Mbemba"
+        },
+        {
+          "n": 23,
+          "pos": "ATA",
+          "name": "Banza"
+        },
+        {
+          "n": 24,
+          "pos": "DEF",
+          "name": "G. Kalulu"
+        },
+        {
+          "n": 25,
+          "pos": "MEI",
+          "name": "Kayembe"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Arthur Masuaku"
+        }
+      ]
     },
     "ENG": {
       "name": "Inglaterra",
@@ -2521,158 +6244,132 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Pickford",
-          "club": "Everton FC"
+          "name": "Jordan Pickford"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Konsa",
-          "club": "Aston Villa FC"
+          "name": "Konsa"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "O'Reilly",
-          "club": "Manchester City FC"
+          "name": "O'Reilly"
         },
         {
           "n": 4,
           "pos": "MEI",
-          "name": "Rice",
-          "club": "Arsenal FC"
+          "name": "Declan Rice"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "Stones",
-          "club": "Manchester City FC"
+          "name": "John Stones"
         },
         {
           "n": 6,
           "pos": "DEF",
-          "name": "Guehi",
-          "club": "Manchester City FC"
+          "name": "Marc Guéhi"
         },
         {
           "n": 7,
           "pos": "ATA",
-          "name": "Saka",
-          "club": "Arsenal FC"
+          "name": "Bukayo Saka"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Anderson",
-          "club": "Nottingham Forest FC"
+          "name": "Anderson"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Kane",
-          "club": "FC Bayern München"
+          "name": "Harry Kane"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "Bellingham",
-          "club": "Real Madrid C.F."
+          "name": "Jude Bellingham"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Rashford",
-          "club": "FC Barcelona"
+          "name": "Marcus Rashford"
         },
         {
           "n": 12,
           "pos": "DEF",
-          "name": "Livramento",
-          "club": "Newcastle United"
+          "name": "Livramento"
         },
         {
           "n": 13,
           "pos": "GOL",
-          "name": "D. Henderson",
-          "club": "Crystal Palace FC"
+          "name": "D. Henderson"
         },
         {
           "n": 14,
           "pos": "MEI",
-          "name": "J. Henderson",
-          "club": "Brentford FC"
+          "name": "Jordan Henderson"
         },
         {
           "n": 15,
           "pos": "DEF",
-          "name": "Burn",
-          "club": "Newcastle United"
+          "name": "Burn"
         },
         {
           "n": 16,
           "pos": "MEI",
-          "name": "Mainoo",
-          "club": "Manchester United"
+          "name": "Kobbie Mainoo"
         },
         {
           "n": 17,
           "pos": "MEI",
-          "name": "Rogers",
-          "club": "Aston Villa FC"
+          "name": "Rogers"
         },
         {
           "n": 18,
           "pos": "ATA",
-          "name": "Gordon",
-          "club": "Newcastle United"
+          "name": "Anthony Gordon"
         },
         {
           "n": 19,
           "pos": "ATA",
-          "name": "Watkins",
-          "club": "Aston Villa FC"
+          "name": "Ollie Watkins"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "Madueke",
-          "club": "Arsenal FC"
+          "name": "Noni Madueke"
         },
         {
           "n": 21,
           "pos": "MEI",
-          "name": "Eze",
-          "club": "Arsenal FC"
+          "name": "Eberechi Eze"
         },
         {
           "n": 22,
           "pos": "ATA",
-          "name": "Toney",
-          "club": "Al Ahli FC"
+          "name": "Ivan Toney"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "Trafford",
-          "club": "Manchester City FC"
+          "name": "James Trafford"
         },
         {
           "n": 24,
           "pos": "DEF",
-          "name": "James",
-          "club": "Chelsea FC"
+          "name": "Reece James"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Spence",
-          "club": "Tottenham Hotspur"
+          "name": "Spence"
         },
         {
           "n": 26,
           "pos": "DEF",
-          "name": "Quansah",
-          "club": "Bayer Leverkusen"
+          "name": "Quansah"
         }
       ]
     },
@@ -2685,174 +6382,410 @@
         {
           "n": 1,
           "pos": "GOL",
-          "name": "Livaković",
-          "club": "GNK Dinamo Zagreb"
+          "name": "Dominik Livaković"
         },
         {
           "n": 2,
           "pos": "DEF",
-          "name": "Staniši",
-          "club": "FC Bayern München"
+          "name": "Josip Stanišić"
         },
         {
           "n": 3,
           "pos": "DEF",
-          "name": "Pongračić",
-          "club": "ACF Fiorentina"
+          "name": "Pongračić"
         },
         {
           "n": 4,
           "pos": "DEF",
-          "name": "Gvardiol",
-          "club": "Manchester City FC"
+          "name": "Joško Gvardiol"
         },
         {
           "n": 5,
           "pos": "DEF",
-          "name": "Čaleta-Car",
-          "club": "Real Sociedad"
+          "name": "Duje Čaleta-Car"
         },
         {
           "n": 6,
           "pos": "DEF",
-          "name": "Šutalo",
-          "club": "AFC Ajax"
+          "name": "Šutalo"
         },
         {
           "n": 7,
           "pos": "MEI",
-          "name": "Moro",
-          "club": "Bologna FC"
+          "name": "Moro"
         },
         {
           "n": 8,
           "pos": "MEI",
-          "name": "Kovačić",
-          "club": "Manchester City FC"
+          "name": "Mateo Kovačić"
         },
         {
           "n": 9,
           "pos": "ATA",
-          "name": "Kramarić",
-          "club": "TSG Hoffenheim"
+          "name": "Kramarić"
         },
         {
           "n": 10,
           "pos": "MEI",
-          "name": "Modrić",
-          "club": "AC Milan"
+          "name": "Luka Modrić"
         },
         {
           "n": 11,
           "pos": "ATA",
-          "name": "Budimir",
-          "club": "CA Osasuna"
+          "name": "Budimir"
         },
         {
           "n": 12,
           "pos": "GOL",
-          "name": "Pandur",
-          "club": "Hull City FC"
+          "name": "Pandur"
         },
         {
           "n": 13,
           "pos": "MEI",
-          "name": "Vlašić",
-          "club": "Torino FC"
+          "name": "Nikola Vlašić"
         },
         {
           "n": 14,
           "pos": "ATA",
-          "name": "Perišić",
-          "club": "PSV Eindhoven"
+          "name": "Ivan Perišić"
         },
         {
           "n": 15,
           "pos": "MEI",
-          "name": "Pašalić",
-          "club": "Atalanta Bergamo"
+          "name": "Mario Pašalić"
         },
         {
           "n": 16,
           "pos": "MEI",
-          "name": "Baturina",
-          "club": "Como"
+          "name": "Baturina"
         },
         {
           "n": 17,
           "pos": "MEI",
-          "name": "P. Sučić",
-          "club": "FC Internazionale"
+          "name": "Petar Sučić"
         },
         {
           "n": 18,
           "pos": "DEF",
-          "name": "Jakić",
-          "club": "FC Augsburg"
+          "name": "Jakić"
         },
         {
           "n": 19,
           "pos": "MEI",
-          "name": "Fruk",
-          "club": "HNK Rijeka"
+          "name": "Fruk"
         },
         {
           "n": 20,
           "pos": "ATA",
-          "name": "Matanovć",
-          "club": "SC Freiburg"
+          "name": "Matanović"
         },
         {
           "n": 21,
           "pos": "MEI",
-          "name": "Sučić",
-          "club": "Real Sociedad"
+          "name": "Luka Sučić"
         },
         {
           "n": 22,
           "pos": "DEF",
-          "name": "Vušković",
-          "club": "Hamburger SV"
+          "name": "Vušković"
         },
         {
           "n": 23,
           "pos": "GOL",
-          "name": "Kotarski",
-          "club": "FC København"
+          "name": "Kotarski"
         },
         {
           "n": 24,
           "pos": "ATA",
-          "name": "M. Pašalić",
-          "club": "Orlando City SC"
+          "name": "M. Pašalić"
         },
         {
           "n": 25,
           "pos": "DEF",
-          "name": "Erlić",
-          "club": "FC Midtjylland"
+          "name": "Erlić"
         },
         {
           "n": 26,
           "pos": "ATA",
-          "name": "Musa",
-          "club": "FC Dallas"
+          "name": "Musa"
         }
       ]
     },
     "PAN": {
       "name": "Panama",
       "flag": "🇵🇦",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Thomas Christiansen",
+      "formation": "4-4-2",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Mejía"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Blackman"
+        },
+        {
+          "n": 3,
+          "pos": "DEF",
+          "name": "Cordoba"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "F. Escobar"
+        },
+        {
+          "n": 5,
+          "pos": "DEF",
+          "name": "Fariña"
+        },
+        {
+          "n": 6,
+          "pos": "MEI",
+          "name": "Martínez"
+        },
+        {
+          "n": 7,
+          "pos": "MEI",
+          "name": "J.L. Rodríguez"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Carrasquilla"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "T. Rodríguez"
+        },
+        {
+          "n": 10,
+          "pos": "MEI",
+          "name": "Ismael"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Bárcenas"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Samudio"
+        },
+        {
+          "n": 13,
+          "pos": "DEF",
+          "name": "Ramos"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Harvey"
+        },
+        {
+          "n": 15,
+          "pos": "DEF",
+          "name": "Davis"
+        },
+        {
+          "n": 16,
+          "pos": "DEF",
+          "name": "Andrade"
+        },
+        {
+          "n": 17,
+          "pos": "ATA",
+          "name": "José Fajardo"
+        },
+        {
+          "n": 18,
+          "pos": "ATA",
+          "name": "Waterman"
+        },
+        {
+          "n": 19,
+          "pos": "MEI",
+          "name": "Quintero"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Godoy"
+        },
+        {
+          "n": 21,
+          "pos": "MEI",
+          "name": "Yanis"
+        },
+        {
+          "n": 22,
+          "pos": "GOL",
+          "name": "Mosquera"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Andrés Murillo"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Londono"
+        },
+        {
+          "n": 25,
+          "pos": "DEF",
+          "name": "Miller"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Gutiérrez"
+        }
+      ]
     },
     "GHA": {
       "name": "Gana",
       "flag": "🇬🇭",
-      "coach": "",
-      "formation": "",
-      "squad": []
+      "coach": "Carlos Queiroz",
+      "formation": "4-2-3-1",
+      "squad": [
+        {
+          "n": 1,
+          "pos": "GOL",
+          "name": "Lawrence Ati-Zigi"
+        },
+        {
+          "n": 2,
+          "pos": "DEF",
+          "name": "Seidu"
+        },
+        {
+          "n": 3,
+          "pos": "MEI",
+          "name": "Caleb"
+        },
+        {
+          "n": 4,
+          "pos": "DEF",
+          "name": "Adjetey"
+        },
+        {
+          "n": 5,
+          "pos": "MEI",
+          "name": "Thomas Partey"
+        },
+        {
+          "n": 6,
+          "pos": "DEF",
+          "name": "Suleman"
+        },
+        {
+          "n": 7,
+          "pos": "ATA",
+          "name": "Fatawu Issahaku"
+        },
+        {
+          "n": 8,
+          "pos": "MEI",
+          "name": "Sibo"
+        },
+        {
+          "n": 9,
+          "pos": "ATA",
+          "name": "Jordan Ayew"
+        },
+        {
+          "n": 10,
+          "pos": "ATA",
+          "name": "Asante"
+        },
+        {
+          "n": 11,
+          "pos": "MEI",
+          "name": "Antoine Semenyo"
+        },
+        {
+          "n": 12,
+          "pos": "GOL",
+          "name": "Anang"
+        },
+        {
+          "n": 13,
+          "pos": "ATA",
+          "name": "Baah"
+        },
+        {
+          "n": 14,
+          "pos": "DEF",
+          "name": "Mensah"
+        },
+        {
+          "n": 15,
+          "pos": "MEI",
+          "name": "Owusu"
+        },
+        {
+          "n": 16,
+          "pos": "GOL",
+          "name": "Asare"
+        },
+        {
+          "n": 17,
+          "pos": "DEF",
+          "name": "Abdul Baba Rahman"
+        },
+        {
+          "n": 18,
+          "pos": "DEF",
+          "name": "Opoku"
+        },
+        {
+          "n": 19,
+          "pos": "ATA",
+          "name": "Iñaki Williams"
+        },
+        {
+          "n": 20,
+          "pos": "MEI",
+          "name": "Boakye"
+        },
+        {
+          "n": 21,
+          "pos": "DEF",
+          "name": "Peprah"
+        },
+        {
+          "n": 22,
+          "pos": "ATA",
+          "name": "Kamaldeen Sulemana"
+        },
+        {
+          "n": 23,
+          "pos": "DEF",
+          "name": "Luckassen"
+        },
+        {
+          "n": 24,
+          "pos": "ATA",
+          "name": "Ernest Nuamah"
+        },
+        {
+          "n": 25,
+          "pos": "ATA",
+          "name": "Adu"
+        },
+        {
+          "n": 26,
+          "pos": "DEF",
+          "name": "Seneya"
+        }
+      ]
     }
   },
   "matches": [
