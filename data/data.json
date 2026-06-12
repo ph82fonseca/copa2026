@@ -7798,6 +7798,17 @@
       "fact": "A grande final da Copa do Mundo FIFA 2026 no MetLife Stadium, em East Rutherford, Nova Jersey — o mesmo estádio que abrigou o Brasil de Ancelotti em seu primeiro jogo do torneio. Mais de 82 mil pessoas vão assistir ao jogo mais assistido do planeta. Um capítulo definitivo da Copa mais inclusiva da história."
     }
   ],
-  "results": {},
+  "results": {
+    "1": {
+      "home": 2,
+      "away": 0,
+      "winner": "MEX"
+    },
+    "2": {
+      "home": 2,
+      "away": 1,
+      "winner": "KOR"
+    }
+  },
   "thirds": {}
 }
