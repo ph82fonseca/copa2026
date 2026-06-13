@@ -7808,6 +7808,10 @@
       "home": 2,
       "away": 1,
       "winner": "KOR"
+    },
+    "7": {
+      "home": 1,
+      "away": 1
     }
   },
   "thirds": {}
