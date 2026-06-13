@@ -7812,6 +7812,11 @@
     "7": {
       "home": 1,
       "away": 1
+    },
+    "19": {
+      "home": 4,
+      "away": 1,
+      "winner": "USA"
     }
   },
   "thirds": {}
