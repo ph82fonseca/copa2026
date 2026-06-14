@@ -7830,6 +7830,11 @@
       "home": 0,
       "away": 1,
       "winner": "SCO"
+    },
+    "20": {
+      "home": 2,
+      "away": 0,
+      "winner": "AUS"
     }
   },
   "thirds": {}
