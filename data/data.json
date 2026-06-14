@@ -7835,6 +7835,11 @@
       "home": 2,
       "away": 0,
       "winner": "AUS"
+    },
+    "25": {
+      "home": 7,
+      "away": 1,
+      "winner": "GER"
     }
   },
   "thirds": {}
