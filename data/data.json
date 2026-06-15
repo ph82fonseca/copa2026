@@ -7840,6 +7840,20 @@
       "home": 7,
       "away": 1,
       "winner": "GER"
+    },
+    "26": {
+      "home": 1,
+      "away": 0,
+      "winner": "CIV"
+    },
+    "31": {
+      "home": 2,
+      "away": 2
+    },
+    "32": {
+      "home": 5,
+      "away": 1,
+      "winner": "SWE"
     }
   },
   "thirds": {}
