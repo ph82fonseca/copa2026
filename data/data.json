@@ -7854,6 +7854,14 @@
       "home": 5,
       "away": 1,
       "winner": "SWE"
+    },
+    "37": {
+      "home": 1,
+      "away": 1
+    },
+    "43": {
+      "home": 0,
+      "away": 0
     }
   },
   "thirds": {}
