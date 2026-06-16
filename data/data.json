@@ -7870,6 +7870,11 @@
     "44": {
       "home": 1,
       "away": 1
+    },
+    "49": {
+      "home": 3,
+      "away": 1,
+      "winner": "FRA"
     }
   },
   "thirds": {}
