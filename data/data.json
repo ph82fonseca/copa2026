@@ -7875,6 +7875,21 @@
       "home": 3,
       "away": 1,
       "winner": "FRA"
+    },
+    "50": {
+      "home": 1,
+      "away": 4,
+      "winner": "NOR"
+    },
+    "55": {
+      "home": 3,
+      "away": 0,
+      "winner": "ARG"
+    },
+    "56": {
+      "home": 3,
+      "away": 1,
+      "winner": "AUT"
     }
   },
   "thirds": {}
