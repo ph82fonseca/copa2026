@@ -7928,6 +7928,11 @@
       "home": 6,
       "away": 0,
       "winner": "CAN"
+    },
+    "21": {
+      "home": 2,
+      "away": 0,
+      "winner": "USA"
     }
   },
   "thirds": {}
