@@ -7967,6 +7967,15 @@
       "home": 0,
       "away": 4,
       "winner": "JPN"
+    },
+    "39": {
+      "home": 0,
+      "away": 0
+    },
+    "45": {
+      "home": 4,
+      "away": 0,
+      "winner": "ESP"
     }
   },
   "thirds": {}
