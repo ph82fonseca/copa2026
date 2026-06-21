@@ -7953,6 +7953,20 @@
       "home": 5,
       "away": 1,
       "winner": "NED"
+    },
+    "27": {
+      "home": 2,
+      "away": 1,
+      "winner": "GER"
+    },
+    "28": {
+      "home": 0,
+      "away": 0
+    },
+    "34": {
+      "home": 0,
+      "away": 4,
+      "winner": "JPN"
     }
   },
   "thirds": {}
