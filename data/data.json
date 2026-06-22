@@ -7985,6 +7985,11 @@
     "46": {
       "home": 2,
       "away": 2
+    },
+    "57": {
+      "home": 2,
+      "away": 0,
+      "winner": "ARG"
     }
   },
   "thirds": {}
