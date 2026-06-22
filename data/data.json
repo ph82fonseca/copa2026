@@ -7976,6 +7976,15 @@
       "home": 4,
       "away": 0,
       "winner": "ESP"
+    },
+    "40": {
+      "home": 1,
+      "away": 3,
+      "winner": "EGY"
+    },
+    "46": {
+      "home": 2,
+      "away": 2
     }
   },
   "thirds": {}
