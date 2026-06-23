@@ -7990,6 +7990,21 @@
       "home": 2,
       "away": 0,
       "winner": "ARG"
+    },
+    "51": {
+      "home": 3,
+      "away": 0,
+      "winner": "FRA"
+    },
+    "52": {
+      "home": 3,
+      "away": 2,
+      "winner": "NOR"
+    },
+    "58": {
+      "home": 1,
+      "away": 2,
+      "winner": "ALG"
     }
   },
   "thirds": {}
