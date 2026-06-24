@@ -8014,6 +8014,16 @@
     "69": {
       "home": 0,
       "away": 0
+    },
+    "64": {
+      "home": 1,
+      "away": 0,
+      "winner": "COL"
+    },
+    "70": {
+      "home": 0,
+      "away": 1,
+      "winner": "CRO"
     }
   },
   "thirds": {}
