@@ -8034,6 +8034,26 @@
       "home": 3,
       "away": 1,
       "winner": "BIH"
+    },
+    "5": {
+      "home": 0,
+      "away": 3,
+      "winner": "MEX"
+    },
+    "6": {
+      "home": 1,
+      "away": 0,
+      "winner": "RSA"
+    },
+    "17": {
+      "home": 0,
+      "away": 3,
+      "winner": "BRA"
+    },
+    "18": {
+      "home": 4,
+      "away": 2,
+      "winner": "MAR"
     }
   },
   "thirds": {}
