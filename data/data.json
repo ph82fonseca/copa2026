@@ -8082,6 +8082,16 @@
       "home": 1,
       "away": 3,
       "winner": "NED"
+    },
+    "53": {
+      "home": 1,
+      "away": 4,
+      "winner": "FRA"
+    },
+    "54": {
+      "home": 5,
+      "away": 0,
+      "winner": "SEN"
     }
   },
   "thirds": {}
