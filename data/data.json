@@ -8064,6 +8064,24 @@
       "home": 2,
       "away": 1,
       "winner": "ECU"
+    },
+    "23": {
+      "home": 3,
+      "away": 2,
+      "winner": "TUR"
+    },
+    "24": {
+      "home": 0,
+      "away": 0
+    },
+    "35": {
+      "home": 1,
+      "away": 1
+    },
+    "36": {
+      "home": 1,
+      "away": 3,
+      "winner": "NED"
     }
   },
   "thirds": {}
