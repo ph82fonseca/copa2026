@@ -8092,6 +8092,24 @@
       "home": 5,
       "away": 0,
       "winner": "SEN"
+    },
+    "41": {
+      "home": 1,
+      "away": 1
+    },
+    "42": {
+      "home": 1,
+      "away": 5,
+      "winner": "BEL"
+    },
+    "47": {
+      "home": 0,
+      "away": 0
+    },
+    "48": {
+      "home": 0,
+      "away": 1,
+      "winner": "ESP"
     }
   },
   "thirds": {}
