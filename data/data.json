@@ -8110,7 +8110,43 @@
       "home": 0,
       "away": 1,
       "winner": "ESP"
+    },
+    "60": {
+      "home": 3,
+      "away": 3
+    },
+    "59": {
+      "home": 1,
+      "away": 3,
+      "winner": "ARG"
+    },
+    "65": {
+      "home": 0,
+      "away": 0
+    },
+    "66": {
+      "home": 3,
+      "away": 1,
+      "winner": "COD"
+    },
+    "71": {
+      "home": 0,
+      "away": 2,
+      "winner": "ENG"
+    },
+    "72": {
+      "home": 2,
+      "away": 1,
+      "winner": "CRO"
     }
   },
-  "thirds": {}
+  "thirds": {
+    "T_ABCDF": "BIH",
+    "T_CDFGH": "PAR",
+    "T_CEFHI": "ECU",
+    "T_EHIJK": "SEN",
+    "T_BEFIJ": "SWE",
+    "T_AEHIJ": "ALG",
+    "T_DEIJL": "GHA"
+  }
 }

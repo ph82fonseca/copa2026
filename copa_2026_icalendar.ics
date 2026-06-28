@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:fifa2026-match-1@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 SUMMARY:🇲🇽 MEX x 🇿🇦 RSA — Fase de Grupos - Grupo A
@@ -48,8 +48,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-2@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:🇰🇷 KOR x 🇨🇿 CZE — Fase de Grupos - Grupo A
@@ -84,8 +84,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-3@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 SUMMARY:🇨🇿 CZE x 🇿🇦 RSA — Fase de Grupos - Grupo A
@@ -120,8 +120,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-4@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 SUMMARY:🇲🇽 MEX x 🇰🇷 KOR — Fase de Grupos - Grupo A
@@ -158,8 +158,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-5@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇨🇿 CZE x 🇲🇽 MEX — Fase de Grupos - Grupo A
@@ -194,8 +194,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-6@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 SUMMARY:🇿🇦 RSA x 🇰🇷 KOR — Fase de Grupos - Grupo A
@@ -229,8 +229,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-7@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 SUMMARY:🇨🇦 CAN x 🇧🇦 BIH — Fase de Grupos - Grupo B
@@ -266,8 +266,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-8@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:🇶🇦 QAT x 🇨🇭 SUI — Fase de Grupos - Grupo B
@@ -301,8 +301,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-9@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 SUMMARY:🇨🇭 SUI x 🇧🇦 BIH — Fase de Grupos - Grupo B
@@ -337,8 +337,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-10@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 SUMMARY:🇨🇦 CAN x 🇶🇦 QAT — Fase de Grupos - Grupo B
@@ -372,8 +372,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-11@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇨🇭 SUI x 🇨🇦 CAN — Fase de Grupos - Grupo B
@@ -407,8 +407,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-12@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 SUMMARY:🇧🇦 BIH x 🇶🇦 QAT — Fase de Grupos - Grupo B
@@ -443,8 +443,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-13@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:🇧🇷 BRA x 🇲🇦 MAR — Fase de Grupos - Grupo C
@@ -482,8 +482,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-14@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:🇭🇹 HAI x 🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCO — Fase de Grupo
@@ -520,8 +520,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-15@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCO x 🇲🇦 MAR — Fase de Grupo
@@ -558,8 +558,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-16@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 SUMMARY:🇧🇷 BRA x 🇭🇹 HAI — Fase de Grupos - Grupo C
@@ -595,8 +595,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-17@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 SCO x 🇧🇷 BRA — Fase de Grupo
@@ -633,8 +633,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-18@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 SUMMARY:🇲🇦 MAR x 🇭🇹 HAI — Fase de Grupos - Grupo C
@@ -669,8 +669,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-19@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 SUMMARY:🇺🇸 USA x 🇵🇾 PAR — Fase de Grupos - Grupo D
@@ -706,8 +706,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-20@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 SUMMARY:🇦🇺 AUS x 🇹🇷 TUR — Fase de Grupos - Grupo D
@@ -743,8 +743,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-21@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 SUMMARY:🇺🇸 USA x 🇦🇺 AUS — Fase de Grupos - Grupo D
@@ -779,8 +779,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-22@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 SUMMARY:🇹🇷 TUR x 🇵🇾 PAR — Fase de Grupos - Grupo D
@@ -816,8 +816,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-23@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇹🇷 TUR x 🇺🇸 USA — Fase de Grupos - Grupo D
@@ -854,8 +854,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-24@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 SUMMARY:🇵🇾 PAR x 🇦🇺 AUS — Fase de Grupos - Grupo D
@@ -890,8 +890,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-25@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:🇩🇪 GER x 🇨🇼 CUW — Fase de Grupos - Grupo E
@@ -927,8 +927,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-26@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 SUMMARY:🇨🇮 CIV x 🇪🇨 ECU — Fase de Grupos - Grupo E
@@ -963,8 +963,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-27@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 SUMMARY:🇩🇪 GER x 🇨🇮 CIV — Fase de Grupos - Grupo E
@@ -999,8 +999,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-28@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 SUMMARY:🇪🇨 ECU x 🇨🇼 CUW — Fase de Grupos - Grupo E
@@ -1034,8 +1034,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-29@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇨🇼 CUW x 🇨🇮 CIV — Fase de Grupos - Grupo E
@@ -1070,8 +1070,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-30@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 SUMMARY:🇪🇨 ECU x 🇩🇪 GER — Fase de Grupos - Grupo E
@@ -1107,8 +1107,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-31@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:🇳🇱 NED x 🇯🇵 JPN — Fase de Grupos - Grupo F
@@ -1145,8 +1145,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-32@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 SUMMARY:🇸🇪 SWE x 🇹🇳 TUN — Fase de Grupos - Grupo F
@@ -1181,8 +1181,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-33@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 SUMMARY:🇳🇱 NED x 🇸🇪 SWE — Fase de Grupos - Grupo F
@@ -1217,8 +1217,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-34@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 SUMMARY:🇹🇳 TUN x 🇯🇵 JPN — Fase de Grupos - Grupo F
@@ -1253,8 +1253,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-35@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇯🇵 JPN x 🇸🇪 SWE — Fase de Grupos - Grupo F
@@ -1288,8 +1288,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-36@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 SUMMARY:🇹🇳 TUN x 🇳🇱 NED — Fase de Grupos - Grupo F
@@ -1324,8 +1324,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-37@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:🇧🇪 BEL x 🇪🇬 EGY — Fase de Grupos - Grupo G
@@ -1362,8 +1362,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-38@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 SUMMARY:🇮🇷 IRN x 🇳🇿 NZL — Fase de Grupos - Grupo G
@@ -1397,8 +1397,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-39@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 SUMMARY:🇧🇪 BEL x 🇮🇷 IRN — Fase de Grupos - Grupo G
@@ -1434,8 +1434,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-40@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 SUMMARY:🇳🇿 NZL x 🇪🇬 EGY — Fase de Grupos - Grupo G
@@ -1469,8 +1469,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-41@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇪🇬 EGY x 🇮🇷 IRN — Fase de Grupos - Grupo G
@@ -1504,8 +1504,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-42@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 SUMMARY:🇳🇿 NZL x 🇧🇪 BEL — Fase de Grupos - Grupo G
@@ -1540,8 +1540,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-43@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:🇪🇸 ESP x 🇨🇻 CPV — Fase de Grupos - Grupo H
@@ -1578,8 +1578,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-44@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 SUMMARY:🇸🇦 KSA x 🇺🇾 URU — Fase de Grupos - Grupo H
@@ -1616,8 +1616,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-45@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 SUMMARY:🇪🇸 ESP x 🇸🇦 KSA — Fase de Grupos - Grupo H
@@ -1653,8 +1653,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-46@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 SUMMARY:🇺🇾 URU x 🇨🇻 CPV — Fase de Grupos - Grupo H
@@ -1690,8 +1690,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-47@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇨🇻 CPV x 🇸🇦 KSA — Fase de Grupos - Grupo H
@@ -1725,8 +1725,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-48@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:🇺🇾 URU x 🇪🇸 ESP — Fase de Grupos - Grupo H
@@ -1765,8 +1765,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-49@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 SUMMARY:🇫🇷 FRA x 🇸🇳 SEN — Fase de Grupos - Grupo I
@@ -1804,8 +1804,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-50@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 SUMMARY:🇮🇶 IRQ x 🇳🇴 NOR — Fase de Grupos - Grupo I
@@ -1841,8 +1841,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-51@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 SUMMARY:🇫🇷 FRA x 🇮🇶 IRQ — Fase de Grupos - Grupo I
@@ -1878,8 +1878,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-52@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 SUMMARY:🇳🇴 NOR x 🇸🇳 SEN — Fase de Grupos - Grupo I
@@ -1916,8 +1916,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-53@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇳🇴 NOR x 🇫🇷 FRA — Fase de Grupos - Grupo I
@@ -1955,8 +1955,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-54@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 SUMMARY:🇸🇳 SEN x 🇮🇶 IRQ — Fase de Grupos - Grupo I
@@ -1991,8 +1991,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-55@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 SUMMARY:🇦🇷 ARG x 🇩🇿 ALG — Fase de Grupos - Grupo J
@@ -2030,8 +2030,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-56@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 SUMMARY:🇦🇹 AUT x 🇯🇴 JOR — Fase de Grupos - Grupo J
@@ -2066,8 +2066,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-57@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 SUMMARY:🇦🇷 ARG x 🇦🇹 AUT — Fase de Grupos - Grupo J
@@ -2104,8 +2104,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-58@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 SUMMARY:🇯🇴 JOR x 🇩🇿 ALG — Fase de Grupos - Grupo J
@@ -2139,8 +2139,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-59@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇯🇴 JOR x 🇦🇷 ARG — Fase de Grupos - Grupo J
@@ -2176,8 +2176,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-60@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 SUMMARY:🇩🇿 ALG x 🇦🇹 AUT — Fase de Grupos - Grupo J
@@ -2212,8 +2212,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-61@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 SUMMARY:🇵🇹 POR x 🇨🇩 COD — Fase de Grupos - Grupo K
@@ -2251,8 +2251,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-62@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 SUMMARY:🇺🇿 UZB x 🇨🇴 COL — Fase de Grupos - Grupo K
@@ -2288,8 +2288,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-63@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 SUMMARY:🇵🇹 POR x 🇺🇿 UZB — Fase de Grupos - Grupo K
@@ -2325,8 +2325,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-64@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 SUMMARY:🇨🇴 COL x 🇨🇩 COD — Fase de Grupos - Grupo K
@@ -2362,8 +2362,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-65@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇴 COL x 🇵🇹 POR — Fase de Grupos - Grupo K
@@ -2402,8 +2402,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-66@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 SUMMARY:🇨🇩 COD x 🇺🇿 UZB — Fase de Grupos - Grupo K
@@ -2438,8 +2438,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-67@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG x 🇭🇷 CRO — Fase de Grupo
@@ -2478,8 +2478,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-68@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 SUMMARY:🇬🇭 GHA x 🇵🇦 PAN — Fase de Grupos - Grupo L
@@ -2514,8 +2514,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-69@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG x 🇬🇭 GHA — Fase de Grupo
@@ -2552,8 +2552,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-70@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 SUMMARY:🇵🇦 PAN x 🇭🇷 CRO — Fase de Grupos - Grupo L
@@ -2588,8 +2588,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-71@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇵🇦 PAN x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG — Fase de Grupo
@@ -2626,8 +2626,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-72@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 SUMMARY:🇭🇷 CRO x 🇬🇭 GHA — Fase de Grupos - Grupo L
@@ -2663,8 +2663,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-73@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 SUMMARY:🇿🇦 RSA x 🇨🇦 CAN — 16-avos de final
@@ -2697,11 +2697,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-74@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-SUMMARY:🇩🇪 GER x ❓ Melhor 3o (A/B/C/D/F) — 16-avos de final
+SUMMARY:🇩🇪 GER x 🇧🇦 BIH — 16-avos de final
 LOCATION:Gillette Stadium\, Boston (EUA)
 DESCRIPTION:⚽ No Gillette Stadium\, em Boston\, o líder do Grupo E enf
  renta um dos melhores terceiros colocados num duelo que defini quem avan
@@ -2712,21 +2712,27 @@ DESCRIPTION:⚽ No Gillette Stadium\, em Boston\, o líder do Grupo E enf
  mich\, 15. Schlotterbeck\, 18. Brown\, 22. Raum\, 24. Thiaw\n  MEI: 5. P
  avlovic\, 8. Goretzka\, 9. Leweling\, 10. Jamal Musiala\, 13. Groß\, 16
  . Stiller\, 17. Florian Wirtz\, 19. Sané\, 20. Amiri\, 23. Nmecha\, 25.
-  Karl\n  ATA: 7. Kai Havertz\, 11. Woltemade\, 14. Beier\, 26. Undav
+  Karl\n  ATA: 7. Kai Havertz\, 11. Woltemade\, 14. Beier\, 26. Undav\n\n
+ 🇧🇦 Bosnia e Herzegovina (3-5-2 | Tec. Sergej Barbarez)\n  GOL: 1. 
+ Vasilj\, 12. Jurkas\, 22. Zlomislić\n  DEF: 2. Mujakić\, 3. Hadžikadu
+ nic\, 4. Muharemović\, 5. Kolašinac\, 7. Dedić\, 18. Katić\, 21. Rad
+ eljić\, 24. Celik\n  MEI: 6. Tahirović\, 8. Gigović\, 13. Bašić\, 1
+ 4. Šunjić\, 15. Memić\, 16. Hadžiahmetović\, 17. Burnić\, 26. Mahm
+ ić\n  ATA: 9. Bazdar\, 10. Demirović\, 11. Edin Džeko\, 19. Alajbegov
+ ić\, 20. Bajraktarević\, 23. Tabakovic\, 25. Lukić
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: 🇩🇪 GER x ❓ Melhor 3o (A/B/C/D/F) — 16-avo
- s de final
+DESCRIPTION:Lembrete: 🇩🇪 GER x 🇧🇦 BIH — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-75@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 SUMMARY:🇳🇱 NED x 🇲🇦 MAR — 16-avos de final
@@ -2760,8 +2766,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-76@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 SUMMARY:🇧🇷 BRA x 🇯🇵 JPN — 16-avos de final
@@ -2795,11 +2801,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-77@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-SUMMARY:🇫🇷 FRA x ❓ Melhor 3o (C/D/F/G/H) — 16-avos de final
+SUMMARY:🇫🇷 FRA x 🇵🇾 PAR — 16-avos de final
 LOCATION:MetLife Stadium\, Nova York/Nova Jersey (EUA)
 DESCRIPTION:⚽ O MetLife Stadium\, palco da grande final\, recebe seu pr
  imeiro jogo eliminatório da Copa. O líder do Grupo I — potencialment
@@ -2812,21 +2818,26 @@ DESCRIPTION:⚽ O MetLife Stadium\, palco da grande final\, recebe seu pr
  rélien Tchouaméni\, 13. N'Golo Kanté\, 14. Adrien Rabiot\, 18. Warren
   Zaïre-Emery\, 24. Rayan Cherki\, 25. Akliouche\n  ATA: 7. Ousmane Demb
  élé\, 9. Marcus Thuram\, 10. Kylian Mbappé\, 11. Michael Olise\, 12. 
- Bradley Barcola\, 20. Désiré Doué\, 22. Mateta
+ Bradley Barcola\, 20. Désiré Doué\, 22. Mateta\n\n🇵🇾 Paraguai (
+ 4-4-2 | Tec. Gustavo Alfaro)\n  GOL: 1. Fernandez\, 12. O. Gill\, 22. Ol
+ iveira\n  DEF: 2. Velázquez\, 3. Alderete\, 4. Cáceres\, 5. Balbuena\,
+  6. Alonso\, 13. Canale\, 15. G. Gomez\, 26. Maidana\n  MEI: 7. Sosa\, 8
+ . D. Gomez\, 10. Miguel Almirón\, 11. Mauricio\, 14. Cubas\, 16. Bobadi
+ lla\, 20. Ojeda\, 23. Galarza\, 24. Caballero\n  ATA: 9. Sanabria\, 17. 
+ R. Gamarra\, 18. Arce\, 19. Enciso\, 21. Avalos\, 25. Pitta
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: 🇫🇷 FRA x ❓ Melhor 3o (C/D/F/G/H) — 16-avo
- s de final
+DESCRIPTION:Lembrete: 🇫🇷 FRA x 🇵🇾 PAR — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-78@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 SUMMARY:🇨🇮 CIV x 🇳🇴 NOR — 16-avos de final
@@ -2860,11 +2871,11 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-79@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
-SUMMARY:🇲🇽 MEX x ❓ Melhor 3o (C/E/F/H/I) — 16-avos de final
+SUMMARY:🇲🇽 MEX x 🇪🇨 ECU — 16-avos de final
 LOCATION:Estadio Azteca\, Cidade do Mexico (Mexico)
 DESCRIPTION:⚽ O Estádio Azteca\, o mais mítico desta Copa\, recebe um
   jogo do mata-mata. O líder do Grupo A — potencialmente o México dia
@@ -2877,47 +2888,68 @@ DESCRIPTION:⚽ O Estádio Azteca\, o mais mítico desta Copa\, recebe um
  Lira\, 7. L. Romo\, 8. Fidalgo\, 17. Orbelín\, 18. O. Vargas\, 19. G. M
  ora\, 24. L. Chávez\, 26. B. Gutiérrez\n  ATA: 9. Raúl Jiménez\, 10.
   A. Vega\, 11. Santiago Giménez\, 14. A. González\, 16. J. Quiñones\,
-  21. C. Huerta\, 22. G. Martínez\, 25. R. Alvarado
+  21. C. Huerta\, 22. G. Martínez\, 25. R. Alvarado\n\n🇪🇨 Equador 
+ (4-3-3 | Tec. Sebastián Beccacece)\n  GOL: 1. Galíndez\, 12. Ramírez\
+ , 22. Valle\n  DEF: 2. Torres\, 3. Piero Hincapié\, 4. Ordóñez\, 6. P
+ acho\, 7. Pervis Estupiñán\, 17. Preciado\, 25. Porozo\, 26. Medina\n 
+  MEI: 5. Alcívar\, 8. A. Valencia\, 10. Páez\, 14. Minda\, 15. Vite\, 
+ 18. Castillo\, 21. Franco\, 23. Moisés Caicedo\n  ATA: 9. Yeboah Zamora
+ \, 11. Rodríguez\, 13. E. Valencia\, 16. J. Caicedo\, 19. Plata\, 20. A
+ ngulo\, 24. Arévalo
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: 🇲🇽 MEX x ❓ Melhor 3o (C/E/F/H/I) — 16-avo
- s de final
+DESCRIPTION:Lembrete: 🇲🇽 MEX x 🇪🇨 ECU — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-80@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SUMMARY:❓ 1o Grupo L x ❓ Melhor 3o (E/H/I/J/K) — 16-avos de final
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG x 🇸🇳 SEN — 16-avos de fi
+ nal
 LOCATION:Mercedes-Benz Stadium\, Atlanta (EUA)
 DESCRIPTION:⚽ O Mercedes-Benz Stadium de Atlanta recebe um dos 16-avos 
  com maior potencial de público emocionado. O líder do Grupo L — pote
  ncialmente a Inglaterra ou a Croácia — enfrenta um dos melhores terce
- iros no que pode ser um jogo de altíssima intensidade.\n\n(Confronto a 
- definir — sera preenchido conforme a classificacao avanca.)
+ iros no que pode ser um jogo de altíssima intensidade.\n\n📋 PLANTEIS
+ \n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra (4-3-3 | Tec. Thomas Tuchel)\n
+   GOL: 1. Jordan Pickford\, 13. D. Henderson\, 23. James Trafford\n  DEF
+ : 2. Konsa\, 3. O'Reilly\, 5. John Stones\, 6. Marc Guéhi\, 12. Livrame
+ nto\, 15. Burn\, 24. Reece James\, 25. Spence\, 26. Quansah\n  MEI: 4. D
+ eclan Rice\, 8. Anderson\, 10. Jude Bellingham\, 14. Jordan Henderson\, 
+ 16. Kobbie Mainoo\, 17. Rogers\, 21. Eberechi Eze\n  ATA: 7. Bukayo Saka
+ \, 9. Harry Kane\, 11. Marcus Rashford\, 18. Anthony Gordon\, 19. Ollie 
+ Watkins\, 20. Noni Madueke\, 22. Ivan Toney\n\n🇸🇳 Senegal (4-3-3 |
+  Tec. Pape Thiaw)\n  GOL: 1. Y. Diouf\, 16. Édouard Mendy\, 23. Diaw\n 
+  DEF: 2. Ismail Sarr\, 3. Kalidou Koulibaly\, 4. Seck\, 14. Jakobs\, 15.
+  Krépin Diatta\, 19. Niakhate\, 24. A. Mendy\, 25. Diouf\n  MEI: 5. Idr
+ issa Gana Gueye\, 6. P.I. Ciss\, 8. Lamine Camara\, 17. P.M. Sarr\, 21. 
+ H. Diarra\, 22. Bara\, 26. Gana Gueye\n  ATA: 7. Lamine Camara\, 9. B. D
+ ieng\, 10. Sadio Mané\, 11. Nicolas Jackson\, 12. Cherif\, 13. Iliman N
+ diaye\, 18. Ismaïla Sarr\, 20. Mbaye
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: ❓ 1o Grupo L x ❓ Melhor 3o (E/H/I/J/K) — 16-a
- vos de final
+DESCRIPTION:Lembrete: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENG x 🇸🇳 SEN —
+  16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-81@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-SUMMARY:🇺🇸 USA x ❓ Melhor 3o (B/E/F/I/J) — 16-avos de final
+SUMMARY:🇺🇸 USA x 🇸🇪 SWE — 16-avos de final
 LOCATION:Levi's Stadium\, San Francisco (Bay Area) (EUA)
 DESCRIPTION:⚽ O Levi's Stadium\, no Vale do Silício\, recebe um mata-m
  ata entre o líder do Grupo D e um dos melhores terceiros colocados. A s
@@ -2929,24 +2961,29 @@ DESCRIPTION:⚽ O Levi's Stadium\, no Vale do Silício\, recebe um mata-m
  McKenzie\, 23. Scally\n  MEI: 4. Tyler Adams\, 7. Reyna\, 8. McKennie\, 
  14. Berhalter\, 15. Roldan\, 17. Tillman\n  ATA: 9. Pepi\, 10. Christian
   Pulisic\, 11. Aaronson\, 19. Wright\, 20. Balogun\, 21. Weah\, 26. Zend
- ejas
+ ejas\n\n🇸🇪 Suecia (4-4-2 | Tec. Graham Potter)\n  GOL: 1. Zetterst
+ röm\, 12. V. Johansson\, 23. Nordfeldt\n  DEF: 2. Lagerbielke\, 3. Vict
+ or Lindelöf\, 4. Hien\, 5. Gudmundsson\, 6. H. Johansson\, 8. Svensson\
+ , 14. Ekdal\, 15. Starfelt\, 20. Smith\, 21. Bernhardsson\, 24. Stroud\n
+   MEI: 7. Lucas Bergvall\, 10. Nygren\, 13. Sema\, 16. Karlström\, 18. 
+ Ayari\, 19. Svanberg\, 22. Zeneli\n  ATA: 9. Alexander Isak\, 11. Anthon
+ y Elanga\, 17. Viktor Gyökeres\, 25. Nilsson\, 26. Ali
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: 🇺🇸 USA x ❓ Melhor 3o (B/E/F/I/J) — 16-avo
- s de final
+DESCRIPTION:Lembrete: 🇺🇸 USA x 🇸🇪 SWE — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-82@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260702T030000Z
 DTEND:20260702T050000Z
-SUMMARY:🇧🇪 BEL x ❓ Melhor 3o (A/E/H/I/J) — 16-avos de final
+SUMMARY:🇧🇪 BEL x 🇩🇿 ALG — 16-avos de final
 LOCATION:Lumen Field\, Seattle (EUA)
 DESCRIPTION:⚽ O Lumen Field de Seattle\, um dos estádios mais barulhen
  tos desta Copa\, recebe o duelo entre o líder do Grupo G e um dos melho
@@ -2959,47 +2996,65 @@ DESCRIPTION:⚽ O Lumen Field de Seattle\, um dos estádios mais barulhen
  emans\, 19. Moreira\, 20. Hans Vanaken\, 22. Alexis Saelemaekers\, 23. R
  askin\, 24. Onana\n  ATA: 9. Romelu Lukaku\, 10. Leandro Trossard\, 11. 
  Jérémy Doku\, 14. Lukebakio\, 17. Charles De Ketelaere\, 26. Fernandez
- -Pardo
+ -Pardo\n\n🇩🇿 Argelia (4-3-3 | Tec. Vladimir Petkovic)\n  GOL: 1. M
+ astil\, 16. Benbot\, 23. Zidane\n  DEF: 2. Mandi\, 3. Abada\, 4. Tougai\
+ , 5. Belaid\, 13. Hadjam\, 15. Rayan Aït-Nouri\, 17. Belghali\, 21. Ben
+ sebaini\, 26. Chergui\n  MEI: 6. Zerrouki\, 8. Houssem Aouar\, 10. Chaib
+ i\, 14. Boudaoui\, 19. Bentaleb\, 22. Maza\, 24. Titraoui\n  ATA: 7. Riy
+ ad Mahrez\, 9. Ghouri\, 11. Hadj Moussa\, 12. Benbouali\, 18. Said Amour
+ a\, 20. Boulbina\, 25. Ghedjemis
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: 🇧🇪 BEL x ❓ Melhor 3o (A/E/H/I/J) — 16-avo
- s de final
+DESCRIPTION:Lembrete: 🇧🇪 BEL x 🇩🇿 ALG — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-83@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SUMMARY:❓ 2o Grupo K x ❓ 2o Grupo L — 16-avos de final
+SUMMARY:🇵🇹 POR x 🇭🇷 CRO — 16-avos de final
 LOCATION:BMO Field\, Toronto (Canada)
 DESCRIPTION:⚽ O BMO Field de Toronto\, a menor sede desta Copa\, recebe
   um dos 16-avos com mais calor humano. O segundo do Grupo K enfrenta o s
  egundo do Grupo L num confronto que pode reunir Portugal ou Colômbia co
- ntra Inglaterra ou Croácia.\n\n(Confronto a definir — sera preenchido
-  conforme a classificacao avanca.)
+ ntra Inglaterra ou Croácia.\n\n📋 PLANTEIS\n🇵🇹 Portugal (4-3-3 
+ | Tec. Roberto Martínez)\n  GOL: 1. Diogo Costa\, 12. José Sá\, 22. R
+ ui Silva\n  DEF: 2. Nélson Semedo\, 3. Rúben Dias\, 4. Tomás Araújo\
+ , 5. Diogo Dalot\, 13. Renato Veiga\, 14. Gonçalo Inácio\, 20. João C
+ ancelo\, 24. Samu\, 25. Nuno Mendes\n  MEI: 6. Matheus Nunes\, 8. Bruno 
+ Fernandes\, 10. Bernardo Silva\, 15. João Neves\, 21. Rúben Neves\, 23
+ . Vitinha\n  ATA: 7. Cristiano Ronaldo\, 9. Gonçalo Ramos\, 11. João F
+ élix\, 16. Francisco Trincão\, 17. Rafael Leão\, 18. Neto\, 19. Gonç
+ alo Guedes\, 26. Francisco Conceição\n\n🇭🇷 Croacia (4-3-3 | Tec.
+  Zlatko Dalić)\n  GOL: 1. Dominik Livaković\, 12. Pandur\, 23. Kotarsk
+ i\n  DEF: 2. Josip Stanišić\, 3. Pongračić\, 4. Joško Gvardiol\, 5.
+  Duje Čaleta-Car\, 6. Šutalo\, 18. Jakić\, 22. Vušković\, 25. Erli
+ ć\n  MEI: 7. Moro\, 8. Mateo Kovačić\, 10. Luka Modrić\, 13. Nikola 
+ Vlašić\, 15. Mario Pašalić\, 16. Baturina\, 17. Petar Sučić\, 19. 
+ Fruk\, 21. Luka Sučić\n  ATA: 9. Kramarić\, 11. Budimir\, 14. Ivan Pe
+ rišić\, 20. Matanović\, 24. M. Pašalić\, 26. Musa
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: ❓ 2o Grupo K x ❓ 2o Grupo L — 16-avos de fina
- l
+DESCRIPTION:Lembrete: 🇵🇹 POR x 🇭🇷 CRO — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-84@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-SUMMARY:🇪🇸 ESP x ❓ 2o Grupo J — 16-avos de final
+SUMMARY:🇪🇸 ESP x 🇦🇹 AUT — 16-avos de final
 LOCATION:SoFi Stadium\, Los Angeles (EUA)
 DESCRIPTION:⚽ O SoFi de Los Angeles recebe um segundo jogo do mata-mata
   — desta vez o líder do Grupo H (potencialmente a Espanha de Lamine Y
@@ -3012,20 +3067,28 @@ DESCRIPTION:⚽ O SoFi de Los Angeles recebe um segundo jogo do mata-mata
   Cucurella\n  MEI: 6. Mikel Merino\, 8. Fabián Ruiz\, 9. Gavi\, 15. Ale
  x Baena\, 16. Rodri\, 18. Martín Zubimendi\, 20. Pedri\n  ATA: 7. Ferra
  n Torres\, 10. Dani Olmo\, 11. Jeremy\, 17. Nico Williams\, 19. Lamine Y
- amal\, 21. Mikel Oyarzabal\, 25. Víctor Mollejo\, 26. Borja Iglesias
+ amal\, 21. Mikel Oyarzabal\, 25. Víctor Mollejo\, 26. Borja Iglesias\n\
+ n🇦🇹 Austria (4-2-3-1 | Tec. Ralf Rangnick)\n  GOL: 1. Schlager\, 1
+ 2. Wiegele\, 13. Pentz\n  DEF: 2. Affengruber\, 3. Kevin Danso\, 5. Stef
+ an Posch\, 8. David Alaba\, 15. Lienhart\, 16. Mwene\, 23. Friedl\, 25. 
+ Svoboda\n  MEI: 4. Florian Grillitsch\, 6. Nicolas Seiwald\, 9. Marcel S
+ abitzer\, 10. Grillitsch\, 17. Chukwuemeka\, 18. Schmid\, 19. Christoph 
+ Baumgartner\, 20. Konrad Laimer\, 22. Prass\, 24. Wanner\, 26. Schöpf\n
+   ATA: 7. Marko Arnautovic\, 11. Gregoritsch\, 14. Kalajdzic\, 21. Wimme
+ r
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: 🇪🇸 ESP x ❓ 2o Grupo J — 16-avos de final
+DESCRIPTION:Lembrete: 🇪🇸 ESP x 🇦🇹 AUT — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-85@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 SUMMARY:🇨🇭 SUI x ❓ Melhor 3o (E/F/G/I/J) — 16-avos de final
@@ -3052,59 +3115,79 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-86@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SUMMARY:❓ 1o Grupo J x 🇨🇻 CPV — 16-avos de final
+SUMMARY:🇦🇷 ARG x 🇨🇻 CPV — 16-avos de final
 LOCATION:Hard Rock Stadium\, Miami (EUA)
 DESCRIPTION:⚽ O Hard Rock Stadium de Miami recebe um dos confrontos mai
  s aguardados dos 16-avos: o líder do Grupo J (potencialmente a Argentin
  a de Messi) contra o segundo do Grupo H (potencialmente o Uruguai). Um c
- lássico sul-americano em solo americano.\n\n📋 PLANTEIS\n\n🇨🇻 C
- abo Verde (4-3-3 | Tec. Pedro Bubista)\n  GOL: 1. Vozinha\, 12. Márcio\
- , 23. Dos Santos\n  DEF: 2. Stopira\, 3. Borges\, 4. Lopes\, 5. Logan Co
- sta\, 13. Lopes Cabral\, 22. Moreira\, 24. Wagner P.\, 25. Kelvin\n  MEI
- : 6. Kevin Lopes\, 7. Jovane\, 8. João Paulo\, 10. Monteiro\, 11. Rodri
- gues\, 14. D. Duarte\, 15. Duarte\, 16. Y. Semedo\, 17. Semedo\, 18. Arc
- anjo\, 21. Da Costa\, 26. Hélio\n  ATA: 9. Benchimol\, 19. Livramento\,
-  20. Ryan
+ lássico sul-americano em solo americano.\n\n📋 PLANTEIS\n🇦🇷 Arg
+ entina (4-4-2 | Tec. Lionel Scaloni)\n  GOL: 1. Juan Musso\, 12. Germán
+  Rulli\, 23. Emiliano Martínez\n  DEF: 2. Balerdi\, 3. Nicolás Tagliaf
+ ico\, 4. Montiel\, 6. Lisandro Martínez\, 13. Cristian Romero\, 19. Nic
+ olás Otamendi\, 25. Medina\, 26. Nahuel Molina\n  MEI: 5. Leandro Pared
+ es\, 7. Rodrigo De Paul\, 8. Barco\, 11. Lo Celso\, 14. Exequiel Palacio
+ s\, 15. Nicolás González\, 20. Alexis Mac Allister\, 24. Enzo Fernánd
+ ez\n  ATA: 9. Julián Álvarez\, 10. Lionel Messi\, 16. Almada\, 17. Sim
+ eone\, 18. Nico Paz\, 21. López\, 22. Lautaro Martínez\n\n🇨🇻 Cab
+ o Verde (4-3-3 | Tec. Pedro Bubista)\n  GOL: 1. Vozinha\, 12. Márcio\, 
+ 23. Dos Santos\n  DEF: 2. Stopira\, 3. Borges\, 4. Lopes\, 5. Logan Cost
+ a\, 13. Lopes Cabral\, 22. Moreira\, 24. Wagner P.\, 25. Kelvin\n  MEI: 
+ 6. Kevin Lopes\, 7. Jovane\, 8. João Paulo\, 10. Monteiro\, 11. Rodrigu
+ es\, 14. D. Duarte\, 15. Duarte\, 16. Y. Semedo\, 17. Semedo\, 18. Arcan
+ jo\, 21. Da Costa\, 26. Hélio\n  ATA: 9. Benchimol\, 19. Livramento\, 2
+ 0. Ryan
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: ❓ 1o Grupo J x 🇨🇻 CPV — 16-avos de final
+DESCRIPTION:Lembrete: 🇦🇷 ARG x 🇨🇻 CPV — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-87@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SUMMARY:❓ 1o Grupo K x ❓ Melhor 3o (D/E/I/J/L) — 16-avos de final
+SUMMARY:🇨🇴 COL x 🇬🇭 GHA — 16-avos de final
 LOCATION:Arrowhead Stadium\, Kansas City (EUA)
 DESCRIPTION:⚽ O Arrowhead Stadium de Kansas City\, um dos mais barulhen
  tos dos Estados Unidos\, recebe um dos 16-avos com maior potencial de em
  otividade. O líder do Grupo K (potencialmente Portugal com Ronaldo) enf
- renta um dos melhores terceiros colocados.\n\n(Confronto a definir — s
- era preenchido conforme a classificacao avanca.)
+ renta um dos melhores terceiros colocados.\n\n📋 PLANTEIS\n🇨🇴 Co
+ lombia (4-3-3 | Tec. Néstor Lorenzo)\n  GOL: 1. David Ospina\, 12. C. V
+ argas\, 24. Montero\n  DEF: 2. Daniel Muñoz\, 3. Jhon Lucumí\, 4. Aria
+ s\, 13. Yerry Mina\, 14. Puerta\, 17. Johan Mojica\, 18. W. Ditta\, 22. 
+ Machado\, 23. Davinson Sánchez\n  MEI: 5. Kelvin Castaño\, 6. Richard 
+ Rios\, 8. Jorge Carrascal\, 10. James Rodríguez\, 11. Johan Arias\, 15.
+  Portilla\, 16. Jefferson Lerma\, 20. Juan Quintero\n  ATA: 7. Luis Día
+ z\, 9. Córdoba\, 19. C. Hernandez\, 21. Jhon Arias\, 25. Luis Suárez\,
+  26. A. Gómez\n\n🇬🇭 Gana (4-2-3-1 | Tec. Carlos Queiroz)\n  GOL: 
+ 1. Lawrence Ati-Zigi\, 12. Anang\, 16. Asare\n  DEF: 2. Seidu\, 4. Adjet
+ ey\, 6. Suleman\, 14. Mensah\, 17. Abdul Baba Rahman\, 18. Opoku\, 21. P
+ eprah\, 23. Luckassen\, 26. Seneya\n  MEI: 3. Caleb\, 5. Thomas Partey\,
+  8. Sibo\, 11. Antoine Semenyo\, 15. Owusu\, 20. Boakye\n  ATA: 7. Fataw
+ u Issahaku\, 9. Jordan Ayew\, 10. Asante\, 13. Baah\, 19. Iñaki William
+ s\, 22. Kamaldeen Sulemana\, 24. Ernest Nuamah\, 25. Adu
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 CATEGORIES:Copa do Mundo FIFA 2026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Lembrete: ❓ 1o Grupo K x ❓ Melhor 3o (D/E/I/J/L) — 16-a
- vos de final
+DESCRIPTION:Lembrete: 🇨🇴 COL x 🇬🇭 GHA — 16-avos de final
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-88@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 SUMMARY:🇦🇺 AUS x 🇪🇬 EGY — 16-avos de final
@@ -3136,8 +3219,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-89@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:❓ Vencedor jogo 74 x ❓ Vencedor jogo 77 — Oitavas de final
@@ -3160,8 +3243,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-90@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 SUMMARY:❓ Vencedor jogo 73 x ❓ Vencedor jogo 75 — Oitavas de final
@@ -3183,8 +3266,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-91@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:❓ Vencedor jogo 76 x ❓ Vencedor jogo 78 — Oitavas de final
@@ -3206,8 +3289,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-92@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 SUMMARY:❓ Vencedor jogo 79 x ❓ Vencedor jogo 80 — Oitavas de final
@@ -3229,8 +3312,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-93@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 SUMMARY:❓ Vencedor jogo 83 x ❓ Vencedor jogo 84 — Oitavas de final
@@ -3252,8 +3335,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-94@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 SUMMARY:❓ Vencedor jogo 81 x ❓ Vencedor jogo 82 — Oitavas de final
@@ -3275,8 +3358,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-95@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 SUMMARY:❓ Vencedor jogo 86 x ❓ Vencedor jogo 88 — Oitavas de final
@@ -3298,8 +3381,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-96@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 SUMMARY:❓ Vencedor jogo 85 x ❓ Vencedor jogo 87 — Oitavas de final
@@ -3321,8 +3404,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-97@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:❓ Vencedor jogo 89 x ❓ Vencedor jogo 90 — Quartas de final
@@ -3345,8 +3428,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-98@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:❓ Vencedor jogo 93 x ❓ Vencedor jogo 94 — Quartas de final
@@ -3368,8 +3451,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-99@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:❓ Vencedor jogo 91 x ❓ Vencedor jogo 92 — Quartas de final
@@ -3392,8 +3475,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-100@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 SUMMARY:❓ Vencedor jogo 95 x ❓ Vencedor jogo 96 — Quartas de final
@@ -3415,8 +3498,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-101@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 SUMMARY:❓ Vencedor jogo 97 x ❓ Vencedor jogo 98 — Semifinal
@@ -3438,8 +3521,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-102@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 SUMMARY:❓ Vencedor jogo 99 x ❓ Vencedor jogo 100 — Semifinal
@@ -3461,8 +3544,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-103@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 SUMMARY:❓ Perdedor jogo 101 x ❓ Perdedor jogo 102 — Disputa pelo 3o
@@ -3486,8 +3569,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fifa2026-match-104@copa2026
-SEQUENCE:66
-DTSTAMP:20260627T204139Z
+SEQUENCE:72
+DTSTAMP:20260628T083347Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 SUMMARY:❓ Vencedor jogo 101 x ❓ Vencedor jogo 102 — Final
