@@ -8153,6 +8153,11 @@
       "home": 1,
       "away": 1,
       "winner": "MAR"
+    },
+    "78": {
+      "home": 1,
+      "away": 2,
+      "winner": "NOR"
     }
   },
   "thirds": {
