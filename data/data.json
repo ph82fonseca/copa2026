@@ -8158,6 +8158,11 @@
       "home": 1,
       "away": 2,
       "winner": "NOR"
+    },
+    "79": {
+      "home": 2,
+      "away": 0,
+      "winner": "MEX"
     }
   },
   "thirds": {
