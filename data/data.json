@@ -8163,6 +8163,16 @@
       "home": 2,
       "away": 0,
       "winner": "MEX"
+    },
+    "83": {
+      "home": 2,
+      "away": 1,
+      "winner": "POR"
+    },
+    "84": {
+      "home": 3,
+      "away": 0,
+      "winner": "ESP"
     }
   },
   "thirds": {
