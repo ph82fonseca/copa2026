@@ -8173,6 +8173,21 @@
       "home": 3,
       "away": 0,
       "winner": "ESP"
+    },
+    "86": {
+      "home": 3,
+      "away": 2,
+      "winner": "ARG"
+    },
+    "87": {
+      "home": 1,
+      "away": 0,
+      "winner": "COL"
+    },
+    "88": {
+      "home": 1,
+      "away": 1,
+      "winner": "EGY"
     }
   },
   "thirds": {
