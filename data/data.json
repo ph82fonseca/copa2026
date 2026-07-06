@@ -8198,6 +8198,11 @@
       "home": 0,
       "away": 1,
       "winner": "FRA"
+    },
+    "91": {
+      "home": 1,
+      "away": 2,
+      "winner": "NOR"
     }
   },
   "thirds": {
