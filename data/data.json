@@ -8208,6 +8208,11 @@
       "home": 0,
       "away": 1,
       "winner": "ESP"
+    },
+    "95": {
+      "home": 3,
+      "away": 2,
+      "winner": "ARG"
     }
   },
   "thirds": {
